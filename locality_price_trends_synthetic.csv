@@ -1,0 +1,628 @@
+City,Locality,Year,Estimated_Rate_INR_sqft,Data_Status
+Bengaluru,Koramangala,2020,6803.6,Synthetic demo estimate
+Bengaluru,Koramangala,2021,7313.87,Synthetic demo estimate
+Bengaluru,Koramangala,2022,7862.41,Synthetic demo estimate
+Bengaluru,Koramangala,2023,8452.09,Synthetic demo estimate
+Bengaluru,Koramangala,2024,9085.99,Synthetic demo estimate
+Bengaluru,Koramangala,2025,9767.44,Synthetic demo estimate
+Bengaluru,Koramangala,2026,10500.0,Synthetic demo estimate
+Bengaluru,Koramangala,2027,11287.5,Synthetic model projection
+Bengaluru,Koramangala,2028,12134.06,Synthetic model projection
+Bengaluru,Koramangala,2029,13044.12,Synthetic model projection
+Bengaluru,Koramangala,2030,14022.43,Synthetic model projection
+Bengaluru,Whitefield,2020,5054.1,Synthetic demo estimate
+Bengaluru,Whitefield,2021,5433.16,Synthetic demo estimate
+Bengaluru,Whitefield,2022,5840.64,Synthetic demo estimate
+Bengaluru,Whitefield,2023,6278.69,Synthetic demo estimate
+Bengaluru,Whitefield,2024,6749.59,Synthetic demo estimate
+Bengaluru,Whitefield,2025,7255.81,Synthetic demo estimate
+Bengaluru,Whitefield,2026,7800.0,Synthetic demo estimate
+Bengaluru,Whitefield,2027,8385.0,Synthetic model projection
+Bengaluru,Whitefield,2028,9013.88,Synthetic model projection
+Bengaluru,Whitefield,2029,9689.92,Synthetic model projection
+Bengaluru,Whitefield,2030,10416.66,Synthetic model projection
+Bengaluru,Hebbal,2020,5831.65,Synthetic demo estimate
+Bengaluru,Hebbal,2021,6269.03,Synthetic demo estimate
+Bengaluru,Hebbal,2022,6739.2,Synthetic demo estimate
+Bengaluru,Hebbal,2023,7244.65,Synthetic demo estimate
+Bengaluru,Hebbal,2024,7787.99,Synthetic demo estimate
+Bengaluru,Hebbal,2025,8372.09,Synthetic demo estimate
+Bengaluru,Hebbal,2026,9000.0,Synthetic demo estimate
+Bengaluru,Hebbal,2027,9675.0,Synthetic model projection
+Bengaluru,Hebbal,2028,10400.62,Synthetic model projection
+Bengaluru,Hebbal,2029,11180.67,Synthetic model projection
+Bengaluru,Hebbal,2030,12019.22,Synthetic model projection
+Bengaluru,Hoskote,2020,2721.44,Synthetic demo estimate
+Bengaluru,Hoskote,2021,2925.55,Synthetic demo estimate
+Bengaluru,Hoskote,2022,3144.96,Synthetic demo estimate
+Bengaluru,Hoskote,2023,3380.83,Synthetic demo estimate
+Bengaluru,Hoskote,2024,3634.4,Synthetic demo estimate
+Bengaluru,Hoskote,2025,3906.98,Synthetic demo estimate
+Bengaluru,Hoskote,2026,4200.0,Synthetic demo estimate
+Bengaluru,Hoskote,2027,4515.0,Synthetic model projection
+Bengaluru,Hoskote,2028,4853.62,Synthetic model projection
+Bengaluru,Hoskote,2029,5217.65,Synthetic model projection
+Bengaluru,Hoskote,2030,5608.97,Synthetic model projection
+Bengaluru,Electronic City,2020,3628.58,Synthetic demo estimate
+Bengaluru,Electronic City,2021,3900.73,Synthetic demo estimate
+Bengaluru,Electronic City,2022,4193.28,Synthetic demo estimate
+Bengaluru,Electronic City,2023,4507.78,Synthetic demo estimate
+Bengaluru,Electronic City,2024,4845.86,Synthetic demo estimate
+Bengaluru,Electronic City,2025,5209.3,Synthetic demo estimate
+Bengaluru,Electronic City,2026,5600.0,Synthetic demo estimate
+Bengaluru,Electronic City,2027,6020.0,Synthetic model projection
+Bengaluru,Electronic City,2028,6471.5,Synthetic model projection
+Bengaluru,Electronic City,2029,6956.86,Synthetic model projection
+Bengaluru,Electronic City,2030,7478.63,Synthetic model projection
+Bengaluru,Sarjapur Road,2020,4665.32,Synthetic demo estimate
+Bengaluru,Sarjapur Road,2021,5015.22,Synthetic demo estimate
+Bengaluru,Sarjapur Road,2022,5391.36,Synthetic demo estimate
+Bengaluru,Sarjapur Road,2023,5795.72,Synthetic demo estimate
+Bengaluru,Sarjapur Road,2024,6230.39,Synthetic demo estimate
+Bengaluru,Sarjapur Road,2025,6697.67,Synthetic demo estimate
+Bengaluru,Sarjapur Road,2026,7200.0,Synthetic demo estimate
+Bengaluru,Sarjapur Road,2027,7740.0,Synthetic model projection
+Bengaluru,Sarjapur Road,2028,8320.5,Synthetic model projection
+Bengaluru,Sarjapur Road,2029,8944.54,Synthetic model projection
+Bengaluru,Sarjapur Road,2030,9615.38,Synthetic model projection
+Bengaluru,Yelahanka,2020,4211.75,Synthetic demo estimate
+Bengaluru,Yelahanka,2021,4527.63,Synthetic demo estimate
+Bengaluru,Yelahanka,2022,4867.2,Synthetic demo estimate
+Bengaluru,Yelahanka,2023,5232.24,Synthetic demo estimate
+Bengaluru,Yelahanka,2024,5624.66,Synthetic demo estimate
+Bengaluru,Yelahanka,2025,6046.51,Synthetic demo estimate
+Bengaluru,Yelahanka,2026,6500.0,Synthetic demo estimate
+Bengaluru,Yelahanka,2027,6987.5,Synthetic model projection
+Bengaluru,Yelahanka,2028,7511.56,Synthetic model projection
+Bengaluru,Yelahanka,2029,8074.93,Synthetic model projection
+Bengaluru,Yelahanka,2030,8680.55,Synthetic model projection
+Hyderabad,Gachibowli,2020,5663.91,Synthetic demo estimate
+Hyderabad,Gachibowli,2021,6060.38,Synthetic demo estimate
+Hyderabad,Gachibowli,2022,6484.61,Synthetic demo estimate
+Hyderabad,Gachibowli,2023,6938.53,Synthetic demo estimate
+Hyderabad,Gachibowli,2024,7424.23,Synthetic demo estimate
+Hyderabad,Gachibowli,2025,7943.93,Synthetic demo estimate
+Hyderabad,Gachibowli,2026,8500.0,Synthetic demo estimate
+Hyderabad,Gachibowli,2027,9095.0,Synthetic model projection
+Hyderabad,Gachibowli,2028,9731.65,Synthetic model projection
+Hyderabad,Gachibowli,2029,10412.87,Synthetic model projection
+Hyderabad,Gachibowli,2030,11141.77,Synthetic model projection
+Hyderabad,Miyapur,2020,4131.32,Synthetic demo estimate
+Hyderabad,Miyapur,2021,4420.51,Synthetic demo estimate
+Hyderabad,Miyapur,2022,4729.95,Synthetic demo estimate
+Hyderabad,Miyapur,2023,5061.05,Synthetic demo estimate
+Hyderabad,Miyapur,2024,5415.32,Synthetic demo estimate
+Hyderabad,Miyapur,2025,5794.39,Synthetic demo estimate
+Hyderabad,Miyapur,2026,6200.0,Synthetic demo estimate
+Hyderabad,Miyapur,2027,6634.0,Synthetic model projection
+Hyderabad,Miyapur,2028,7098.38,Synthetic model projection
+Hyderabad,Miyapur,2029,7595.27,Synthetic model projection
+Hyderabad,Miyapur,2030,8126.94,Synthetic model projection
+Hyderabad,Kukatpally,2020,4531.13,Synthetic demo estimate
+Hyderabad,Kukatpally,2021,4848.31,Synthetic demo estimate
+Hyderabad,Kukatpally,2022,5187.69,Synthetic demo estimate
+Hyderabad,Kukatpally,2023,5550.83,Synthetic demo estimate
+Hyderabad,Kukatpally,2024,5939.38,Synthetic demo estimate
+Hyderabad,Kukatpally,2025,6355.14,Synthetic demo estimate
+Hyderabad,Kukatpally,2026,6800.0,Synthetic demo estimate
+Hyderabad,Kukatpally,2027,7276.0,Synthetic model projection
+Hyderabad,Kukatpally,2028,7785.32,Synthetic model projection
+Hyderabad,Kukatpally,2029,8330.29,Synthetic model projection
+Hyderabad,Kukatpally,2030,8913.41,Synthetic model projection
+Hyderabad,Uppal,2020,3464.98,Synthetic demo estimate
+Hyderabad,Uppal,2021,3707.53,Synthetic demo estimate
+Hyderabad,Uppal,2022,3967.06,Synthetic demo estimate
+Hyderabad,Uppal,2023,4244.75,Synthetic demo estimate
+Hyderabad,Uppal,2024,4541.88,Synthetic demo estimate
+Hyderabad,Uppal,2025,4859.81,Synthetic demo estimate
+Hyderabad,Uppal,2026,5200.0,Synthetic demo estimate
+Hyderabad,Uppal,2027,5564.0,Synthetic model projection
+Hyderabad,Uppal,2028,5953.48,Synthetic model projection
+Hyderabad,Uppal,2029,6370.22,Synthetic model projection
+Hyderabad,Uppal,2030,6816.14,Synthetic model projection
+Mumbai,Andheri,2020,12336.01,Synthetic demo estimate
+Mumbai,Andheri,2021,13137.86,Synthetic demo estimate
+Mumbai,Andheri,2022,13991.82,Synthetic demo estimate
+Mumbai,Andheri,2023,14901.28,Synthetic demo estimate
+Mumbai,Andheri,2024,15869.87,Synthetic demo estimate
+Mumbai,Andheri,2025,16901.41,Synthetic demo estimate
+Mumbai,Andheri,2026,18000.0,Synthetic demo estimate
+Mumbai,Andheri,2027,19170.0,Synthetic model projection
+Mumbai,Andheri,2028,20416.05,Synthetic model projection
+Mumbai,Andheri,2029,21743.09,Synthetic model projection
+Mumbai,Andheri,2030,23156.39,Synthetic model projection
+Mumbai,Thane,2020,7196.01,Synthetic demo estimate
+Mumbai,Thane,2021,7663.75,Synthetic demo estimate
+Mumbai,Thane,2022,8161.89,Synthetic demo estimate
+Mumbai,Thane,2023,8692.42,Synthetic demo estimate
+Mumbai,Thane,2024,9257.42,Synthetic demo estimate
+Mumbai,Thane,2025,9859.15,Synthetic demo estimate
+Mumbai,Thane,2026,10500.0,Synthetic demo estimate
+Mumbai,Thane,2027,11182.5,Synthetic model projection
+Mumbai,Thane,2028,11909.36,Synthetic model projection
+Mumbai,Thane,2029,12683.47,Synthetic model projection
+Mumbai,Thane,2030,13507.9,Synthetic model projection
+Mumbai,Powai,2020,11308.01,Synthetic demo estimate
+Mumbai,Powai,2021,12043.03,Synthetic demo estimate
+Mumbai,Powai,2022,12825.83,Synthetic demo estimate
+Mumbai,Powai,2023,13659.51,Synthetic demo estimate
+Mumbai,Powai,2024,14547.38,Synthetic demo estimate
+Mumbai,Powai,2025,15492.96,Synthetic demo estimate
+Mumbai,Powai,2026,16500.0,Synthetic demo estimate
+Mumbai,Powai,2027,17572.5,Synthetic model projection
+Mumbai,Powai,2028,18714.71,Synthetic model projection
+Mumbai,Powai,2029,19931.17,Synthetic model projection
+Mumbai,Powai,2030,21226.69,Synthetic model projection
+Mumbai,Navi Mumbai,2020,7881.34,Synthetic demo estimate
+Mumbai,Navi Mumbai,2021,8393.63,Synthetic demo estimate
+Mumbai,Navi Mumbai,2022,8939.22,Synthetic demo estimate
+Mumbai,Navi Mumbai,2023,9520.26,Synthetic demo estimate
+Mumbai,Navi Mumbai,2024,10139.08,Synthetic demo estimate
+Mumbai,Navi Mumbai,2025,10798.12,Synthetic demo estimate
+Mumbai,Navi Mumbai,2026,11500.0,Synthetic demo estimate
+Mumbai,Navi Mumbai,2027,12247.5,Synthetic model projection
+Mumbai,Navi Mumbai,2028,13043.59,Synthetic model projection
+Mumbai,Navi Mumbai,2029,13891.42,Synthetic model projection
+Mumbai,Navi Mumbai,2030,14794.36,Synthetic model projection
+Delhi,Dwarka,2020,6697.13,Synthetic demo estimate
+Delhi,Dwarka,2021,7098.95,Synthetic demo estimate
+Delhi,Dwarka,2022,7524.89,Synthetic demo estimate
+Delhi,Dwarka,2023,7976.38,Synthetic demo estimate
+Delhi,Dwarka,2024,8454.97,Synthetic demo estimate
+Delhi,Dwarka,2025,8962.26,Synthetic demo estimate
+Delhi,Dwarka,2026,9500.0,Synthetic demo estimate
+Delhi,Dwarka,2027,10070.0,Synthetic model projection
+Delhi,Dwarka,2028,10674.2,Synthetic model projection
+Delhi,Dwarka,2029,11314.65,Synthetic model projection
+Delhi,Dwarka,2030,11993.53,Synthetic model projection
+Delhi,Rohini,2020,5992.16,Synthetic demo estimate
+Delhi,Rohini,2021,6351.69,Synthetic demo estimate
+Delhi,Rohini,2022,6732.8,Synthetic demo estimate
+Delhi,Rohini,2023,7136.76,Synthetic demo estimate
+Delhi,Rohini,2024,7564.97,Synthetic demo estimate
+Delhi,Rohini,2025,8018.87,Synthetic demo estimate
+Delhi,Rohini,2026,8500.0,Synthetic demo estimate
+Delhi,Rohini,2027,9010.0,Synthetic model projection
+Delhi,Rohini,2028,9550.6,Synthetic model projection
+Delhi,Rohini,2029,10123.64,Synthetic model projection
+Delhi,Rohini,2030,10731.05,Synthetic model projection
+Delhi,Saket,2020,10574.41,Synthetic demo estimate
+Delhi,Saket,2021,11208.87,Synthetic demo estimate
+Delhi,Saket,2022,11881.4,Synthetic demo estimate
+Delhi,Saket,2023,12594.29,Synthetic demo estimate
+Delhi,Saket,2024,13349.95,Synthetic demo estimate
+Delhi,Saket,2025,14150.94,Synthetic demo estimate
+Delhi,Saket,2026,15000.0,Synthetic demo estimate
+Delhi,Saket,2027,15900.0,Synthetic model projection
+Delhi,Saket,2028,16854.0,Synthetic model projection
+Delhi,Saket,2029,17865.24,Synthetic model projection
+Delhi,Saket,2030,18937.15,Synthetic model projection
+Delhi,Uttam Nagar,2020,4582.24,Synthetic demo estimate
+Delhi,Uttam Nagar,2021,4857.18,Synthetic demo estimate
+Delhi,Uttam Nagar,2022,5148.61,Synthetic demo estimate
+Delhi,Uttam Nagar,2023,5457.53,Synthetic demo estimate
+Delhi,Uttam Nagar,2024,5784.98,Synthetic demo estimate
+Delhi,Uttam Nagar,2025,6132.08,Synthetic demo estimate
+Delhi,Uttam Nagar,2026,6500.0,Synthetic demo estimate
+Delhi,Uttam Nagar,2027,6890.0,Synthetic model projection
+Delhi,Uttam Nagar,2028,7303.4,Synthetic model projection
+Delhi,Uttam Nagar,2029,7741.6,Synthetic model projection
+Delhi,Uttam Nagar,2030,8206.1,Synthetic model projection
+Chennai,OMR,2020,4582.24,Synthetic demo estimate
+Chennai,OMR,2021,4857.18,Synthetic demo estimate
+Chennai,OMR,2022,5148.61,Synthetic demo estimate
+Chennai,OMR,2023,5457.53,Synthetic demo estimate
+Chennai,OMR,2024,5784.98,Synthetic demo estimate
+Chennai,OMR,2025,6132.08,Synthetic demo estimate
+Chennai,OMR,2026,6500.0,Synthetic demo estimate
+Chennai,OMR,2027,6890.0,Synthetic model projection
+Chennai,OMR,2028,7303.4,Synthetic model projection
+Chennai,OMR,2029,7741.6,Synthetic model projection
+Chennai,OMR,2030,8206.1,Synthetic model projection
+Chennai,Velachery,2020,5780.68,Synthetic demo estimate
+Chennai,Velachery,2021,6127.52,Synthetic demo estimate
+Chennai,Velachery,2022,6495.17,Synthetic demo estimate
+Chennai,Velachery,2023,6884.88,Synthetic demo estimate
+Chennai,Velachery,2024,7297.97,Synthetic demo estimate
+Chennai,Velachery,2025,7735.85,Synthetic demo estimate
+Chennai,Velachery,2026,8200.0,Synthetic demo estimate
+Chennai,Velachery,2027,8692.0,Synthetic model projection
+Chennai,Velachery,2028,9213.52,Synthetic model projection
+Chennai,Velachery,2029,9766.33,Synthetic model projection
+Chennai,Velachery,2030,10352.31,Synthetic model projection
+Chennai,Anna Nagar,2020,8812.01,Synthetic demo estimate
+Chennai,Anna Nagar,2021,9340.73,Synthetic demo estimate
+Chennai,Anna Nagar,2022,9901.17,Synthetic demo estimate
+Chennai,Anna Nagar,2023,10495.24,Synthetic demo estimate
+Chennai,Anna Nagar,2024,11124.96,Synthetic demo estimate
+Chennai,Anna Nagar,2025,11792.45,Synthetic demo estimate
+Chennai,Anna Nagar,2026,12500.0,Synthetic demo estimate
+Chennai,Anna Nagar,2027,13250.0,Synthetic model projection
+Chennai,Anna Nagar,2028,14045.0,Synthetic model projection
+Chennai,Anna Nagar,2029,14887.7,Synthetic model projection
+Chennai,Anna Nagar,2030,15780.96,Synthetic model projection
+Chennai,Tambaram,2020,3877.28,Synthetic demo estimate
+Chennai,Tambaram,2021,4109.92,Synthetic demo estimate
+Chennai,Tambaram,2022,4356.52,Synthetic demo estimate
+Chennai,Tambaram,2023,4617.91,Synthetic demo estimate
+Chennai,Tambaram,2024,4894.98,Synthetic demo estimate
+Chennai,Tambaram,2025,5188.68,Synthetic demo estimate
+Chennai,Tambaram,2026,5500.0,Synthetic demo estimate
+Chennai,Tambaram,2027,5830.0,Synthetic model projection
+Chennai,Tambaram,2028,6179.8,Synthetic model projection
+Chennai,Tambaram,2029,6550.59,Synthetic model projection
+Chennai,Tambaram,2030,6943.62,Synthetic model projection
+Pune,Hinjewadi,2020,4454.67,Synthetic demo estimate
+Pune,Hinjewadi,2021,4744.23,Synthetic demo estimate
+Pune,Hinjewadi,2022,5052.6,Synthetic demo estimate
+Pune,Hinjewadi,2023,5381.02,Synthetic demo estimate
+Pune,Hinjewadi,2024,5730.79,Synthetic demo estimate
+Pune,Hinjewadi,2025,6103.29,Synthetic demo estimate
+Pune,Hinjewadi,2026,6500.0,Synthetic demo estimate
+Pune,Hinjewadi,2027,6922.5,Synthetic model projection
+Pune,Hinjewadi,2028,7372.46,Synthetic model projection
+Pune,Hinjewadi,2029,7851.67,Synthetic model projection
+Pune,Hinjewadi,2030,8362.03,Synthetic model projection
+Pune,Wakad,2020,5345.61,Synthetic demo estimate
+Pune,Wakad,2021,5693.07,Synthetic demo estimate
+Pune,Wakad,2022,6063.12,Synthetic demo estimate
+Pune,Wakad,2023,6457.22,Synthetic demo estimate
+Pune,Wakad,2024,6876.94,Synthetic demo estimate
+Pune,Wakad,2025,7323.94,Synthetic demo estimate
+Pune,Wakad,2026,7800.0,Synthetic demo estimate
+Pune,Wakad,2027,8307.0,Synthetic model projection
+Pune,Wakad,2028,8846.95,Synthetic model projection
+Pune,Wakad,2029,9422.01,Synthetic model projection
+Pune,Wakad,2030,10034.44,Synthetic model projection
+Pune,Baner,2020,7196.01,Synthetic demo estimate
+Pune,Baner,2021,7663.75,Synthetic demo estimate
+Pune,Baner,2022,8161.89,Synthetic demo estimate
+Pune,Baner,2023,8692.42,Synthetic demo estimate
+Pune,Baner,2024,9257.42,Synthetic demo estimate
+Pune,Baner,2025,9859.15,Synthetic demo estimate
+Pune,Baner,2026,10500.0,Synthetic demo estimate
+Pune,Baner,2027,11182.5,Synthetic model projection
+Pune,Baner,2028,11909.36,Synthetic model projection
+Pune,Baner,2029,12683.47,Synthetic model projection
+Pune,Baner,2030,13507.9,Synthetic model projection
+Pune,Hadapsar,2020,4934.41,Synthetic demo estimate
+Pune,Hadapsar,2021,5255.14,Synthetic demo estimate
+Pune,Hadapsar,2022,5596.73,Synthetic demo estimate
+Pune,Hadapsar,2023,5960.51,Synthetic demo estimate
+Pune,Hadapsar,2024,6347.95,Synthetic demo estimate
+Pune,Hadapsar,2025,6760.56,Synthetic demo estimate
+Pune,Hadapsar,2026,7200.0,Synthetic demo estimate
+Pune,Hadapsar,2027,7668.0,Synthetic model projection
+Pune,Hadapsar,2028,8166.42,Synthetic model projection
+Pune,Hadapsar,2029,8697.24,Synthetic model projection
+Pune,Hadapsar,2030,9262.56,Synthetic model projection
+Kolkata,New Town,2020,4850.4,Synthetic demo estimate
+Kolkata,New Town,2021,5092.92,Synthetic demo estimate
+Kolkata,New Town,2022,5347.57,Synthetic demo estimate
+Kolkata,New Town,2023,5614.94,Synthetic demo estimate
+Kolkata,New Town,2024,5895.69,Synthetic demo estimate
+Kolkata,New Town,2025,6190.48,Synthetic demo estimate
+Kolkata,New Town,2026,6500.0,Synthetic demo estimate
+Kolkata,New Town,2027,6825.0,Synthetic model projection
+Kolkata,New Town,2028,7166.25,Synthetic model projection
+Kolkata,New Town,2029,7524.56,Synthetic model projection
+Kolkata,New Town,2030,7900.79,Synthetic model projection
+Kolkata,Salt Lake,2020,7089.05,Synthetic demo estimate
+Kolkata,Salt Lake,2021,7443.5,Synthetic demo estimate
+Kolkata,Salt Lake,2022,7815.67,Synthetic demo estimate
+Kolkata,Salt Lake,2023,8206.46,Synthetic demo estimate
+Kolkata,Salt Lake,2024,8616.78,Synthetic demo estimate
+Kolkata,Salt Lake,2025,9047.62,Synthetic demo estimate
+Kolkata,Salt Lake,2026,9500.0,Synthetic demo estimate
+Kolkata,Salt Lake,2027,9975.0,Synthetic model projection
+Kolkata,Salt Lake,2028,10473.75,Synthetic model projection
+Kolkata,Salt Lake,2029,10997.44,Synthetic model projection
+Kolkata,Salt Lake,2030,11547.31,Synthetic model projection
+Kolkata,Tollygunge,2020,5596.62,Synthetic demo estimate
+Kolkata,Tollygunge,2021,5876.45,Synthetic demo estimate
+Kolkata,Tollygunge,2022,6170.27,Synthetic demo estimate
+Kolkata,Tollygunge,2023,6478.78,Synthetic demo estimate
+Kolkata,Tollygunge,2024,6802.72,Synthetic demo estimate
+Kolkata,Tollygunge,2025,7142.86,Synthetic demo estimate
+Kolkata,Tollygunge,2026,7500.0,Synthetic demo estimate
+Kolkata,Tollygunge,2027,7875.0,Synthetic model projection
+Kolkata,Tollygunge,2028,8268.75,Synthetic model projection
+Kolkata,Tollygunge,2029,8682.19,Synthetic model projection
+Kolkata,Tollygunge,2030,9116.3,Synthetic model projection
+Kolkata,Howrah,2020,3581.83,Synthetic demo estimate
+Kolkata,Howrah,2021,3760.93,Synthetic demo estimate
+Kolkata,Howrah,2022,3948.97,Synthetic demo estimate
+Kolkata,Howrah,2023,4146.42,Synthetic demo estimate
+Kolkata,Howrah,2024,4353.74,Synthetic demo estimate
+Kolkata,Howrah,2025,4571.43,Synthetic demo estimate
+Kolkata,Howrah,2026,4800.0,Synthetic demo estimate
+Kolkata,Howrah,2027,5040.0,Synthetic model projection
+Kolkata,Howrah,2028,5292.0,Synthetic model projection
+Kolkata,Howrah,2029,5556.6,Synthetic model projection
+Kolkata,Howrah,2030,5834.43,Synthetic model projection
+Ahmedabad,Satellite,2020,6164.59,Synthetic demo estimate
+Ahmedabad,Satellite,2021,6503.64,Synthetic demo estimate
+Ahmedabad,Satellite,2022,6861.34,Synthetic demo estimate
+Ahmedabad,Satellite,2023,7238.72,Synthetic demo estimate
+Ahmedabad,Satellite,2024,7636.85,Synthetic demo estimate
+Ahmedabad,Satellite,2025,8056.87,Synthetic demo estimate
+Ahmedabad,Satellite,2026,8500.0,Synthetic demo estimate
+Ahmedabad,Satellite,2027,8967.5,Synthetic model projection
+Ahmedabad,Satellite,2028,9460.71,Synthetic model projection
+Ahmedabad,Satellite,2029,9981.05,Synthetic model projection
+Ahmedabad,Satellite,2030,10530.01,Synthetic model projection
+Ahmedabad,Bopal,2020,4351.47,Synthetic demo estimate
+Ahmedabad,Bopal,2021,4590.81,Synthetic demo estimate
+Ahmedabad,Bopal,2022,4843.3,Synthetic demo estimate
+Ahmedabad,Bopal,2023,5109.68,Synthetic demo estimate
+Ahmedabad,Bopal,2024,5390.71,Synthetic demo estimate
+Ahmedabad,Bopal,2025,5687.2,Synthetic demo estimate
+Ahmedabad,Bopal,2026,6000.0,Synthetic demo estimate
+Ahmedabad,Bopal,2027,6330.0,Synthetic model projection
+Ahmedabad,Bopal,2028,6678.15,Synthetic model projection
+Ahmedabad,Bopal,2029,7045.45,Synthetic model projection
+Ahmedabad,Bopal,2030,7432.95,Synthetic model projection
+Ahmedabad,SG Highway,2020,5221.77,Synthetic demo estimate
+Ahmedabad,SG Highway,2021,5508.97,Synthetic demo estimate
+Ahmedabad,SG Highway,2022,5811.96,Synthetic demo estimate
+Ahmedabad,SG Highway,2023,6131.62,Synthetic demo estimate
+Ahmedabad,SG Highway,2024,6468.86,Synthetic demo estimate
+Ahmedabad,SG Highway,2025,6824.64,Synthetic demo estimate
+Ahmedabad,SG Highway,2026,7200.0,Synthetic demo estimate
+Ahmedabad,SG Highway,2027,7596.0,Synthetic model projection
+Ahmedabad,SG Highway,2028,8013.78,Synthetic model projection
+Ahmedabad,SG Highway,2029,8454.54,Synthetic model projection
+Ahmedabad,SG Highway,2030,8919.54,Synthetic model projection
+Ahmedabad,Maninagar,2020,3988.85,Synthetic demo estimate
+Ahmedabad,Maninagar,2021,4208.24,Synthetic demo estimate
+Ahmedabad,Maninagar,2022,4439.69,Synthetic demo estimate
+Ahmedabad,Maninagar,2023,4683.88,Synthetic demo estimate
+Ahmedabad,Maninagar,2024,4941.49,Synthetic demo estimate
+Ahmedabad,Maninagar,2025,5213.27,Synthetic demo estimate
+Ahmedabad,Maninagar,2026,5500.0,Synthetic demo estimate
+Ahmedabad,Maninagar,2027,5802.5,Synthetic model projection
+Ahmedabad,Maninagar,2028,6121.64,Synthetic model projection
+Ahmedabad,Maninagar,2029,6458.33,Synthetic model projection
+Ahmedabad,Maninagar,2030,6813.54,Synthetic model projection
+Jaipur,Vaishali Nagar,2020,4496.52,Synthetic demo estimate
+Jaipur,Vaishali Nagar,2021,4743.83,Synthetic demo estimate
+Jaipur,Vaishali Nagar,2022,5004.74,Synthetic demo estimate
+Jaipur,Vaishali Nagar,2023,5280.0,Synthetic demo estimate
+Jaipur,Vaishali Nagar,2024,5570.4,Synthetic demo estimate
+Jaipur,Vaishali Nagar,2025,5876.78,Synthetic demo estimate
+Jaipur,Vaishali Nagar,2026,6200.0,Synthetic demo estimate
+Jaipur,Vaishali Nagar,2027,6541.0,Synthetic model projection
+Jaipur,Vaishali Nagar,2028,6900.75,Synthetic model projection
+Jaipur,Vaishali Nagar,2029,7280.3,Synthetic model projection
+Jaipur,Vaishali Nagar,2030,7680.71,Synthetic model projection
+Jaipur,Malviya Nagar,2020,5439.34,Synthetic demo estimate
+Jaipur,Malviya Nagar,2021,5738.51,Synthetic demo estimate
+Jaipur,Malviya Nagar,2022,6054.13,Synthetic demo estimate
+Jaipur,Malviya Nagar,2023,6387.1,Synthetic demo estimate
+Jaipur,Malviya Nagar,2024,6738.39,Synthetic demo estimate
+Jaipur,Malviya Nagar,2025,7109.0,Synthetic demo estimate
+Jaipur,Malviya Nagar,2026,7500.0,Synthetic demo estimate
+Jaipur,Malviya Nagar,2027,7912.5,Synthetic model projection
+Jaipur,Malviya Nagar,2028,8347.69,Synthetic model projection
+Jaipur,Malviya Nagar,2029,8806.81,Synthetic model projection
+Jaipur,Malviya Nagar,2030,9291.18,Synthetic model projection
+Jaipur,Jagatpura,2020,3481.18,Synthetic demo estimate
+Jaipur,Jagatpura,2021,3672.64,Synthetic demo estimate
+Jaipur,Jagatpura,2022,3874.64,Synthetic demo estimate
+Jaipur,Jagatpura,2023,4087.75,Synthetic demo estimate
+Jaipur,Jagatpura,2024,4312.57,Synthetic demo estimate
+Jaipur,Jagatpura,2025,4549.76,Synthetic demo estimate
+Jaipur,Jagatpura,2026,4800.0,Synthetic demo estimate
+Jaipur,Jagatpura,2027,5064.0,Synthetic model projection
+Jaipur,Jagatpura,2028,5342.52,Synthetic model projection
+Jaipur,Jagatpura,2029,5636.36,Synthetic model projection
+Jaipur,Jagatpura,2030,5946.36,Synthetic model projection
+Kochi,Kakkanad,2020,4714.1,Synthetic demo estimate
+Kochi,Kakkanad,2021,4973.37,Synthetic demo estimate
+Kochi,Kakkanad,2022,5246.91,Synthetic demo estimate
+Kochi,Kakkanad,2023,5535.49,Synthetic demo estimate
+Kochi,Kakkanad,2024,5839.94,Synthetic demo estimate
+Kochi,Kakkanad,2025,6161.14,Synthetic demo estimate
+Kochi,Kakkanad,2026,6500.0,Synthetic demo estimate
+Kochi,Kakkanad,2027,6857.5,Synthetic model projection
+Kochi,Kakkanad,2028,7234.66,Synthetic model projection
+Kochi,Kakkanad,2029,7632.57,Synthetic model projection
+Kochi,Kakkanad,2030,8052.36,Synthetic model projection
+Kochi,Edappally,2020,5656.92,Synthetic demo estimate
+Kochi,Edappally,2021,5968.05,Synthetic demo estimate
+Kochi,Edappally,2022,6296.29,Synthetic demo estimate
+Kochi,Edappally,2023,6642.59,Synthetic demo estimate
+Kochi,Edappally,2024,7007.93,Synthetic demo estimate
+Kochi,Edappally,2025,7393.36,Synthetic demo estimate
+Kochi,Edappally,2026,7800.0,Synthetic demo estimate
+Kochi,Edappally,2027,8229.0,Synthetic model projection
+Kochi,Edappally,2028,8681.59,Synthetic model projection
+Kochi,Edappally,2029,9159.08,Synthetic model projection
+Kochi,Edappally,2030,9662.83,Synthetic model projection
+Kochi,Vyttila,2020,5221.77,Synthetic demo estimate
+Kochi,Vyttila,2021,5508.97,Synthetic demo estimate
+Kochi,Vyttila,2022,5811.96,Synthetic demo estimate
+Kochi,Vyttila,2023,6131.62,Synthetic demo estimate
+Kochi,Vyttila,2024,6468.86,Synthetic demo estimate
+Kochi,Vyttila,2025,6824.64,Synthetic demo estimate
+Kochi,Vyttila,2026,7200.0,Synthetic demo estimate
+Kochi,Vyttila,2027,7596.0,Synthetic model projection
+Kochi,Vyttila,2028,8013.78,Synthetic model projection
+Kochi,Vyttila,2029,8454.54,Synthetic model projection
+Kochi,Vyttila,2030,8919.54,Synthetic model projection
+Kochi,Aluva,2020,3481.18,Synthetic demo estimate
+Kochi,Aluva,2021,3672.64,Synthetic demo estimate
+Kochi,Aluva,2022,3874.64,Synthetic demo estimate
+Kochi,Aluva,2023,4087.75,Synthetic demo estimate
+Kochi,Aluva,2024,4312.57,Synthetic demo estimate
+Kochi,Aluva,2025,4549.76,Synthetic demo estimate
+Kochi,Aluva,2026,4800.0,Synthetic demo estimate
+Kochi,Aluva,2027,5064.0,Synthetic model projection
+Kochi,Aluva,2028,5342.52,Synthetic model projection
+Kochi,Aluva,2029,5636.36,Synthetic model projection
+Kochi,Aluva,2030,5946.36,Synthetic model projection
+Coimbatore,Saravanampatti,2020,3880.32,Synthetic demo estimate
+Coimbatore,Saravanampatti,2021,4074.34,Synthetic demo estimate
+Coimbatore,Saravanampatti,2022,4278.05,Synthetic demo estimate
+Coimbatore,Saravanampatti,2023,4491.96,Synthetic demo estimate
+Coimbatore,Saravanampatti,2024,4716.55,Synthetic demo estimate
+Coimbatore,Saravanampatti,2025,4952.38,Synthetic demo estimate
+Coimbatore,Saravanampatti,2026,5200.0,Synthetic demo estimate
+Coimbatore,Saravanampatti,2027,5460.0,Synthetic model projection
+Coimbatore,Saravanampatti,2028,5733.0,Synthetic model projection
+Coimbatore,Saravanampatti,2029,6019.65,Synthetic model projection
+Coimbatore,Saravanampatti,2030,6320.63,Synthetic model projection
+Coimbatore,RS Puram,2020,6342.83,Synthetic demo estimate
+Coimbatore,RS Puram,2021,6659.97,Synthetic demo estimate
+Coimbatore,RS Puram,2022,6992.97,Synthetic demo estimate
+Coimbatore,RS Puram,2023,7342.62,Synthetic demo estimate
+Coimbatore,RS Puram,2024,7709.75,Synthetic demo estimate
+Coimbatore,RS Puram,2025,8095.24,Synthetic demo estimate
+Coimbatore,RS Puram,2026,8500.0,Synthetic demo estimate
+Coimbatore,RS Puram,2027,8925.0,Synthetic model projection
+Coimbatore,RS Puram,2028,9371.25,Synthetic model projection
+Coimbatore,RS Puram,2029,9839.81,Synthetic model projection
+Coimbatore,RS Puram,2030,10331.8,Synthetic model projection
+Coimbatore,Peelamedu,2020,4626.54,Synthetic demo estimate
+Coimbatore,Peelamedu,2021,4857.86,Synthetic demo estimate
+Coimbatore,Peelamedu,2022,5100.76,Synthetic demo estimate
+Coimbatore,Peelamedu,2023,5355.79,Synthetic demo estimate
+Coimbatore,Peelamedu,2024,5623.58,Synthetic demo estimate
+Coimbatore,Peelamedu,2025,5904.76,Synthetic demo estimate
+Coimbatore,Peelamedu,2026,6200.0,Synthetic demo estimate
+Coimbatore,Peelamedu,2027,6510.0,Synthetic model projection
+Coimbatore,Peelamedu,2028,6835.5,Synthetic model projection
+Coimbatore,Peelamedu,2029,7177.28,Synthetic model projection
+Coimbatore,Peelamedu,2030,7536.14,Synthetic model projection
+Lucknow,Gomti Nagar,2020,5074.26,Synthetic demo estimate
+Lucknow,Gomti Nagar,2021,5327.98,Synthetic demo estimate
+Lucknow,Gomti Nagar,2022,5594.38,Synthetic demo estimate
+Lucknow,Gomti Nagar,2023,5874.1,Synthetic demo estimate
+Lucknow,Gomti Nagar,2024,6167.8,Synthetic demo estimate
+Lucknow,Gomti Nagar,2025,6476.19,Synthetic demo estimate
+Lucknow,Gomti Nagar,2026,6800.0,Synthetic demo estimate
+Lucknow,Gomti Nagar,2027,7140.0,Synthetic model projection
+Lucknow,Gomti Nagar,2028,7497.0,Synthetic model projection
+Lucknow,Gomti Nagar,2029,7871.85,Synthetic model projection
+Lucknow,Gomti Nagar,2030,8265.44,Synthetic model projection
+Lucknow,Aliganj,2020,4477.29,Synthetic demo estimate
+Lucknow,Aliganj,2021,4701.16,Synthetic demo estimate
+Lucknow,Aliganj,2022,4936.21,Synthetic demo estimate
+Lucknow,Aliganj,2023,5183.03,Synthetic demo estimate
+Lucknow,Aliganj,2024,5442.18,Synthetic demo estimate
+Lucknow,Aliganj,2025,5714.29,Synthetic demo estimate
+Lucknow,Aliganj,2026,6000.0,Synthetic demo estimate
+Lucknow,Aliganj,2027,6300.0,Synthetic model projection
+Lucknow,Aliganj,2028,6615.0,Synthetic model projection
+Lucknow,Aliganj,2029,6945.75,Synthetic model projection
+Lucknow,Aliganj,2030,7293.04,Synthetic model projection
+Lucknow,Sushant Golf City,2020,4104.18,Synthetic demo estimate
+Lucknow,Sushant Golf City,2021,4309.39,Synthetic demo estimate
+Lucknow,Sushant Golf City,2022,4524.86,Synthetic demo estimate
+Lucknow,Sushant Golf City,2023,4751.11,Synthetic demo estimate
+Lucknow,Sushant Golf City,2024,4988.66,Synthetic demo estimate
+Lucknow,Sushant Golf City,2025,5238.1,Synthetic demo estimate
+Lucknow,Sushant Golf City,2026,5500.0,Synthetic demo estimate
+Lucknow,Sushant Golf City,2027,5775.0,Synthetic model projection
+Lucknow,Sushant Golf City,2028,6063.75,Synthetic model projection
+Lucknow,Sushant Golf City,2029,6366.94,Synthetic model projection
+Lucknow,Sushant Golf City,2030,6685.28,Synthetic model projection
+Indore,Vijay Nagar,2020,4850.4,Synthetic demo estimate
+Indore,Vijay Nagar,2021,5092.92,Synthetic demo estimate
+Indore,Vijay Nagar,2022,5347.57,Synthetic demo estimate
+Indore,Vijay Nagar,2023,5614.94,Synthetic demo estimate
+Indore,Vijay Nagar,2024,5895.69,Synthetic demo estimate
+Indore,Vijay Nagar,2025,6190.48,Synthetic demo estimate
+Indore,Vijay Nagar,2026,6500.0,Synthetic demo estimate
+Indore,Vijay Nagar,2027,6825.0,Synthetic model projection
+Indore,Vijay Nagar,2028,7166.25,Synthetic model projection
+Indore,Vijay Nagar,2029,7524.56,Synthetic model projection
+Indore,Vijay Nagar,2030,7900.79,Synthetic model projection
+Indore,Rau,2020,3134.1,Synthetic demo estimate
+Indore,Rau,2021,3290.81,Synthetic demo estimate
+Indore,Rau,2022,3455.35,Synthetic demo estimate
+Indore,Rau,2023,3628.12,Synthetic demo estimate
+Indore,Rau,2024,3809.52,Synthetic demo estimate
+Indore,Rau,2025,4000.0,Synthetic demo estimate
+Indore,Rau,2026,4200.0,Synthetic demo estimate
+Indore,Rau,2027,4410.0,Synthetic model projection
+Indore,Rau,2028,4630.5,Synthetic model projection
+Indore,Rau,2029,4862.03,Synthetic model projection
+Indore,Rau,2030,5105.13,Synthetic model projection
+Indore,Palasia,2020,5969.72,Synthetic demo estimate
+Indore,Palasia,2021,6268.21,Synthetic demo estimate
+Indore,Palasia,2022,6581.62,Synthetic demo estimate
+Indore,Palasia,2023,6910.7,Synthetic demo estimate
+Indore,Palasia,2024,7256.24,Synthetic demo estimate
+Indore,Palasia,2025,7619.05,Synthetic demo estimate
+Indore,Palasia,2026,8000.0,Synthetic demo estimate
+Indore,Palasia,2027,8400.0,Synthetic model projection
+Indore,Palasia,2028,8820.0,Synthetic model projection
+Indore,Palasia,2029,9261.0,Synthetic model projection
+Indore,Palasia,2030,9724.05,Synthetic model projection
+Visakhapatnam,Madhurawada,2020,3880.32,Synthetic demo estimate
+Visakhapatnam,Madhurawada,2021,4074.34,Synthetic demo estimate
+Visakhapatnam,Madhurawada,2022,4278.05,Synthetic demo estimate
+Visakhapatnam,Madhurawada,2023,4491.96,Synthetic demo estimate
+Visakhapatnam,Madhurawada,2024,4716.55,Synthetic demo estimate
+Visakhapatnam,Madhurawada,2025,4952.38,Synthetic demo estimate
+Visakhapatnam,Madhurawada,2026,5200.0,Synthetic demo estimate
+Visakhapatnam,Madhurawada,2027,5460.0,Synthetic model projection
+Visakhapatnam,Madhurawada,2028,5733.0,Synthetic model projection
+Visakhapatnam,Madhurawada,2029,6019.65,Synthetic model projection
+Visakhapatnam,Madhurawada,2030,6320.63,Synthetic model projection
+Visakhapatnam,MVP Colony,2020,6342.83,Synthetic demo estimate
+Visakhapatnam,MVP Colony,2021,6659.97,Synthetic demo estimate
+Visakhapatnam,MVP Colony,2022,6992.97,Synthetic demo estimate
+Visakhapatnam,MVP Colony,2023,7342.62,Synthetic demo estimate
+Visakhapatnam,MVP Colony,2024,7709.75,Synthetic demo estimate
+Visakhapatnam,MVP Colony,2025,8095.24,Synthetic demo estimate
+Visakhapatnam,MVP Colony,2026,8500.0,Synthetic demo estimate
+Visakhapatnam,MVP Colony,2027,8925.0,Synthetic model projection
+Visakhapatnam,MVP Colony,2028,9371.25,Synthetic model projection
+Visakhapatnam,MVP Colony,2029,9839.81,Synthetic model projection
+Visakhapatnam,MVP Colony,2030,10331.8,Synthetic model projection
+Visakhapatnam,Gajuwaka,2020,3357.97,Synthetic demo estimate
+Visakhapatnam,Gajuwaka,2021,3525.87,Synthetic demo estimate
+Visakhapatnam,Gajuwaka,2022,3702.16,Synthetic demo estimate
+Visakhapatnam,Gajuwaka,2023,3887.27,Synthetic demo estimate
+Visakhapatnam,Gajuwaka,2024,4081.63,Synthetic demo estimate
+Visakhapatnam,Gajuwaka,2025,4285.71,Synthetic demo estimate
+Visakhapatnam,Gajuwaka,2026,4500.0,Synthetic demo estimate
+Visakhapatnam,Gajuwaka,2027,4725.0,Synthetic model projection
+Visakhapatnam,Gajuwaka,2028,4961.25,Synthetic model projection
+Visakhapatnam,Gajuwaka,2029,5209.31,Synthetic model projection
+Visakhapatnam,Gajuwaka,2030,5469.78,Synthetic model projection
+Bhubaneswar,Patia,2020,4850.4,Synthetic demo estimate
+Bhubaneswar,Patia,2021,5092.92,Synthetic demo estimate
+Bhubaneswar,Patia,2022,5347.57,Synthetic demo estimate
+Bhubaneswar,Patia,2023,5614.94,Synthetic demo estimate
+Bhubaneswar,Patia,2024,5895.69,Synthetic demo estimate
+Bhubaneswar,Patia,2025,6190.48,Synthetic demo estimate
+Bhubaneswar,Patia,2026,6500.0,Synthetic demo estimate
+Bhubaneswar,Patia,2027,6825.0,Synthetic model projection
+Bhubaneswar,Patia,2028,7166.25,Synthetic model projection
+Bhubaneswar,Patia,2029,7524.56,Synthetic model projection
+Bhubaneswar,Patia,2030,7900.79,Synthetic model projection
+Bhubaneswar,Khandagiri,2020,3880.32,Synthetic demo estimate
+Bhubaneswar,Khandagiri,2021,4074.34,Synthetic demo estimate
+Bhubaneswar,Khandagiri,2022,4278.05,Synthetic demo estimate
+Bhubaneswar,Khandagiri,2023,4491.96,Synthetic demo estimate
+Bhubaneswar,Khandagiri,2024,4716.55,Synthetic demo estimate
+Bhubaneswar,Khandagiri,2025,4952.38,Synthetic demo estimate
+Bhubaneswar,Khandagiri,2026,5200.0,Synthetic demo estimate
+Bhubaneswar,Khandagiri,2027,5460.0,Synthetic model projection
+Bhubaneswar,Khandagiri,2028,5733.0,Synthetic model projection
+Bhubaneswar,Khandagiri,2029,6019.65,Synthetic model projection
+Bhubaneswar,Khandagiri,2030,6320.63,Synthetic model projection
+Bhubaneswar,Nayapalli,2020,5372.75,Synthetic demo estimate
+Bhubaneswar,Nayapalli,2021,5641.39,Synthetic demo estimate
+Bhubaneswar,Nayapalli,2022,5923.46,Synthetic demo estimate
+Bhubaneswar,Nayapalli,2023,6219.63,Synthetic demo estimate
+Bhubaneswar,Nayapalli,2024,6530.61,Synthetic demo estimate
+Bhubaneswar,Nayapalli,2025,6857.14,Synthetic demo estimate
+Bhubaneswar,Nayapalli,2026,7200.0,Synthetic demo estimate
+Bhubaneswar,Nayapalli,2027,7560.0,Synthetic model projection
+Bhubaneswar,Nayapalli,2028,7938.0,Synthetic model projection
+Bhubaneswar,Nayapalli,2029,8334.9,Synthetic model projection
+Bhubaneswar,Nayapalli,2030,8751.65,Synthetic model projection

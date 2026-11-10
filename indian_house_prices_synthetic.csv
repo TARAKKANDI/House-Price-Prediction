@@ -1,0 +1,2566 @@
+City,State,Locality,BHK,Area_sqft,City_Centre,Property_Age_Years,Furnishing,Parking,Gated_Community,Price_INR
+Bengaluru,Karnataka,Koramangala,3,1302,1,11,Unfurnished,1,1,14932253
+Bengaluru,Karnataka,Koramangala,1,573,0,22,Furnished,1,1,6020626
+Bengaluru,Karnataka,Koramangala,2,1101,1,23,Semi-furnished,1,1,14250737
+Bengaluru,Karnataka,Koramangala,3,1418,0,1,Semi-furnished,0,0,14738967
+Bengaluru,Karnataka,Koramangala,3,1422,0,10,Semi-furnished,0,0,12677529
+Bengaluru,Karnataka,Koramangala,2,1141,0,8,Furnished,1,0,11206356
+Bengaluru,Karnataka,Koramangala,3,1522,1,23,Unfurnished,0,0,16674927
+Bengaluru,Karnataka,Koramangala,3,1223,1,7,Semi-furnished,1,0,16907479
+Bengaluru,Karnataka,Koramangala,3,1683,1,22,Semi-furnished,1,1,21118402
+Bengaluru,Karnataka,Koramangala,1,608,0,14,Semi-furnished,1,0,5421223
+Bengaluru,Karnataka,Koramangala,2,1069,0,11,Semi-furnished,1,1,11223592
+Bengaluru,Karnataka,Koramangala,1,617,0,17,Semi-furnished,1,0,5928208
+Bengaluru,Karnataka,Koramangala,1,690,0,12,Unfurnished,1,1,5794978
+Bengaluru,Karnataka,Koramangala,1,560,1,11,Semi-furnished,1,1,6654610
+Bengaluru,Karnataka,Koramangala,3,1322,0,19,Furnished,1,0,13698956
+Bengaluru,Karnataka,Koramangala,2,966,1,7,Semi-furnished,1,1,12081660
+Bengaluru,Karnataka,Koramangala,2,1016,0,16,Unfurnished,1,0,9718518
+Bengaluru,Karnataka,Koramangala,1,543,0,2,Furnished,1,0,6145839
+Bengaluru,Karnataka,Koramangala,1,517,1,10,Unfurnished,1,1,6357135
+Bengaluru,Karnataka,Koramangala,2,751,0,12,Unfurnished,1,1,7159869
+Bengaluru,Karnataka,Koramangala,3,1529,0,14,Unfurnished,1,0,14652618
+Bengaluru,Karnataka,Koramangala,3,1524,0,3,Furnished,0,0,14819431
+Bengaluru,Karnataka,Koramangala,2,935,0,11,Furnished,1,1,9846145
+Bengaluru,Karnataka,Koramangala,4,2215,0,21,Semi-furnished,1,1,24444436
+Bengaluru,Karnataka,Koramangala,3,1477,0,3,Semi-furnished,1,1,15987499
+Bengaluru,Karnataka,Koramangala,3,1534,1,13,Unfurnished,0,1,17246096
+Bengaluru,Karnataka,Koramangala,1,781,0,18,Unfurnished,1,1,7347933
+Bengaluru,Karnataka,Koramangala,1,680,0,22,Unfurnished,1,0,6113590
+Bengaluru,Karnataka,Koramangala,3,1268,1,10,Semi-furnished,1,0,14595057
+Bengaluru,Karnataka,Koramangala,2,1190,1,5,Furnished,1,1,15380021
+Bengaluru,Karnataka,Koramangala,2,1074,0,21,Semi-furnished,1,1,9580741
+Bengaluru,Karnataka,Koramangala,3,1221,1,2,Unfurnished,0,1,13740630
+Bengaluru,Karnataka,Koramangala,2,1027,1,19,Semi-furnished,1,1,13418929
+Bengaluru,Karnataka,Koramangala,3,1166,0,15,Unfurnished,0,1,12646589
+Bengaluru,Karnataka,Koramangala,1,544,0,12,Furnished,1,0,5980411
+Bengaluru,Karnataka,Koramangala,1,616,0,15,Unfurnished,0,0,5710404
+Bengaluru,Karnataka,Koramangala,1,692,0,13,Unfurnished,1,1,6221859
+Bengaluru,Karnataka,Koramangala,1,641,0,17,Semi-furnished,1,0,5535977
+Bengaluru,Karnataka,Koramangala,3,1549,0,10,Furnished,1,1,15742830
+Bengaluru,Karnataka,Koramangala,3,1509,1,24,Unfurnished,1,1,19075120
+Bengaluru,Karnataka,Koramangala,2,1016,0,17,Unfurnished,1,1,11097662
+Bengaluru,Karnataka,Koramangala,2,1170,0,16,Semi-furnished,1,0,12596525
+Bengaluru,Karnataka,Koramangala,4,2550,0,20,Furnished,1,1,25244774
+Bengaluru,Karnataka,Koramangala,3,1367,1,8,Unfurnished,1,1,16443088
+Bengaluru,Karnataka,Koramangala,3,1642,0,16,Furnished,0,1,15813611
+Bengaluru,Karnataka,Whitefield,2,1139,1,18,Furnished,1,1,9929832
+Bengaluru,Karnataka,Whitefield,3,1376,0,3,Semi-furnished,1,1,11050042
+Bengaluru,Karnataka,Whitefield,2,761,1,14,Unfurnished,0,0,6483858
+Bengaluru,Karnataka,Whitefield,2,970,0,5,Furnished,1,0,7029141
+Bengaluru,Karnataka,Whitefield,2,1028,0,17,Furnished,1,1,8917929
+Bengaluru,Karnataka,Whitefield,2,934,0,9,Semi-furnished,1,1,7590072
+Bengaluru,Karnataka,Whitefield,1,859,0,20,Unfurnished,1,1,6012416
+Bengaluru,Karnataka,Whitefield,2,825,0,11,Semi-furnished,1,1,6334078
+Bengaluru,Karnataka,Whitefield,1,442,1,7,Unfurnished,1,0,3894888
+Bengaluru,Karnataka,Whitefield,1,670,0,22,Unfurnished,1,0,4335175
+Bengaluru,Karnataka,Whitefield,3,1449,0,0,Unfurnished,1,1,9461510
+Bengaluru,Karnataka,Whitefield,3,1371,1,17,Semi-furnished,1,1,12113728
+Bengaluru,Karnataka,Whitefield,1,641,1,20,Semi-furnished,1,0,4760037
+Bengaluru,Karnataka,Whitefield,2,999,1,2,Semi-furnished,0,1,9623118
+Bengaluru,Karnataka,Whitefield,3,1152,0,18,Unfurnished,0,1,7400298
+Bengaluru,Karnataka,Whitefield,3,1464,0,22,Furnished,1,1,12018894
+Bengaluru,Karnataka,Whitefield,3,1711,0,14,Semi-furnished,1,1,15022822
+Bengaluru,Karnataka,Whitefield,1,664,0,2,Semi-furnished,1,1,4774468
+Bengaluru,Karnataka,Whitefield,2,759,0,7,Unfurnished,1,1,6112101
+Bengaluru,Karnataka,Whitefield,2,1098,0,15,Semi-furnished,1,1,8862278
+Bengaluru,Karnataka,Whitefield,2,1050,0,18,Semi-furnished,1,1,8034697
+Bengaluru,Karnataka,Whitefield,2,1026,0,6,Furnished,1,0,8509341
+Bengaluru,Karnataka,Whitefield,3,1569,0,20,Unfurnished,0,0,8651071
+Bengaluru,Karnataka,Whitefield,1,470,0,18,Unfurnished,1,0,2352177
+Bengaluru,Karnataka,Whitefield,4,2729,1,22,Unfurnished,1,1,22218802
+Bengaluru,Karnataka,Whitefield,3,1483,0,17,Unfurnished,0,1,11656735
+Bengaluru,Karnataka,Whitefield,2,925,1,5,Unfurnished,1,1,9404045
+Bengaluru,Karnataka,Whitefield,3,1549,0,12,Unfurnished,1,0,9318137
+Bengaluru,Karnataka,Whitefield,2,974,0,12,Semi-furnished,0,0,6405506
+Bengaluru,Karnataka,Whitefield,3,1465,1,10,Unfurnished,1,1,13670018
+Bengaluru,Karnataka,Whitefield,3,1605,1,17,Furnished,1,1,13941847
+Bengaluru,Karnataka,Whitefield,3,1263,0,15,Unfurnished,1,1,8986639
+Bengaluru,Karnataka,Whitefield,1,731,0,12,Unfurnished,1,1,5332266
+Bengaluru,Karnataka,Whitefield,2,1040,1,10,Semi-furnished,1,1,10594191
+Bengaluru,Karnataka,Whitefield,3,1569,1,7,Furnished,1,1,16228557
+Bengaluru,Karnataka,Whitefield,3,1276,1,16,Furnished,1,0,13567864
+Bengaluru,Karnataka,Whitefield,3,1419,0,14,Unfurnished,1,1,10831288
+Bengaluru,Karnataka,Whitefield,2,801,1,6,Unfurnished,1,1,7520319
+Bengaluru,Karnataka,Whitefield,3,1585,0,10,Unfurnished,0,1,9757880
+Bengaluru,Karnataka,Whitefield,3,1346,1,19,Unfurnished,0,1,10694958
+Bengaluru,Karnataka,Whitefield,1,674,1,19,Unfurnished,1,1,6413180
+Bengaluru,Karnataka,Whitefield,2,712,1,13,Unfurnished,1,1,6031928
+Bengaluru,Karnataka,Whitefield,3,1288,0,9,Unfurnished,1,1,11083789
+Bengaluru,Karnataka,Whitefield,2,1002,0,13,Furnished,1,1,7916854
+Bengaluru,Karnataka,Whitefield,4,2580,0,3,Semi-furnished,0,0,19570439
+Bengaluru,Karnataka,Hebbal,2,1074,0,22,Furnished,1,1,8996091
+Bengaluru,Karnataka,Hebbal,3,1175,0,8,Furnished,1,1,11539877
+Bengaluru,Karnataka,Hebbal,3,1364,0,22,Unfurnished,1,0,10956811
+Bengaluru,Karnataka,Hebbal,3,1468,0,6,Semi-furnished,1,1,12447091
+Bengaluru,Karnataka,Hebbal,2,1160,1,8,Furnished,1,1,14064148
+Bengaluru,Karnataka,Hebbal,4,1885,0,2,Unfurnished,0,1,15582773
+Bengaluru,Karnataka,Hebbal,2,1015,0,22,Unfurnished,1,0,8251174
+Bengaluru,Karnataka,Hebbal,2,1140,0,2,Unfurnished,1,0,9415784
+Bengaluru,Karnataka,Hebbal,2,831,1,10,Furnished,1,0,7140107
+Bengaluru,Karnataka,Hebbal,2,920,0,11,Unfurnished,1,0,6712377
+Bengaluru,Karnataka,Hebbal,3,1511,0,15,Furnished,0,0,13749895
+Bengaluru,Karnataka,Hebbal,1,447,0,1,Semi-furnished,1,1,4061379
+Bengaluru,Karnataka,Hebbal,3,1841,1,11,Furnished,1,1,18449377
+Bengaluru,Karnataka,Hebbal,3,1839,0,4,Furnished,1,1,17831379
+Bengaluru,Karnataka,Hebbal,2,1138,0,16,Unfurnished,1,0,8587558
+Bengaluru,Karnataka,Hebbal,3,1819,1,8,Unfurnished,1,1,18656438
+Bengaluru,Karnataka,Hebbal,1,551,0,1,Furnished,0,0,5754291
+Bengaluru,Karnataka,Hebbal,2,1051,1,4,Furnished,1,1,11768728
+Bengaluru,Karnataka,Hebbal,1,537,1,3,Furnished,0,1,6544661
+Bengaluru,Karnataka,Hebbal,3,1507,0,7,Semi-furnished,1,1,14778900
+Bengaluru,Karnataka,Hebbal,2,1031,0,18,Semi-furnished,0,1,8637096
+Bengaluru,Karnataka,Hebbal,2,962,1,25,Semi-furnished,1,0,8349226
+Bengaluru,Karnataka,Hebbal,1,779,1,23,Unfurnished,1,1,7506015
+Bengaluru,Karnataka,Hebbal,2,1033,1,22,Semi-furnished,1,1,9317433
+Bengaluru,Karnataka,Hebbal,4,1904,0,22,Unfurnished,1,0,17264012
+Bengaluru,Karnataka,Hebbal,2,1295,1,20,Semi-furnished,1,1,14118919
+Bengaluru,Karnataka,Hebbal,2,1185,0,14,Unfurnished,1,1,9737697
+Bengaluru,Karnataka,Hebbal,1,688,0,24,Furnished,0,0,5583732
+Bengaluru,Karnataka,Hebbal,3,1368,0,12,Semi-furnished,1,0,11783542
+Bengaluru,Karnataka,Hebbal,2,1151,1,5,Semi-furnished,0,0,11589678
+Bengaluru,Karnataka,Hebbal,3,1494,1,20,Furnished,1,0,15881727
+Bengaluru,Karnataka,Hebbal,2,989,0,23,Furnished,1,1,8197190
+Bengaluru,Karnataka,Hebbal,2,1006,0,2,Semi-furnished,1,1,9339707
+Bengaluru,Karnataka,Hebbal,3,1471,0,22,Furnished,0,1,10984115
+Bengaluru,Karnataka,Hebbal,2,899,0,16,Semi-furnished,0,1,8200895
+Bengaluru,Karnataka,Hebbal,3,1317,0,4,Unfurnished,0,0,9892994
+Bengaluru,Karnataka,Hebbal,3,1391,0,8,Semi-furnished,1,1,12257581
+Bengaluru,Karnataka,Hebbal,1,690,0,13,Furnished,0,1,5424387
+Bengaluru,Karnataka,Hebbal,2,1181,1,9,Unfurnished,1,1,12363517
+Bengaluru,Karnataka,Hebbal,2,1097,1,3,Furnished,1,1,13012130
+Bengaluru,Karnataka,Hebbal,4,1797,0,14,Semi-furnished,1,1,15901419
+Bengaluru,Karnataka,Hebbal,2,1068,0,1,Semi-furnished,0,1,9172793
+Bengaluru,Karnataka,Hebbal,1,733,0,20,Semi-furnished,1,1,5548793
+Bengaluru,Karnataka,Hebbal,3,1709,1,3,Semi-furnished,1,1,16025372
+Bengaluru,Karnataka,Hebbal,1,716,0,25,Semi-furnished,1,1,6143403
+Bengaluru,Karnataka,Hoskote,2,982,0,21,Furnished,1,1,3938668
+Bengaluru,Karnataka,Hoskote,2,1157,1,15,Semi-furnished,1,0,5250196
+Bengaluru,Karnataka,Hoskote,2,1050,0,13,Semi-furnished,1,1,4343283
+Bengaluru,Karnataka,Hoskote,2,1251,1,4,Unfurnished,1,0,5789027
+Bengaluru,Karnataka,Hoskote,1,705,1,20,Furnished,0,1,2762052
+Bengaluru,Karnataka,Hoskote,4,1533,0,19,Unfurnished,1,1,5488189
+Bengaluru,Karnataka,Hoskote,1,602,1,6,Semi-furnished,1,1,3202121
+Bengaluru,Karnataka,Hoskote,2,1186,0,18,Unfurnished,0,1,4571936
+Bengaluru,Karnataka,Hoskote,3,1583,1,12,Semi-furnished,1,1,6781605
+Bengaluru,Karnataka,Hoskote,2,1070,0,16,Semi-furnished,1,0,3955808
+Bengaluru,Karnataka,Hoskote,3,1377,0,7,Unfurnished,1,1,5392528
+Bengaluru,Karnataka,Hoskote,3,1288,1,2,Unfurnished,0,1,7718101
+Bengaluru,Karnataka,Hoskote,4,2473,0,10,Unfurnished,1,0,9496203
+Bengaluru,Karnataka,Hoskote,3,1234,0,18,Semi-furnished,1,1,5177652
+Bengaluru,Karnataka,Hoskote,3,1375,1,21,Semi-furnished,0,1,6869161
+Bengaluru,Karnataka,Hoskote,2,1208,0,4,Semi-furnished,1,1,4403568
+Bengaluru,Karnataka,Hoskote,3,1747,0,11,Semi-furnished,1,1,6894607
+Bengaluru,Karnataka,Hoskote,1,657,0,23,Semi-furnished,0,0,2397966
+Bengaluru,Karnataka,Hoskote,2,1016,0,2,Semi-furnished,1,0,4060321
+Bengaluru,Karnataka,Hoskote,3,1330,1,14,Unfurnished,1,1,6235702
+Bengaluru,Karnataka,Hoskote,3,1483,1,14,Semi-furnished,1,0,6676833
+Bengaluru,Karnataka,Hoskote,3,1631,0,19,Unfurnished,1,1,6644123
+Bengaluru,Karnataka,Hoskote,1,599,0,2,Semi-furnished,1,1,1954207
+Bengaluru,Karnataka,Hoskote,2,883,0,12,Semi-furnished,1,1,4331445
+Bengaluru,Karnataka,Hoskote,3,1421,0,17,Semi-furnished,1,0,4965213
+Bengaluru,Karnataka,Hoskote,3,1195,0,9,Unfurnished,1,0,4913489
+Bengaluru,Karnataka,Hoskote,3,1620,0,14,Unfurnished,1,1,6546882
+Bengaluru,Karnataka,Hoskote,3,1791,1,21,Unfurnished,0,1,7035880
+Bengaluru,Karnataka,Hoskote,3,1782,0,12,Unfurnished,1,0,6657094
+Bengaluru,Karnataka,Hoskote,3,1371,0,8,Semi-furnished,1,1,5353314
+Bengaluru,Karnataka,Hoskote,3,1364,0,9,Unfurnished,0,1,4647512
+Bengaluru,Karnataka,Hoskote,3,1491,0,2,Furnished,0,1,6804004
+Bengaluru,Karnataka,Hoskote,4,2245,1,21,Unfurnished,1,1,10236147
+Bengaluru,Karnataka,Hoskote,2,939,0,12,Unfurnished,0,1,3221435
+Bengaluru,Karnataka,Hoskote,2,975,0,3,Semi-furnished,1,1,4001871
+Bengaluru,Karnataka,Hoskote,2,1185,0,25,Semi-furnished,1,0,4699146
+Bengaluru,Karnataka,Hoskote,2,1293,0,14,Semi-furnished,1,0,4825314
+Bengaluru,Karnataka,Hoskote,3,1478,1,13,Semi-furnished,1,0,7942463
+Bengaluru,Karnataka,Hoskote,2,1102,0,21,Unfurnished,0,1,4128820
+Bengaluru,Karnataka,Hoskote,1,757,0,3,Semi-furnished,0,1,2712925
+Bengaluru,Karnataka,Hoskote,3,1880,0,22,Unfurnished,0,1,5489401
+Bengaluru,Karnataka,Hoskote,2,1168,1,1,Unfurnished,1,1,4667998
+Bengaluru,Karnataka,Hoskote,3,1643,0,25,Furnished,1,1,4904367
+Bengaluru,Karnataka,Hoskote,2,884,1,22,Unfurnished,1,1,3909291
+Bengaluru,Karnataka,Hoskote,2,842,1,20,Unfurnished,1,1,3287923
+Bengaluru,Karnataka,Electronic City,1,737,0,24,Unfurnished,0,0,3100486
+Bengaluru,Karnataka,Electronic City,4,2170,1,13,Furnished,0,1,17932191
+Bengaluru,Karnataka,Electronic City,3,1348,0,3,Semi-furnished,1,1,7713228
+Bengaluru,Karnataka,Electronic City,3,1674,1,11,Unfurnished,1,1,10873703
+Bengaluru,Karnataka,Electronic City,3,1588,1,18,Semi-furnished,1,1,10925523
+Bengaluru,Karnataka,Electronic City,4,2324,0,13,Unfurnished,1,0,12938705
+Bengaluru,Karnataka,Electronic City,3,1212,1,3,Furnished,0,1,8810988
+Bengaluru,Karnataka,Electronic City,2,1090,1,25,Semi-furnished,1,1,6619328
+Bengaluru,Karnataka,Electronic City,2,1063,0,2,Semi-furnished,1,1,6721405
+Bengaluru,Karnataka,Electronic City,1,691,0,2,Furnished,0,1,4150006
+Bengaluru,Karnataka,Electronic City,4,2407,0,14,Unfurnished,0,1,12275434
+Bengaluru,Karnataka,Electronic City,2,1048,0,1,Furnished,1,1,6853247
+Bengaluru,Karnataka,Electronic City,2,930,0,12,Furnished,1,1,5122103
+Bengaluru,Karnataka,Electronic City,2,1246,1,5,Semi-furnished,1,0,8645104
+Bengaluru,Karnataka,Electronic City,1,625,0,19,Semi-furnished,1,1,3120348
+Bengaluru,Karnataka,Electronic City,4,1775,0,4,Semi-furnished,0,1,10834438
+Bengaluru,Karnataka,Electronic City,3,1555,0,15,Furnished,1,0,8799759
+Bengaluru,Karnataka,Electronic City,3,1424,0,25,Semi-furnished,1,1,8368796
+Bengaluru,Karnataka,Electronic City,3,1682,0,24,Semi-furnished,1,1,7564069
+Bengaluru,Karnataka,Electronic City,2,850,1,24,Unfurnished,0,1,3934931
+Bengaluru,Karnataka,Electronic City,3,1469,1,14,Unfurnished,0,0,9138561
+Bengaluru,Karnataka,Electronic City,3,1562,1,2,Unfurnished,1,1,10505985
+Bengaluru,Karnataka,Electronic City,2,963,0,9,Semi-furnished,0,1,5246547
+Bengaluru,Karnataka,Electronic City,3,1635,0,3,Furnished,0,1,9574644
+Bengaluru,Karnataka,Electronic City,2,1119,1,18,Unfurnished,1,0,7005202
+Bengaluru,Karnataka,Electronic City,2,770,0,6,Semi-furnished,1,1,4108108
+Bengaluru,Karnataka,Electronic City,3,1259,1,12,Furnished,1,1,9531737
+Bengaluru,Karnataka,Electronic City,1,457,0,15,Semi-furnished,1,1,2163445
+Bengaluru,Karnataka,Electronic City,1,563,1,5,Furnished,1,1,4259948
+Bengaluru,Karnataka,Electronic City,2,1035,0,20,Furnished,1,1,5893138
+Bengaluru,Karnataka,Electronic City,1,508,1,19,Semi-furnished,1,1,3004061
+Bengaluru,Karnataka,Electronic City,1,722,0,1,Furnished,0,1,3712027
+Bengaluru,Karnataka,Electronic City,2,961,0,8,Semi-furnished,1,0,5007824
+Bengaluru,Karnataka,Electronic City,3,1497,1,25,Unfurnished,0,1,6935481
+Bengaluru,Karnataka,Electronic City,1,757,1,23,Unfurnished,1,1,3571569
+Bengaluru,Karnataka,Electronic City,2,912,0,13,Semi-furnished,1,1,4544705
+Bengaluru,Karnataka,Electronic City,4,2217,1,16,Unfurnished,1,1,15058983
+Bengaluru,Karnataka,Electronic City,2,850,0,10,Semi-furnished,1,1,4500861
+Bengaluru,Karnataka,Electronic City,3,1554,0,15,Unfurnished,1,1,9974713
+Bengaluru,Karnataka,Electronic City,3,1561,0,7,Unfurnished,1,1,9076306
+Bengaluru,Karnataka,Electronic City,4,2394,0,6,Unfurnished,1,0,11416256
+Bengaluru,Karnataka,Electronic City,3,1496,1,22,Furnished,1,1,9801033
+Bengaluru,Karnataka,Electronic City,2,844,1,1,Unfurnished,0,0,5297760
+Bengaluru,Karnataka,Electronic City,2,1213,0,21,Semi-furnished,1,0,6396775
+Bengaluru,Karnataka,Electronic City,3,1455,1,20,Furnished,1,1,11673111
+Bengaluru,Karnataka,Sarjapur Road,2,1035,0,4,Furnished,0,1,7538488
+Bengaluru,Karnataka,Sarjapur Road,2,952,1,15,Furnished,1,1,7058575
+Bengaluru,Karnataka,Sarjapur Road,3,1569,1,9,Unfurnished,0,1,11896724
+Bengaluru,Karnataka,Sarjapur Road,2,960,1,11,Unfurnished,1,1,7396822
+Bengaluru,Karnataka,Sarjapur Road,3,1470,1,9,Semi-furnished,1,0,12631268
+Bengaluru,Karnataka,Sarjapur Road,3,1951,0,20,Furnished,1,1,10759747
+Bengaluru,Karnataka,Sarjapur Road,2,1316,0,5,Semi-furnished,0,1,8630512
+Bengaluru,Karnataka,Sarjapur Road,2,1139,1,3,Furnished,1,0,10691912
+Bengaluru,Karnataka,Sarjapur Road,2,1196,0,3,Unfurnished,1,0,8093393
+Bengaluru,Karnataka,Sarjapur Road,3,1399,0,2,Furnished,1,1,9155783
+Bengaluru,Karnataka,Sarjapur Road,2,1178,0,20,Unfurnished,1,0,7100925
+Bengaluru,Karnataka,Sarjapur Road,2,1120,1,17,Furnished,0,1,8988264
+Bengaluru,Karnataka,Sarjapur Road,2,941,1,8,Unfurnished,1,0,7955116
+Bengaluru,Karnataka,Sarjapur Road,3,1930,0,4,Semi-furnished,1,1,12430107
+Bengaluru,Karnataka,Sarjapur Road,2,1029,0,16,Unfurnished,1,1,6426720
+Bengaluru,Karnataka,Sarjapur Road,3,1253,0,14,Furnished,1,1,8062194
+Bengaluru,Karnataka,Sarjapur Road,3,1653,0,12,Semi-furnished,1,1,12625447
+Bengaluru,Karnataka,Sarjapur Road,4,1686,0,15,Unfurnished,0,1,10469157
+Bengaluru,Karnataka,Sarjapur Road,3,1438,0,4,Unfurnished,1,0,9572897
+Bengaluru,Karnataka,Sarjapur Road,2,1007,1,8,Unfurnished,1,1,8283108
+Bengaluru,Karnataka,Sarjapur Road,3,1128,0,10,Unfurnished,1,0,7046528
+Bengaluru,Karnataka,Sarjapur Road,4,2342,0,2,Furnished,1,0,18191106
+Bengaluru,Karnataka,Sarjapur Road,3,1628,0,13,Furnished,1,1,12487251
+Bengaluru,Karnataka,Sarjapur Road,2,893,0,16,Semi-furnished,1,1,6850424
+Bengaluru,Karnataka,Sarjapur Road,2,967,0,14,Unfurnished,1,1,5184654
+Bengaluru,Karnataka,Sarjapur Road,3,1287,0,4,Unfurnished,1,0,9118523
+Bengaluru,Karnataka,Sarjapur Road,1,587,0,0,Furnished,0,1,4600521
+Bengaluru,Karnataka,Sarjapur Road,2,1247,1,11,Unfurnished,0,1,9524868
+Bengaluru,Karnataka,Sarjapur Road,1,728,1,20,Semi-furnished,1,1,4927310
+Bengaluru,Karnataka,Sarjapur Road,2,1303,0,20,Unfurnished,1,1,8413740
+Bengaluru,Karnataka,Sarjapur Road,2,1087,0,9,Semi-furnished,1,1,8278547
+Bengaluru,Karnataka,Sarjapur Road,2,890,0,18,Unfurnished,1,1,5511804
+Bengaluru,Karnataka,Sarjapur Road,3,1394,0,6,Furnished,0,1,9016906
+Bengaluru,Karnataka,Sarjapur Road,1,663,1,18,Furnished,1,0,4087881
+Bengaluru,Karnataka,Sarjapur Road,3,920,0,25,Semi-furnished,0,1,5271136
+Bengaluru,Karnataka,Sarjapur Road,3,1134,0,13,Unfurnished,1,1,8059976
+Bengaluru,Karnataka,Sarjapur Road,1,495,0,12,Furnished,1,0,3991014
+Bengaluru,Karnataka,Sarjapur Road,2,887,0,20,Furnished,1,1,4972534
+Bengaluru,Karnataka,Sarjapur Road,1,487,1,6,Unfurnished,0,1,3948685
+Bengaluru,Karnataka,Sarjapur Road,2,801,0,0,Furnished,1,1,5916008
+Bengaluru,Karnataka,Sarjapur Road,1,664,0,21,Unfurnished,0,1,4309889
+Bengaluru,Karnataka,Sarjapur Road,2,1037,0,5,Semi-furnished,1,0,8271722
+Bengaluru,Karnataka,Sarjapur Road,2,1157,0,11,Unfurnished,0,1,7625246
+Bengaluru,Karnataka,Sarjapur Road,3,1505,0,22,Unfurnished,1,0,8642887
+Bengaluru,Karnataka,Sarjapur Road,1,685,1,13,Unfurnished,1,1,5692420
+Bengaluru,Karnataka,Yelahanka,3,1482,1,7,Unfurnished,1,1,11260802
+Bengaluru,Karnataka,Yelahanka,2,1207,0,24,Semi-furnished,1,0,6163984
+Bengaluru,Karnataka,Yelahanka,4,2271,0,0,Furnished,1,1,14619301
+Bengaluru,Karnataka,Yelahanka,2,1116,0,3,Furnished,1,1,6640710
+Bengaluru,Karnataka,Yelahanka,2,1129,0,10,Semi-furnished,1,0,7319214
+Bengaluru,Karnataka,Yelahanka,1,660,0,22,Semi-furnished,0,1,3938780
+Bengaluru,Karnataka,Yelahanka,2,1142,0,7,Semi-furnished,1,1,7573467
+Bengaluru,Karnataka,Yelahanka,4,1808,0,18,Semi-furnished,0,0,10778866
+Bengaluru,Karnataka,Yelahanka,3,1406,1,5,Semi-furnished,1,0,10955605
+Bengaluru,Karnataka,Yelahanka,2,1006,0,15,Semi-furnished,0,1,5921813
+Bengaluru,Karnataka,Yelahanka,1,523,0,19,Unfurnished,1,0,2952902
+Bengaluru,Karnataka,Yelahanka,2,748,0,6,Unfurnished,0,0,4427943
+Bengaluru,Karnataka,Yelahanka,4,2302,0,1,Unfurnished,1,1,15211946
+Bengaluru,Karnataka,Yelahanka,3,1655,1,13,Furnished,1,1,10945043
+Bengaluru,Karnataka,Yelahanka,4,2166,1,0,Unfurnished,1,1,18644387
+Bengaluru,Karnataka,Yelahanka,3,1348,0,2,Semi-furnished,0,1,8676671
+Bengaluru,Karnataka,Yelahanka,2,1013,0,1,Furnished,1,0,6767763
+Bengaluru,Karnataka,Yelahanka,2,1059,0,22,Unfurnished,1,1,6294788
+Bengaluru,Karnataka,Yelahanka,3,1518,1,17,Furnished,1,0,11765001
+Bengaluru,Karnataka,Yelahanka,1,678,0,25,Unfurnished,1,0,3872929
+Bengaluru,Karnataka,Yelahanka,3,1368,1,8,Unfurnished,1,0,10531892
+Bengaluru,Karnataka,Yelahanka,1,553,1,15,Unfurnished,1,1,4215783
+Bengaluru,Karnataka,Yelahanka,2,976,1,18,Semi-furnished,1,1,7592373
+Bengaluru,Karnataka,Yelahanka,1,903,1,2,Furnished,1,1,6739734
+Bengaluru,Karnataka,Yelahanka,2,879,0,14,Semi-furnished,0,0,4987113
+Bengaluru,Karnataka,Yelahanka,2,1082,0,23,Furnished,1,1,6650324
+Bengaluru,Karnataka,Yelahanka,2,1331,0,22,Unfurnished,1,0,7556280
+Bengaluru,Karnataka,Yelahanka,2,1024,0,13,Semi-furnished,1,1,6238263
+Bengaluru,Karnataka,Yelahanka,2,1134,0,6,Furnished,1,0,7105629
+Bengaluru,Karnataka,Yelahanka,3,1686,0,25,Unfurnished,1,0,9310343
+Bengaluru,Karnataka,Yelahanka,2,959,0,21,Semi-furnished,1,1,5168654
+Bengaluru,Karnataka,Yelahanka,1,663,0,22,Furnished,1,1,3736994
+Bengaluru,Karnataka,Yelahanka,2,1271,0,8,Furnished,1,0,7994392
+Bengaluru,Karnataka,Yelahanka,4,1890,0,5,Unfurnished,1,0,9736440
+Bengaluru,Karnataka,Yelahanka,1,645,1,24,Semi-furnished,1,1,5066622
+Bengaluru,Karnataka,Yelahanka,2,1096,0,18,Semi-furnished,1,1,6172639
+Bengaluru,Karnataka,Yelahanka,2,1022,0,19,Unfurnished,1,1,5686368
+Bengaluru,Karnataka,Yelahanka,1,551,0,9,Unfurnished,1,1,2951539
+Bengaluru,Karnataka,Yelahanka,2,973,0,10,Semi-furnished,1,0,6200203
+Bengaluru,Karnataka,Yelahanka,3,1632,0,12,Semi-furnished,0,0,10655212
+Bengaluru,Karnataka,Yelahanka,3,1418,0,0,Furnished,1,0,9212865
+Bengaluru,Karnataka,Yelahanka,1,569,0,18,Semi-furnished,1,1,4048744
+Bengaluru,Karnataka,Yelahanka,2,1230,1,10,Unfurnished,1,1,9429055
+Bengaluru,Karnataka,Yelahanka,3,1445,0,3,Semi-furnished,1,1,10378195
+Bengaluru,Karnataka,Yelahanka,2,1051,0,22,Furnished,1,0,6980136
+Hyderabad,Telangana,Gachibowli,3,1205,0,9,Unfurnished,0,1,11630040
+Hyderabad,Telangana,Gachibowli,1,744,0,2,Semi-furnished,1,0,6601931
+Hyderabad,Telangana,Gachibowli,4,2054,0,1,Unfurnished,1,1,17737677
+Hyderabad,Telangana,Gachibowli,3,1537,0,10,Semi-furnished,1,0,14039596
+Hyderabad,Telangana,Gachibowli,3,1310,0,20,Semi-furnished,1,0,11058853
+Hyderabad,Telangana,Gachibowli,2,926,0,22,Unfurnished,1,0,6553094
+Hyderabad,Telangana,Gachibowli,3,1595,1,24,Semi-furnished,1,1,16055770
+Hyderabad,Telangana,Gachibowli,2,977,1,23,Semi-furnished,1,1,9184969
+Hyderabad,Telangana,Gachibowli,4,2283,0,18,Semi-furnished,1,1,17372314
+Hyderabad,Telangana,Gachibowli,2,959,1,19,Semi-furnished,1,1,8493992
+Hyderabad,Telangana,Gachibowli,1,676,0,15,Furnished,1,0,6339074
+Hyderabad,Telangana,Gachibowli,2,848,0,23,Semi-furnished,1,1,5198122
+Hyderabad,Telangana,Gachibowli,3,1446,0,21,Unfurnished,0,0,12321927
+Hyderabad,Telangana,Gachibowli,4,2095,0,25,Unfurnished,1,1,15143783
+Hyderabad,Telangana,Gachibowli,3,1313,0,6,Unfurnished,1,1,11063203
+Hyderabad,Telangana,Gachibowli,2,1153,0,19,Unfurnished,1,1,9392649
+Hyderabad,Telangana,Gachibowli,2,993,1,21,Furnished,1,1,10798869
+Hyderabad,Telangana,Gachibowli,2,792,0,6,Furnished,0,0,6172099
+Hyderabad,Telangana,Gachibowli,2,988,0,2,Semi-furnished,1,1,8043137
+Hyderabad,Telangana,Gachibowli,4,2251,0,24,Semi-furnished,1,1,16938934
+Hyderabad,Telangana,Gachibowli,4,1870,1,21,Semi-furnished,0,1,17550825
+Hyderabad,Telangana,Gachibowli,2,1242,0,21,Semi-furnished,1,0,10137543
+Hyderabad,Telangana,Gachibowli,2,1202,0,6,Semi-furnished,1,0,10863780
+Hyderabad,Telangana,Gachibowli,1,672,0,6,Semi-furnished,1,1,5781637
+Hyderabad,Telangana,Gachibowli,3,1441,0,12,Unfurnished,1,1,11389556
+Hyderabad,Telangana,Gachibowli,2,1051,0,12,Semi-furnished,1,1,8379749
+Hyderabad,Telangana,Gachibowli,3,1859,0,21,Unfurnished,1,0,12983361
+Hyderabad,Telangana,Gachibowli,2,1125,1,22,Semi-furnished,0,0,9367089
+Hyderabad,Telangana,Gachibowli,1,705,1,19,Furnished,1,1,7600671
+Hyderabad,Telangana,Gachibowli,3,1407,0,2,Unfurnished,1,1,11348817
+Hyderabad,Telangana,Gachibowli,3,1103,1,3,Unfurnished,1,0,12007293
+Hyderabad,Telangana,Gachibowli,3,1568,1,9,Unfurnished,1,1,15383273
+Hyderabad,Telangana,Gachibowli,2,796,0,22,Unfurnished,0,1,5914660
+Hyderabad,Telangana,Gachibowli,3,1572,0,4,Unfurnished,1,0,13478938
+Hyderabad,Telangana,Gachibowli,3,1564,1,11,Unfurnished,1,1,15362058
+Hyderabad,Telangana,Gachibowli,3,1341,0,1,Furnished,1,1,13285710
+Hyderabad,Telangana,Gachibowli,2,782,0,25,Unfurnished,1,1,5885369
+Hyderabad,Telangana,Gachibowli,2,924,1,14,Unfurnished,1,1,9365458
+Hyderabad,Telangana,Gachibowli,2,995,0,20,Semi-furnished,1,1,7274419
+Hyderabad,Telangana,Gachibowli,3,1369,1,17,Unfurnished,1,0,13966466
+Hyderabad,Telangana,Gachibowli,2,935,0,20,Semi-furnished,1,1,7349145
+Hyderabad,Telangana,Gachibowli,4,2413,0,14,Furnished,1,1,20225638
+Hyderabad,Telangana,Gachibowli,3,1318,0,0,Furnished,0,0,11528803
+Hyderabad,Telangana,Gachibowli,4,1825,0,7,Furnished,0,1,14681107
+Hyderabad,Telangana,Gachibowli,1,564,0,6,Furnished,1,1,4772618
+Hyderabad,Telangana,Miyapur,3,1419,0,8,Furnished,0,0,9071273
+Hyderabad,Telangana,Miyapur,2,984,0,3,Unfurnished,1,1,6089209
+Hyderabad,Telangana,Miyapur,1,690,1,13,Semi-furnished,1,0,4903513
+Hyderabad,Telangana,Miyapur,2,1016,0,4,Semi-furnished,1,0,6044265
+Hyderabad,Telangana,Miyapur,3,1765,1,13,Semi-furnished,1,1,13666621
+Hyderabad,Telangana,Miyapur,2,1166,1,18,Semi-furnished,1,1,6091915
+Hyderabad,Telangana,Miyapur,1,639,0,5,Semi-furnished,1,1,3924294
+Hyderabad,Telangana,Miyapur,2,1072,0,23,Unfurnished,1,1,4919632
+Hyderabad,Telangana,Miyapur,3,1388,1,18,Semi-furnished,1,0,8530978
+Hyderabad,Telangana,Miyapur,4,2549,0,14,Semi-furnished,1,1,14670810
+Hyderabad,Telangana,Miyapur,4,2461,0,15,Unfurnished,0,0,14572990
+Hyderabad,Telangana,Miyapur,2,984,0,1,Furnished,1,0,6024475
+Hyderabad,Telangana,Miyapur,2,1065,0,19,Furnished,1,1,6928322
+Hyderabad,Telangana,Miyapur,4,1679,1,15,Semi-furnished,0,1,9767704
+Hyderabad,Telangana,Miyapur,2,1165,1,14,Semi-furnished,1,1,8018409
+Hyderabad,Telangana,Miyapur,2,1127,1,12,Semi-furnished,1,0,7469444
+Hyderabad,Telangana,Miyapur,2,1199,1,15,Semi-furnished,1,1,8200595
+Hyderabad,Telangana,Miyapur,2,1034,1,1,Semi-furnished,1,1,7406681
+Hyderabad,Telangana,Miyapur,2,1013,0,5,Semi-furnished,0,1,5502878
+Hyderabad,Telangana,Miyapur,4,2128,0,8,Semi-furnished,0,0,11593056
+Hyderabad,Telangana,Miyapur,2,998,0,3,Unfurnished,0,0,6019039
+Hyderabad,Telangana,Miyapur,2,1168,0,10,Unfurnished,1,0,6561087
+Hyderabad,Telangana,Miyapur,1,815,0,14,Furnished,0,1,5331222
+Hyderabad,Telangana,Miyapur,3,1593,0,16,Furnished,0,1,9566622
+Hyderabad,Telangana,Miyapur,3,1708,1,15,Semi-furnished,1,0,11220510
+Hyderabad,Telangana,Miyapur,3,1685,0,1,Unfurnished,1,0,9086310
+Hyderabad,Telangana,Miyapur,4,2084,1,22,Unfurnished,1,1,12880659
+Hyderabad,Telangana,Miyapur,2,897,0,4,Unfurnished,1,1,5558612
+Hyderabad,Telangana,Miyapur,2,955,0,18,Unfurnished,1,0,4930978
+Hyderabad,Telangana,Miyapur,1,685,0,2,Unfurnished,1,1,4069078
+Hyderabad,Telangana,Miyapur,1,696,1,4,Semi-furnished,1,0,5026676
+Hyderabad,Telangana,Miyapur,2,960,1,3,Furnished,0,1,7410547
+Hyderabad,Telangana,Miyapur,2,1163,0,21,Unfurnished,1,1,6403989
+Hyderabad,Telangana,Miyapur,4,2105,1,7,Semi-furnished,1,1,15513398
+Hyderabad,Telangana,Miyapur,3,1567,0,19,Unfurnished,0,0,7722210
+Hyderabad,Telangana,Miyapur,1,535,1,2,Furnished,1,1,4322930
+Hyderabad,Telangana,Miyapur,2,1006,1,3,Unfurnished,1,1,5460139
+Hyderabad,Telangana,Miyapur,3,1770,1,5,Semi-furnished,0,0,12554428
+Hyderabad,Telangana,Miyapur,2,1031,1,12,Unfurnished,1,1,6403040
+Hyderabad,Telangana,Miyapur,2,1008,1,19,Semi-furnished,1,0,6965059
+Hyderabad,Telangana,Miyapur,2,1323,0,0,Semi-furnished,0,0,6718135
+Hyderabad,Telangana,Miyapur,4,1922,0,15,Unfurnished,0,1,10533708
+Hyderabad,Telangana,Miyapur,4,2130,1,11,Furnished,1,1,15294549
+Hyderabad,Telangana,Miyapur,2,1037,0,11,Semi-furnished,1,1,5926564
+Hyderabad,Telangana,Miyapur,1,792,0,13,Semi-furnished,0,1,5547399
+Hyderabad,Telangana,Kukatpally,2,942,0,7,Semi-furnished,1,0,6792611
+Hyderabad,Telangana,Kukatpally,3,1873,1,2,Unfurnished,1,1,14496598
+Hyderabad,Telangana,Kukatpally,2,1380,1,22,Semi-furnished,1,0,9696664
+Hyderabad,Telangana,Kukatpally,2,1198,1,20,Furnished,1,1,10905003
+Hyderabad,Telangana,Kukatpally,1,581,0,23,Unfurnished,0,1,2969316
+Hyderabad,Telangana,Kukatpally,4,2170,1,7,Unfurnished,1,0,17186988
+Hyderabad,Telangana,Kukatpally,2,1036,1,16,Semi-furnished,1,1,7418807
+Hyderabad,Telangana,Kukatpally,3,1538,0,25,Unfurnished,1,1,9907472
+Hyderabad,Telangana,Kukatpally,2,923,0,7,Semi-furnished,1,1,5867223
+Hyderabad,Telangana,Kukatpally,1,621,1,7,Furnished,0,1,5138030
+Hyderabad,Telangana,Kukatpally,2,1110,1,18,Unfurnished,1,1,7072593
+Hyderabad,Telangana,Kukatpally,3,1740,0,7,Semi-furnished,1,0,10805507
+Hyderabad,Telangana,Kukatpally,2,1082,0,4,Furnished,1,1,7002000
+Hyderabad,Telangana,Kukatpally,1,737,1,2,Unfurnished,0,0,4999923
+Hyderabad,Telangana,Kukatpally,4,1929,1,15,Furnished,1,0,16513740
+Hyderabad,Telangana,Kukatpally,2,1040,1,0,Unfurnished,1,0,8290453
+Hyderabad,Telangana,Kukatpally,1,795,1,13,Unfurnished,1,0,5802235
+Hyderabad,Telangana,Kukatpally,2,875,0,5,Semi-furnished,0,0,5858588
+Hyderabad,Telangana,Kukatpally,3,1578,1,16,Semi-furnished,1,1,12341093
+Hyderabad,Telangana,Kukatpally,1,602,0,25,Semi-furnished,1,1,3638293
+Hyderabad,Telangana,Kukatpally,3,1349,0,2,Unfurnished,1,0,9226471
+Hyderabad,Telangana,Kukatpally,3,1837,1,4,Semi-furnished,0,1,13871995
+Hyderabad,Telangana,Kukatpally,2,1424,0,3,Unfurnished,0,0,9234682
+Hyderabad,Telangana,Kukatpally,2,1144,1,18,Semi-furnished,1,0,7697177
+Hyderabad,Telangana,Kukatpally,2,1146,1,8,Furnished,1,1,10420574
+Hyderabad,Telangana,Kukatpally,2,1137,1,17,Unfurnished,1,1,9000391
+Hyderabad,Telangana,Kukatpally,1,561,0,0,Semi-furnished,1,0,3464528
+Hyderabad,Telangana,Kukatpally,3,1275,1,8,Semi-furnished,1,1,9878040
+Hyderabad,Telangana,Kukatpally,3,1721,0,3,Unfurnished,0,1,11374030
+Hyderabad,Telangana,Kukatpally,2,1192,0,4,Semi-furnished,1,0,8538078
+Hyderabad,Telangana,Kukatpally,2,865,0,4,Semi-furnished,1,1,5859420
+Hyderabad,Telangana,Kukatpally,2,791,1,3,Unfurnished,1,1,5519484
+Hyderabad,Telangana,Kukatpally,1,519,0,0,Semi-furnished,0,1,3310161
+Hyderabad,Telangana,Kukatpally,2,1203,0,11,Semi-furnished,0,0,7657403
+Hyderabad,Telangana,Kukatpally,1,693,1,7,Furnished,1,1,5969607
+Hyderabad,Telangana,Kukatpally,3,1491,1,15,Unfurnished,0,0,12253762
+Hyderabad,Telangana,Kukatpally,2,1002,1,5,Unfurnished,1,0,7327201
+Hyderabad,Telangana,Kukatpally,1,402,1,18,Semi-furnished,1,1,3053026
+Hyderabad,Telangana,Kukatpally,1,477,0,13,Unfurnished,1,1,2863526
+Hyderabad,Telangana,Kukatpally,2,1157,0,4,Unfurnished,1,1,8200872
+Hyderabad,Telangana,Kukatpally,2,906,0,17,Unfurnished,1,1,5255612
+Hyderabad,Telangana,Kukatpally,3,1584,0,9,Unfurnished,1,1,10878448
+Hyderabad,Telangana,Kukatpally,2,1482,1,13,Semi-furnished,0,1,10950501
+Hyderabad,Telangana,Kukatpally,4,2268,0,3,Semi-furnished,1,0,14042465
+Hyderabad,Telangana,Kukatpally,4,2301,0,6,Semi-furnished,1,0,16203587
+Hyderabad,Telangana,Uppal,2,1131,1,1,Semi-furnished,1,1,5948400
+Hyderabad,Telangana,Uppal,3,1510,0,22,Unfurnished,1,0,5763393
+Hyderabad,Telangana,Uppal,3,1645,1,1,Unfurnished,1,1,10179405
+Hyderabad,Telangana,Uppal,2,921,1,22,Furnished,1,1,5424836
+Hyderabad,Telangana,Uppal,4,1938,0,3,Unfurnished,0,1,9571247
+Hyderabad,Telangana,Uppal,2,1117,0,14,Furnished,1,1,5838200
+Hyderabad,Telangana,Uppal,2,834,0,0,Unfurnished,0,1,3986831
+Hyderabad,Telangana,Uppal,4,2027,0,17,Semi-furnished,1,1,9803968
+Hyderabad,Telangana,Uppal,2,1046,0,2,Unfurnished,1,1,4838979
+Hyderabad,Telangana,Uppal,2,1131,0,20,Semi-furnished,1,1,5193967
+Hyderabad,Telangana,Uppal,4,2314,1,7,Furnished,1,1,17247096
+Hyderabad,Telangana,Uppal,2,1044,1,11,Semi-furnished,0,1,5579670
+Hyderabad,Telangana,Uppal,3,1521,0,10,Semi-furnished,0,1,8159722
+Hyderabad,Telangana,Uppal,2,1444,1,22,Semi-furnished,1,1,8972790
+Hyderabad,Telangana,Uppal,4,2464,1,11,Semi-furnished,0,1,14756212
+Hyderabad,Telangana,Uppal,2,1319,0,23,Semi-furnished,1,1,6879481
+Hyderabad,Telangana,Uppal,1,612,0,25,Unfurnished,1,0,3172691
+Hyderabad,Telangana,Uppal,3,1777,0,12,Unfurnished,1,1,9088354
+Hyderabad,Telangana,Uppal,3,1231,0,3,Semi-furnished,1,0,5144073
+Hyderabad,Telangana,Uppal,3,1677,0,8,Semi-furnished,1,1,7481353
+Hyderabad,Telangana,Uppal,4,1544,1,11,Semi-furnished,1,0,9967905
+Hyderabad,Telangana,Uppal,3,1666,0,13,Furnished,1,1,8462841
+Hyderabad,Telangana,Uppal,2,916,0,7,Furnished,1,1,5348476
+Hyderabad,Telangana,Uppal,3,1612,0,8,Semi-furnished,1,1,8270317
+Hyderabad,Telangana,Uppal,2,1024,1,10,Unfurnished,1,0,5537930
+Hyderabad,Telangana,Uppal,4,2192,0,7,Unfurnished,0,1,11065331
+Hyderabad,Telangana,Uppal,4,2110,0,13,Unfurnished,0,1,8640146
+Hyderabad,Telangana,Uppal,3,1478,0,3,Semi-furnished,1,0,7762817
+Hyderabad,Telangana,Uppal,4,2343,0,6,Furnished,1,1,12347138
+Hyderabad,Telangana,Uppal,3,1449,0,7,Unfurnished,1,1,7436763
+Hyderabad,Telangana,Uppal,2,884,0,14,Furnished,1,0,4624803
+Hyderabad,Telangana,Uppal,3,1342,0,21,Semi-furnished,1,1,7220210
+Hyderabad,Telangana,Uppal,3,1636,0,24,Unfurnished,1,0,7489249
+Hyderabad,Telangana,Uppal,2,1043,0,5,Unfurnished,1,1,5392067
+Hyderabad,Telangana,Uppal,2,1140,0,8,Semi-furnished,1,1,5233816
+Hyderabad,Telangana,Uppal,2,938,1,5,Furnished,1,1,6374386
+Hyderabad,Telangana,Uppal,1,874,0,0,Semi-furnished,0,0,5294701
+Hyderabad,Telangana,Uppal,4,2479,0,4,Unfurnished,1,0,12808242
+Hyderabad,Telangana,Uppal,3,1622,0,7,Unfurnished,1,1,6598956
+Hyderabad,Telangana,Uppal,2,1216,0,7,Unfurnished,1,1,5601837
+Hyderabad,Telangana,Uppal,3,1699,1,4,Semi-furnished,1,1,11236053
+Hyderabad,Telangana,Uppal,3,1726,0,19,Semi-furnished,1,1,8133914
+Hyderabad,Telangana,Uppal,3,1545,0,22,Semi-furnished,1,1,7179488
+Hyderabad,Telangana,Uppal,2,1249,0,25,Furnished,1,1,6296961
+Hyderabad,Telangana,Uppal,2,1150,1,12,Semi-furnished,0,1,6799573
+Mumbai,Maharashtra,Andheri,3,1576,0,4,Unfurnished,1,1,26988214
+Mumbai,Maharashtra,Andheri,2,807,0,12,Furnished,0,1,12473045
+Mumbai,Maharashtra,Andheri,1,555,0,6,Semi-furnished,1,0,10045519
+Mumbai,Maharashtra,Andheri,3,1414,1,9,Furnished,1,1,35272640
+Mumbai,Maharashtra,Andheri,1,642,1,24,Unfurnished,1,1,11512087
+Mumbai,Maharashtra,Andheri,2,901,0,5,Unfurnished,1,0,15692310
+Mumbai,Maharashtra,Andheri,1,633,0,24,Semi-furnished,1,1,10970272
+Mumbai,Maharashtra,Andheri,2,1061,0,7,Unfurnished,0,0,17509879
+Mumbai,Maharashtra,Andheri,3,1632,1,5,Semi-furnished,0,1,35077862
+Mumbai,Maharashtra,Andheri,2,1089,0,25,Semi-furnished,1,1,17836903
+Mumbai,Maharashtra,Andheri,2,981,1,11,Semi-furnished,1,0,18780376
+Mumbai,Maharashtra,Andheri,3,1620,0,10,Semi-furnished,1,1,31412285
+Mumbai,Maharashtra,Andheri,1,593,0,16,Semi-furnished,1,1,9857607
+Mumbai,Maharashtra,Andheri,3,1575,0,13,Semi-furnished,1,1,26842439
+Mumbai,Maharashtra,Andheri,3,1675,1,6,Semi-furnished,1,0,30883427
+Mumbai,Maharashtra,Andheri,1,699,1,0,Unfurnished,1,0,11992698
+Mumbai,Maharashtra,Andheri,2,790,0,8,Unfurnished,0,1,12595551
+Mumbai,Maharashtra,Andheri,1,810,0,3,Semi-furnished,1,1,12547946
+Mumbai,Maharashtra,Andheri,4,2261,1,0,Furnished,1,0,49463644
+Mumbai,Maharashtra,Andheri,3,1458,1,18,Semi-furnished,1,1,29521414
+Mumbai,Maharashtra,Andheri,2,1087,1,13,Semi-furnished,1,1,21820263
+Mumbai,Maharashtra,Andheri,3,1488,1,13,Semi-furnished,1,1,30876305
+Mumbai,Maharashtra,Andheri,2,1003,0,14,Semi-furnished,1,1,15388102
+Mumbai,Maharashtra,Andheri,3,1907,0,7,Semi-furnished,1,1,33103228
+Mumbai,Maharashtra,Andheri,4,2055,0,23,Semi-furnished,0,1,33194312
+Mumbai,Maharashtra,Andheri,2,1036,0,10,Unfurnished,0,0,14463175
+Mumbai,Maharashtra,Andheri,1,658,0,12,Unfurnished,1,0,11010600
+Mumbai,Maharashtra,Andheri,4,2285,0,19,Semi-furnished,1,1,43899166
+Mumbai,Maharashtra,Andheri,2,1128,0,18,Semi-furnished,1,0,16352219
+Mumbai,Maharashtra,Andheri,2,993,0,4,Furnished,0,1,20366810
+Mumbai,Maharashtra,Andheri,1,761,0,11,Unfurnished,1,1,12351641
+Mumbai,Maharashtra,Andheri,2,879,0,5,Unfurnished,0,1,12821352
+Mumbai,Maharashtra,Andheri,4,1934,0,6,Unfurnished,1,0,31373570
+Mumbai,Maharashtra,Andheri,1,870,0,18,Semi-furnished,1,1,17782987
+Mumbai,Maharashtra,Andheri,2,865,0,8,Unfurnished,0,1,14495839
+Mumbai,Maharashtra,Andheri,1,679,0,14,Semi-furnished,1,1,12415308
+Mumbai,Maharashtra,Andheri,3,1227,0,1,Unfurnished,1,1,23351898
+Mumbai,Maharashtra,Andheri,3,1539,1,15,Semi-furnished,1,1,30975482
+Mumbai,Maharashtra,Andheri,1,667,0,12,Furnished,1,1,9901014
+Mumbai,Maharashtra,Andheri,3,1492,0,17,Unfurnished,0,0,25075483
+Mumbai,Maharashtra,Andheri,3,1355,1,24,Semi-furnished,1,1,30219020
+Mumbai,Maharashtra,Andheri,2,986,1,3,Furnished,1,0,19898586
+Mumbai,Maharashtra,Andheri,1,669,0,10,Semi-furnished,1,0,11656519
+Mumbai,Maharashtra,Andheri,3,1641,0,25,Semi-furnished,1,1,24770382
+Mumbai,Maharashtra,Andheri,2,892,0,4,Semi-furnished,1,1,14395166
+Mumbai,Maharashtra,Thane,2,953,0,3,Unfurnished,1,1,8473035
+Mumbai,Maharashtra,Thane,2,1175,0,1,Semi-furnished,1,1,11991817
+Mumbai,Maharashtra,Thane,3,1340,1,12,Unfurnished,1,1,15994458
+Mumbai,Maharashtra,Thane,2,1261,1,7,Semi-furnished,1,1,16252790
+Mumbai,Maharashtra,Thane,2,834,0,25,Furnished,1,1,8445216
+Mumbai,Maharashtra,Thane,4,1979,0,8,Semi-furnished,1,1,24206953
+Mumbai,Maharashtra,Thane,3,1368,0,3,Unfurnished,1,1,12521403
+Mumbai,Maharashtra,Thane,3,1468,0,13,Unfurnished,1,1,13989608
+Mumbai,Maharashtra,Thane,1,601,0,20,Unfurnished,1,1,5968382
+Mumbai,Maharashtra,Thane,2,1036,1,11,Unfurnished,1,0,12133415
+Mumbai,Maharashtra,Thane,2,934,0,8,Unfurnished,0,1,8822919
+Mumbai,Maharashtra,Thane,2,879,1,10,Furnished,1,1,10836226
+Mumbai,Maharashtra,Thane,3,1663,1,24,Semi-furnished,0,1,15935222
+Mumbai,Maharashtra,Thane,4,2296,0,17,Unfurnished,0,1,22240473
+Mumbai,Maharashtra,Thane,3,1604,0,15,Semi-furnished,0,1,14438928
+Mumbai,Maharashtra,Thane,1,618,1,21,Unfurnished,1,1,7008823
+Mumbai,Maharashtra,Thane,2,1128,0,13,Semi-furnished,1,1,12269701
+Mumbai,Maharashtra,Thane,2,947,1,11,Unfurnished,1,1,11930452
+Mumbai,Maharashtra,Thane,1,740,0,12,Furnished,1,0,7842540
+Mumbai,Maharashtra,Thane,2,902,0,3,Semi-furnished,1,0,9429116
+Mumbai,Maharashtra,Thane,2,1533,1,16,Furnished,1,1,22779203
+Mumbai,Maharashtra,Thane,2,807,0,17,Unfurnished,1,0,6987875
+Mumbai,Maharashtra,Thane,2,1100,0,0,Unfurnished,1,1,11692768
+Mumbai,Maharashtra,Thane,4,2041,0,22,Furnished,1,1,21512137
+Mumbai,Maharashtra,Thane,3,1615,1,0,Semi-furnished,1,1,19786111
+Mumbai,Maharashtra,Thane,1,680,1,19,Unfurnished,1,0,6607880
+Mumbai,Maharashtra,Thane,3,1494,0,1,Furnished,0,1,17509706
+Mumbai,Maharashtra,Thane,1,701,0,23,Semi-furnished,1,1,5723676
+Mumbai,Maharashtra,Thane,2,1094,0,7,Semi-furnished,1,1,10957397
+Mumbai,Maharashtra,Thane,1,729,0,17,Furnished,1,1,7886115
+Mumbai,Maharashtra,Thane,2,1033,1,11,Semi-furnished,1,1,14534443
+Mumbai,Maharashtra,Thane,2,1507,0,16,Unfurnished,1,0,16417890
+Mumbai,Maharashtra,Thane,3,1671,1,24,Unfurnished,1,1,19659239
+Mumbai,Maharashtra,Thane,1,670,0,2,Furnished,0,0,6292093
+Mumbai,Maharashtra,Thane,2,903,1,8,Furnished,1,1,11100615
+Mumbai,Maharashtra,Thane,1,625,0,24,Furnished,1,1,6798116
+Mumbai,Maharashtra,Thane,2,1206,0,18,Semi-furnished,1,1,10848247
+Mumbai,Maharashtra,Thane,2,956,0,6,Semi-furnished,1,0,9448990
+Mumbai,Maharashtra,Thane,1,552,1,5,Unfurnished,1,0,6380178
+Mumbai,Maharashtra,Thane,2,915,0,4,Furnished,1,0,9358392
+Mumbai,Maharashtra,Thane,3,1364,1,13,Semi-furnished,1,1,15311743
+Mumbai,Maharashtra,Thane,2,1060,0,5,Semi-furnished,1,1,10772411
+Mumbai,Maharashtra,Thane,2,1203,1,23,Semi-furnished,1,0,16271361
+Mumbai,Maharashtra,Thane,1,435,0,15,Unfurnished,1,1,4239278
+Mumbai,Maharashtra,Thane,1,645,0,7,Semi-furnished,0,1,6514138
+Mumbai,Maharashtra,Powai,2,1066,0,7,Unfurnished,1,1,17360093
+Mumbai,Maharashtra,Powai,2,1307,1,0,Unfurnished,1,0,25094958
+Mumbai,Maharashtra,Powai,2,1054,1,14,Unfurnished,1,1,18464131
+Mumbai,Maharashtra,Powai,2,1100,1,3,Semi-furnished,1,1,19665996
+Mumbai,Maharashtra,Powai,1,518,0,21,Furnished,1,1,7911242
+Mumbai,Maharashtra,Powai,4,2191,0,22,Semi-furnished,1,0,33639131
+Mumbai,Maharashtra,Powai,2,1030,0,3,Semi-furnished,1,1,19558488
+Mumbai,Maharashtra,Powai,3,1081,0,11,Semi-furnished,0,1,17193330
+Mumbai,Maharashtra,Powai,3,1368,0,11,Semi-furnished,1,1,18500610
+Mumbai,Maharashtra,Powai,1,666,0,0,Semi-furnished,1,1,11105549
+Mumbai,Maharashtra,Powai,2,908,0,9,Unfurnished,1,1,15894191
+Mumbai,Maharashtra,Powai,3,1741,0,19,Furnished,0,0,26293835
+Mumbai,Maharashtra,Powai,2,944,1,15,Unfurnished,0,1,17363634
+Mumbai,Maharashtra,Powai,3,1719,1,0,Semi-furnished,0,1,34383852
+Mumbai,Maharashtra,Powai,2,1023,0,14,Semi-furnished,0,1,16158614
+Mumbai,Maharashtra,Powai,2,1168,1,4,Semi-furnished,1,0,18243219
+Mumbai,Maharashtra,Powai,2,907,0,0,Unfurnished,1,0,15891102
+Mumbai,Maharashtra,Powai,2,942,1,22,Unfurnished,1,1,15737110
+Mumbai,Maharashtra,Powai,2,969,0,20,Semi-furnished,1,0,13624783
+Mumbai,Maharashtra,Powai,2,1125,0,2,Semi-furnished,1,0,16839641
+Mumbai,Maharashtra,Powai,1,729,0,22,Semi-furnished,1,1,11772900
+Mumbai,Maharashtra,Powai,3,1540,1,1,Semi-furnished,1,0,34822276
+Mumbai,Maharashtra,Powai,3,1581,0,13,Furnished,1,0,23200544
+Mumbai,Maharashtra,Powai,2,857,1,8,Semi-furnished,1,0,17939111
+Mumbai,Maharashtra,Powai,2,1161,1,23,Furnished,1,1,20456163
+Mumbai,Maharashtra,Powai,2,1013,0,15,Semi-furnished,1,0,16530780
+Mumbai,Maharashtra,Powai,3,1445,0,3,Semi-furnished,1,0,23764155
+Mumbai,Maharashtra,Powai,2,1060,0,3,Unfurnished,1,0,18394505
+Mumbai,Maharashtra,Powai,3,1555,0,11,Unfurnished,0,1,21226575
+Mumbai,Maharashtra,Powai,2,895,0,17,Unfurnished,1,1,13971079
+Mumbai,Maharashtra,Powai,1,407,1,23,Furnished,0,1,7164866
+Mumbai,Maharashtra,Powai,3,1568,0,10,Semi-furnished,1,1,22129539
+Mumbai,Maharashtra,Powai,3,1441,0,11,Unfurnished,0,0,21855217
+Mumbai,Maharashtra,Powai,1,400,0,10,Furnished,1,0,6452455
+Mumbai,Maharashtra,Powai,3,1559,0,3,Furnished,1,1,20887725
+Mumbai,Maharashtra,Powai,3,1644,1,11,Semi-furnished,1,1,33051227
+Mumbai,Maharashtra,Powai,4,2490,0,10,Semi-furnished,0,0,42988198
+Mumbai,Maharashtra,Powai,2,1009,1,1,Unfurnished,1,1,20080020
+Mumbai,Maharashtra,Powai,2,1314,0,9,Semi-furnished,0,1,20284132
+Mumbai,Maharashtra,Powai,2,901,0,20,Furnished,1,1,13853405
+Mumbai,Maharashtra,Powai,2,972,0,1,Unfurnished,1,1,16251334
+Mumbai,Maharashtra,Powai,1,646,0,7,Unfurnished,1,0,10462079
+Mumbai,Maharashtra,Powai,1,556,0,16,Furnished,0,0,8853659
+Mumbai,Maharashtra,Powai,2,609,0,21,Semi-furnished,1,0,9742650
+Mumbai,Maharashtra,Powai,2,1044,1,24,Semi-furnished,1,0,18196771
+Mumbai,Maharashtra,Navi Mumbai,2,1188,0,14,Semi-furnished,0,1,12728524
+Mumbai,Maharashtra,Navi Mumbai,1,564,0,18,Unfurnished,1,0,6963586
+Mumbai,Maharashtra,Navi Mumbai,4,2439,1,10,Unfurnished,1,0,29670546
+Mumbai,Maharashtra,Navi Mumbai,2,1071,0,25,Furnished,1,0,10430318
+Mumbai,Maharashtra,Navi Mumbai,2,1275,0,14,Unfurnished,0,1,11545101
+Mumbai,Maharashtra,Navi Mumbai,3,1462,0,19,Semi-furnished,1,1,14563466
+Mumbai,Maharashtra,Navi Mumbai,2,1100,0,17,Unfurnished,1,1,10886845
+Mumbai,Maharashtra,Navi Mumbai,3,1550,1,11,Semi-furnished,1,1,19328218
+Mumbai,Maharashtra,Navi Mumbai,2,1109,0,20,Unfurnished,1,1,12220318
+Mumbai,Maharashtra,Navi Mumbai,3,1554,0,23,Unfurnished,0,1,14810820
+Mumbai,Maharashtra,Navi Mumbai,2,1208,0,7,Unfurnished,1,0,12398978
+Mumbai,Maharashtra,Navi Mumbai,2,736,1,10,Unfurnished,0,1,10010751
+Mumbai,Maharashtra,Navi Mumbai,3,1448,0,14,Furnished,1,1,17673700
+Mumbai,Maharashtra,Navi Mumbai,1,555,0,7,Semi-furnished,1,1,5430724
+Mumbai,Maharashtra,Navi Mumbai,3,1384,0,18,Unfurnished,1,1,17937170
+Mumbai,Maharashtra,Navi Mumbai,1,794,0,13,Unfurnished,1,1,7234446
+Mumbai,Maharashtra,Navi Mumbai,3,1538,0,16,Unfurnished,1,0,16615996
+Mumbai,Maharashtra,Navi Mumbai,2,867,0,25,Furnished,1,1,8725517
+Mumbai,Maharashtra,Navi Mumbai,1,656,0,3,Furnished,0,1,6471361
+Mumbai,Maharashtra,Navi Mumbai,1,715,0,18,Furnished,1,1,8646305
+Mumbai,Maharashtra,Navi Mumbai,4,1989,0,25,Unfurnished,1,1,19059467
+Mumbai,Maharashtra,Navi Mumbai,2,1326,1,10,Unfurnished,1,1,16616384
+Mumbai,Maharashtra,Navi Mumbai,2,1044,0,16,Semi-furnished,1,0,9654035
+Mumbai,Maharashtra,Navi Mumbai,1,589,1,3,Semi-furnished,1,1,7851434
+Mumbai,Maharashtra,Navi Mumbai,3,1743,1,15,Unfurnished,1,0,18487449
+Mumbai,Maharashtra,Navi Mumbai,3,1117,0,5,Semi-furnished,0,0,10957722
+Mumbai,Maharashtra,Navi Mumbai,2,890,0,8,Unfurnished,0,1,9363396
+Mumbai,Maharashtra,Navi Mumbai,1,631,1,0,Semi-furnished,1,1,7704110
+Mumbai,Maharashtra,Navi Mumbai,3,1399,0,2,Unfurnished,0,0,13532835
+Mumbai,Maharashtra,Navi Mumbai,3,1329,1,23,Unfurnished,0,1,16189843
+Mumbai,Maharashtra,Navi Mumbai,2,882,0,8,Semi-furnished,1,1,8888402
+Mumbai,Maharashtra,Navi Mumbai,3,1551,0,5,Unfurnished,1,1,17228998
+Mumbai,Maharashtra,Navi Mumbai,3,1467,0,5,Unfurnished,1,0,14391230
+Mumbai,Maharashtra,Navi Mumbai,2,1136,0,6,Semi-furnished,1,1,12891006
+Mumbai,Maharashtra,Navi Mumbai,3,1534,0,8,Unfurnished,1,0,15965671
+Mumbai,Maharashtra,Navi Mumbai,3,1595,0,15,Semi-furnished,0,1,14278125
+Mumbai,Maharashtra,Navi Mumbai,3,1553,0,3,Unfurnished,1,0,14520131
+Mumbai,Maharashtra,Navi Mumbai,2,1217,0,6,Furnished,0,1,12888743
+Mumbai,Maharashtra,Navi Mumbai,1,698,0,14,Semi-furnished,1,0,6793621
+Mumbai,Maharashtra,Navi Mumbai,1,603,0,7,Furnished,1,1,7981867
+Mumbai,Maharashtra,Navi Mumbai,2,1046,0,9,Semi-furnished,1,1,12827309
+Mumbai,Maharashtra,Navi Mumbai,2,1061,0,7,Semi-furnished,0,1,12287105
+Mumbai,Maharashtra,Navi Mumbai,1,606,1,2,Semi-furnished,1,0,8506130
+Mumbai,Maharashtra,Navi Mumbai,3,1231,0,10,Furnished,1,1,14500542
+Mumbai,Maharashtra,Navi Mumbai,3,1714,0,6,Unfurnished,1,1,16177428
+Delhi,Delhi,Dwarka,1,685,0,14,Furnished,0,1,6276878
+Delhi,Delhi,Dwarka,4,1923,0,0,Semi-furnished,0,1,16476783
+Delhi,Delhi,Dwarka,2,1008,0,24,Semi-furnished,0,1,7227901
+Delhi,Delhi,Dwarka,4,1888,0,4,Unfurnished,1,1,17047993
+Delhi,Delhi,Dwarka,1,612,0,7,Furnished,1,1,5534405
+Delhi,Delhi,Dwarka,4,1995,1,8,Semi-furnished,1,0,23529521
+Delhi,Delhi,Dwarka,1,754,0,21,Unfurnished,0,0,5237111
+Delhi,Delhi,Dwarka,2,942,1,25,Unfurnished,1,1,7930196
+Delhi,Delhi,Dwarka,2,1242,0,25,Unfurnished,1,1,11199284
+Delhi,Delhi,Dwarka,1,663,0,23,Unfurnished,1,1,5330774
+Delhi,Delhi,Dwarka,2,1054,1,1,Unfurnished,1,0,11144685
+Delhi,Delhi,Dwarka,3,1097,1,19,Unfurnished,1,1,13274749
+Delhi,Delhi,Dwarka,2,1223,1,15,Semi-furnished,1,0,12234771
+Delhi,Delhi,Dwarka,2,960,0,16,Furnished,0,0,7994772
+Delhi,Delhi,Dwarka,2,1334,1,0,Semi-furnished,1,1,16209967
+Delhi,Delhi,Dwarka,2,1200,0,12,Unfurnished,0,1,11194280
+Delhi,Delhi,Dwarka,1,653,0,2,Unfurnished,1,1,6270353
+Delhi,Delhi,Dwarka,2,1017,0,15,Unfurnished,1,1,8615229
+Delhi,Delhi,Dwarka,2,1141,0,16,Semi-furnished,1,1,9724576
+Delhi,Delhi,Dwarka,1,693,0,2,Unfurnished,1,1,6316195
+Delhi,Delhi,Dwarka,3,1397,0,12,Unfurnished,1,1,12719921
+Delhi,Delhi,Dwarka,3,954,0,6,Furnished,1,1,8676192
+Delhi,Delhi,Dwarka,3,1252,1,1,Semi-furnished,1,1,15351204
+Delhi,Delhi,Dwarka,1,591,0,19,Furnished,1,0,6108058
+Delhi,Delhi,Dwarka,3,1328,0,24,Semi-furnished,1,1,13759201
+Delhi,Delhi,Dwarka,3,1482,1,25,Unfurnished,1,0,16370787
+Delhi,Delhi,Dwarka,3,1373,0,15,Unfurnished,1,1,12254738
+Delhi,Delhi,Dwarka,2,1082,0,9,Unfurnished,1,0,9433697
+Delhi,Delhi,Dwarka,1,679,0,11,Unfurnished,0,1,5201918
+Delhi,Delhi,Dwarka,1,630,0,13,Furnished,1,0,5708589
+Delhi,Delhi,Dwarka,3,1309,0,3,Semi-furnished,1,1,11732926
+Delhi,Delhi,Dwarka,3,1602,0,22,Furnished,1,0,15455074
+Delhi,Delhi,Dwarka,3,1757,1,8,Unfurnished,1,1,18530264
+Delhi,Delhi,Dwarka,3,1440,0,7,Semi-furnished,1,1,13071693
+Delhi,Delhi,Dwarka,1,680,1,24,Furnished,1,1,8017040
+Delhi,Delhi,Dwarka,3,1700,1,15,Unfurnished,1,1,16445458
+Delhi,Delhi,Dwarka,2,1249,0,3,Furnished,0,1,12578157
+Delhi,Delhi,Dwarka,2,841,0,1,Unfurnished,1,1,7005774
+Delhi,Delhi,Dwarka,2,839,0,20,Semi-furnished,1,0,7908842
+Delhi,Delhi,Dwarka,3,1612,0,13,Semi-furnished,0,1,16768974
+Delhi,Delhi,Dwarka,2,1103,0,17,Furnished,1,1,9408507
+Delhi,Delhi,Dwarka,2,1179,0,7,Furnished,0,1,11293456
+Delhi,Delhi,Dwarka,2,946,0,12,Furnished,1,1,8352226
+Delhi,Delhi,Dwarka,4,2409,0,0,Semi-furnished,1,1,24467208
+Delhi,Delhi,Dwarka,3,1303,1,9,Unfurnished,0,1,14634759
+Delhi,Delhi,Rohini,3,1133,1,12,Semi-furnished,1,1,11235016
+Delhi,Delhi,Rohini,2,1333,0,7,Furnished,1,0,11726672
+Delhi,Delhi,Rohini,2,1286,0,16,Unfurnished,1,0,10630686
+Delhi,Delhi,Rohini,3,1538,0,17,Unfurnished,1,0,10262688
+Delhi,Delhi,Rohini,2,1120,0,1,Semi-furnished,1,1,9354842
+Delhi,Delhi,Rohini,1,728,0,3,Furnished,1,1,6146778
+Delhi,Delhi,Rohini,2,1319,1,13,Unfurnished,1,1,12505106
+Delhi,Delhi,Rohini,4,2295,0,8,Unfurnished,0,1,19245045
+Delhi,Delhi,Rohini,3,1439,1,12,Semi-furnished,0,1,14377129
+Delhi,Delhi,Rohini,2,1210,1,10,Unfurnished,0,0,12655235
+Delhi,Delhi,Rohini,2,823,0,11,Furnished,1,0,7235953
+Delhi,Delhi,Rohini,3,1165,1,17,Semi-furnished,1,1,11292630
+Delhi,Delhi,Rohini,2,1211,0,12,Furnished,1,1,11513507
+Delhi,Delhi,Rohini,2,1179,1,9,Semi-furnished,1,1,11540327
+Delhi,Delhi,Rohini,1,734,1,16,Furnished,1,0,6857114
+Delhi,Delhi,Rohini,1,740,0,4,Unfurnished,0,1,6371738
+Delhi,Delhi,Rohini,3,1371,1,19,Unfurnished,0,1,10881926
+Delhi,Delhi,Rohini,2,1042,1,5,Semi-furnished,1,1,11853999
+Delhi,Delhi,Rohini,2,1022,1,24,Furnished,1,0,8185209
+Delhi,Delhi,Rohini,3,1618,1,18,Semi-furnished,0,1,15045644
+Delhi,Delhi,Rohini,4,2226,0,4,Semi-furnished,0,1,17473333
+Delhi,Delhi,Rohini,2,995,0,14,Semi-furnished,1,1,8661011
+Delhi,Delhi,Rohini,3,1627,0,24,Unfurnished,1,1,14151492
+Delhi,Delhi,Rohini,1,561,0,16,Semi-furnished,1,0,4162727
+Delhi,Delhi,Rohini,3,1566,0,2,Semi-furnished,0,1,10356282
+Delhi,Delhi,Rohini,1,583,0,1,Semi-furnished,0,1,4915063
+Delhi,Delhi,Rohini,3,1576,0,1,Unfurnished,1,0,12120676
+Delhi,Delhi,Rohini,2,1060,0,9,Semi-furnished,1,0,9009059
+Delhi,Delhi,Rohini,4,2320,1,4,Semi-furnished,0,1,23089304
+Delhi,Delhi,Rohini,2,1135,0,3,Furnished,1,1,9228560
+Delhi,Delhi,Rohini,3,1607,0,16,Furnished,0,1,13064548
+Delhi,Delhi,Rohini,2,1290,0,14,Unfurnished,1,1,9856822
+Delhi,Delhi,Rohini,1,593,1,25,Semi-furnished,0,1,4761368
+Delhi,Delhi,Rohini,3,1578,0,20,Furnished,1,0,13265057
+Delhi,Delhi,Rohini,1,540,0,24,Semi-furnished,1,1,4401670
+Delhi,Delhi,Rohini,3,1484,0,19,Furnished,1,0,12397974
+Delhi,Delhi,Rohini,3,1785,0,3,Semi-furnished,0,0,14100938
+Delhi,Delhi,Rohini,3,1512,1,2,Unfurnished,1,0,15057966
+Delhi,Delhi,Rohini,3,1363,0,19,Furnished,1,1,11655662
+Delhi,Delhi,Rohini,2,873,0,23,Semi-furnished,1,1,7330367
+Delhi,Delhi,Rohini,2,954,1,10,Unfurnished,1,1,9180751
+Delhi,Delhi,Rohini,1,878,0,25,Semi-furnished,0,0,7137270
+Delhi,Delhi,Rohini,4,958,0,17,Semi-furnished,1,1,8268148
+Delhi,Delhi,Rohini,3,1053,0,10,Unfurnished,0,1,7802496
+Delhi,Delhi,Rohini,3,1631,1,9,Semi-furnished,1,0,13668458
+Delhi,Delhi,Saket,3,1574,1,25,Semi-furnished,1,1,25584855
+Delhi,Delhi,Saket,1,620,0,2,Furnished,1,1,9964212
+Delhi,Delhi,Saket,3,1481,0,16,Semi-furnished,1,1,19845854
+Delhi,Delhi,Saket,1,652,0,21,Semi-furnished,1,1,9187601
+Delhi,Delhi,Saket,2,975,0,13,Semi-furnished,1,1,11755195
+Delhi,Delhi,Saket,1,773,1,12,Unfurnished,1,1,14660367
+Delhi,Delhi,Saket,2,1358,1,4,Semi-furnished,0,1,23330990
+Delhi,Delhi,Saket,2,1133,0,7,Unfurnished,1,1,16196949
+Delhi,Delhi,Saket,4,2325,0,9,Semi-furnished,1,1,33041780
+Delhi,Delhi,Saket,2,985,0,16,Semi-furnished,1,0,17444268
+Delhi,Delhi,Saket,1,667,1,21,Semi-furnished,1,1,9032151
+Delhi,Delhi,Saket,1,773,0,15,Unfurnished,0,0,8419410
+Delhi,Delhi,Saket,3,1645,1,16,Unfurnished,1,0,28586377
+Delhi,Delhi,Saket,4,1709,0,9,Unfurnished,1,0,25712309
+Delhi,Delhi,Saket,2,1083,1,1,Unfurnished,1,0,22605587
+Delhi,Delhi,Saket,2,966,0,5,Unfurnished,1,1,13587782
+Delhi,Delhi,Saket,3,1728,0,21,Unfurnished,1,0,23028981
+Delhi,Delhi,Saket,2,1073,1,14,Semi-furnished,1,0,17294676
+Delhi,Delhi,Saket,1,809,0,15,Semi-furnished,0,1,12321277
+Delhi,Delhi,Saket,3,1415,0,2,Unfurnished,0,0,19728795
+Delhi,Delhi,Saket,2,1107,1,25,Furnished,1,1,18620429
+Delhi,Delhi,Saket,3,1317,0,12,Semi-furnished,1,1,19867359
+Delhi,Delhi,Saket,2,1157,0,6,Semi-furnished,1,1,17540386
+Delhi,Delhi,Saket,3,1247,0,22,Semi-furnished,1,1,21037927
+Delhi,Delhi,Saket,3,1397,0,0,Semi-furnished,1,0,20227439
+Delhi,Delhi,Saket,4,2340,1,17,Unfurnished,0,1,37516591
+Delhi,Delhi,Saket,2,1251,0,5,Semi-furnished,1,0,17975564
+Delhi,Delhi,Saket,4,2378,1,16,Furnished,1,1,42714725
+Delhi,Delhi,Saket,2,1234,1,2,Furnished,1,0,22010298
+Delhi,Delhi,Saket,1,595,1,3,Furnished,1,1,11483430
+Delhi,Delhi,Saket,3,1533,0,12,Unfurnished,0,0,18967105
+Delhi,Delhi,Saket,3,1720,1,12,Unfurnished,1,1,32923087
+Delhi,Delhi,Saket,1,827,1,25,Unfurnished,1,1,15490731
+Delhi,Delhi,Saket,4,2106,0,11,Unfurnished,1,1,29308188
+Delhi,Delhi,Saket,3,1469,0,23,Unfurnished,1,1,17822211
+Delhi,Delhi,Saket,2,1241,0,20,Unfurnished,0,1,16605967
+Delhi,Delhi,Saket,3,1526,0,5,Unfurnished,1,0,26313959
+Delhi,Delhi,Saket,2,873,0,0,Furnished,0,0,13756788
+Delhi,Delhi,Saket,3,1453,0,7,Semi-furnished,0,1,22205078
+Delhi,Delhi,Saket,1,704,0,17,Furnished,1,0,8456158
+Delhi,Delhi,Saket,3,1331,0,2,Semi-furnished,1,1,16659216
+Delhi,Delhi,Saket,2,1021,0,9,Unfurnished,1,1,13736401
+Delhi,Delhi,Saket,4,2514,0,3,Semi-furnished,1,0,36259664
+Delhi,Delhi,Saket,2,1263,1,14,Semi-furnished,0,1,21359281
+Delhi,Delhi,Saket,1,599,1,10,Unfurnished,0,0,9481042
+Delhi,Delhi,Uttam Nagar,2,702,0,2,Semi-furnished,1,0,3590672
+Delhi,Delhi,Uttam Nagar,4,2163,0,7,Semi-furnished,0,0,14974154
+Delhi,Delhi,Uttam Nagar,3,1237,1,17,Unfurnished,1,1,9245097
+Delhi,Delhi,Uttam Nagar,3,1229,0,16,Semi-furnished,0,1,7836860
+Delhi,Delhi,Uttam Nagar,1,571,0,3,Unfurnished,1,1,3511732
+Delhi,Delhi,Uttam Nagar,3,1472,1,17,Furnished,1,1,10768380
+Delhi,Delhi,Uttam Nagar,2,741,0,13,Semi-furnished,1,0,4221767
+Delhi,Delhi,Uttam Nagar,3,1603,0,18,Semi-furnished,1,0,8335486
+Delhi,Delhi,Uttam Nagar,3,1647,0,5,Semi-furnished,0,1,9610802
+Delhi,Delhi,Uttam Nagar,1,542,1,3,Semi-furnished,1,1,4504001
+Delhi,Delhi,Uttam Nagar,1,555,0,10,Unfurnished,1,0,3412471
+Delhi,Delhi,Uttam Nagar,2,1099,0,10,Semi-furnished,0,1,6069461
+Delhi,Delhi,Uttam Nagar,2,1161,0,1,Unfurnished,1,0,8396755
+Delhi,Delhi,Uttam Nagar,2,936,0,3,Furnished,0,1,5415308
+Delhi,Delhi,Uttam Nagar,2,1149,0,2,Semi-furnished,0,0,6757679
+Delhi,Delhi,Uttam Nagar,1,741,1,21,Furnished,1,1,5490153
+Delhi,Delhi,Uttam Nagar,2,971,1,8,Furnished,1,0,8542889
+Delhi,Delhi,Uttam Nagar,2,1011,0,9,Unfurnished,1,1,6919288
+Delhi,Delhi,Uttam Nagar,1,548,0,12,Semi-furnished,0,1,3246518
+Delhi,Delhi,Uttam Nagar,1,519,0,0,Semi-furnished,1,0,3245681
+Delhi,Delhi,Uttam Nagar,2,1073,1,11,Semi-furnished,1,1,6624815
+Delhi,Delhi,Uttam Nagar,3,1775,1,2,Furnished,1,0,15550363
+Delhi,Delhi,Uttam Nagar,3,1402,1,19,Unfurnished,1,1,9330571
+Delhi,Delhi,Uttam Nagar,3,1275,1,7,Furnished,1,1,9996401
+Delhi,Delhi,Uttam Nagar,3,1687,1,23,Semi-furnished,1,1,12776860
+Delhi,Delhi,Uttam Nagar,3,993,0,3,Furnished,0,1,6369875
+Delhi,Delhi,Uttam Nagar,3,1825,0,6,Semi-furnished,1,1,8902034
+Delhi,Delhi,Uttam Nagar,3,1506,0,10,Unfurnished,0,1,7704163
+Delhi,Delhi,Uttam Nagar,4,2117,0,8,Semi-furnished,1,1,13115942
+Delhi,Delhi,Uttam Nagar,4,2063,0,11,Unfurnished,1,0,11274213
+Delhi,Delhi,Uttam Nagar,2,1258,0,14,Semi-furnished,0,1,8531450
+Delhi,Delhi,Uttam Nagar,2,1193,0,9,Semi-furnished,1,0,8131643
+Delhi,Delhi,Uttam Nagar,3,1539,0,16,Furnished,1,1,9243697
+Delhi,Delhi,Uttam Nagar,3,1439,1,5,Unfurnished,1,0,10494627
+Delhi,Delhi,Uttam Nagar,4,1927,0,10,Unfurnished,0,1,11179334
+Delhi,Delhi,Uttam Nagar,3,1467,0,3,Furnished,0,0,9419286
+Delhi,Delhi,Uttam Nagar,2,1221,1,3,Unfurnished,1,0,9197130
+Delhi,Delhi,Uttam Nagar,3,1636,1,18,Semi-furnished,0,1,10551675
+Delhi,Delhi,Uttam Nagar,3,1288,0,3,Semi-furnished,1,0,8149700
+Delhi,Delhi,Uttam Nagar,1,688,0,8,Unfurnished,1,1,3418290
+Delhi,Delhi,Uttam Nagar,4,2906,0,16,Unfurnished,1,1,13765579
+Delhi,Delhi,Uttam Nagar,4,2768,1,10,Unfurnished,0,1,22028655
+Delhi,Delhi,Uttam Nagar,3,1514,0,2,Semi-furnished,1,1,8796697
+Delhi,Delhi,Uttam Nagar,2,874,0,7,Semi-furnished,0,1,5065765
+Delhi,Delhi,Uttam Nagar,2,898,0,10,Semi-furnished,1,1,5454134
+Chennai,Tamil Nadu,OMR,3,1225,0,22,Unfurnished,0,1,7187009
+Chennai,Tamil Nadu,OMR,2,1322,0,18,Furnished,1,1,8205598
+Chennai,Tamil Nadu,OMR,2,979,0,19,Furnished,1,1,6756901
+Chennai,Tamil Nadu,OMR,1,779,0,2,Semi-furnished,1,1,5218581
+Chennai,Tamil Nadu,OMR,2,1225,1,0,Semi-furnished,0,1,8818265
+Chennai,Tamil Nadu,OMR,2,1216,0,19,Unfurnished,1,0,6380700
+Chennai,Tamil Nadu,OMR,3,1389,0,20,Unfurnished,1,1,8851999
+Chennai,Tamil Nadu,OMR,2,1200,0,3,Unfurnished,1,0,7040551
+Chennai,Tamil Nadu,OMR,4,1838,0,25,Semi-furnished,0,0,9870738
+Chennai,Tamil Nadu,OMR,2,957,0,7,Furnished,1,0,5996492
+Chennai,Tamil Nadu,OMR,1,715,1,23,Unfurnished,1,0,4188239
+Chennai,Tamil Nadu,OMR,1,687,1,3,Unfurnished,1,0,4949445
+Chennai,Tamil Nadu,OMR,2,872,1,9,Semi-furnished,1,1,6697112
+Chennai,Tamil Nadu,OMR,3,1465,0,7,Semi-furnished,1,1,10770168
+Chennai,Tamil Nadu,OMR,3,1309,1,18,Furnished,1,1,9991475
+Chennai,Tamil Nadu,OMR,2,1036,1,14,Furnished,1,0,9018375
+Chennai,Tamil Nadu,OMR,2,891,1,0,Unfurnished,0,0,5958475
+Chennai,Tamil Nadu,OMR,2,1021,0,22,Unfurnished,1,0,6110014
+Chennai,Tamil Nadu,OMR,2,1135,0,2,Semi-furnished,1,1,8491638
+Chennai,Tamil Nadu,OMR,4,2097,1,7,Unfurnished,1,1,16045767
+Chennai,Tamil Nadu,OMR,1,590,0,10,Furnished,1,1,4326158
+Chennai,Tamil Nadu,OMR,3,1447,1,15,Semi-furnished,1,0,13019542
+Chennai,Tamil Nadu,OMR,3,1635,0,1,Unfurnished,1,0,9197783
+Chennai,Tamil Nadu,OMR,3,1099,0,0,Furnished,1,1,8688668
+Chennai,Tamil Nadu,OMR,3,1393,0,1,Semi-furnished,1,1,9884119
+Chennai,Tamil Nadu,OMR,2,896,0,18,Furnished,1,1,5921902
+Chennai,Tamil Nadu,OMR,2,1225,1,22,Semi-furnished,1,1,9659814
+Chennai,Tamil Nadu,OMR,3,1520,1,8,Unfurnished,1,1,11107679
+Chennai,Tamil Nadu,OMR,2,846,0,11,Semi-furnished,1,1,5787795
+Chennai,Tamil Nadu,OMR,2,1200,1,20,Furnished,1,0,10006692
+Chennai,Tamil Nadu,OMR,1,623,0,1,Unfurnished,1,1,4391002
+Chennai,Tamil Nadu,OMR,2,890,0,11,Semi-furnished,0,0,5793519
+Chennai,Tamil Nadu,OMR,2,1044,0,4,Furnished,1,1,7034432
+Chennai,Tamil Nadu,OMR,2,1013,0,0,Unfurnished,1,1,6101192
+Chennai,Tamil Nadu,OMR,2,1048,0,9,Furnished,1,1,7282223
+Chennai,Tamil Nadu,OMR,1,559,0,3,Semi-furnished,1,1,3233882
+Chennai,Tamil Nadu,OMR,1,643,0,0,Unfurnished,1,1,3329183
+Chennai,Tamil Nadu,OMR,3,1530,1,11,Furnished,1,0,11204054
+Chennai,Tamil Nadu,OMR,3,1572,0,7,Unfurnished,1,1,9141590
+Chennai,Tamil Nadu,OMR,2,1029,0,0,Furnished,1,0,7012825
+Chennai,Tamil Nadu,OMR,2,861,0,21,Semi-furnished,1,1,3991421
+Chennai,Tamil Nadu,OMR,3,1488,0,1,Unfurnished,1,1,10230555
+Chennai,Tamil Nadu,OMR,3,1473,1,9,Semi-furnished,1,1,10569621
+Chennai,Tamil Nadu,OMR,3,1596,0,13,Semi-furnished,0,1,9251059
+Chennai,Tamil Nadu,OMR,2,1060,1,20,Semi-furnished,1,1,8242112
+Chennai,Tamil Nadu,Velachery,3,1454,0,16,Unfurnished,1,0,10614613
+Chennai,Tamil Nadu,Velachery,2,817,1,7,Semi-furnished,1,1,8267435
+Chennai,Tamil Nadu,Velachery,2,993,1,19,Semi-furnished,1,1,6960561
+Chennai,Tamil Nadu,Velachery,2,949,0,0,Unfurnished,0,1,6736636
+Chennai,Tamil Nadu,Velachery,3,1597,1,13,Unfurnished,1,0,17374753
+Chennai,Tamil Nadu,Velachery,2,1126,1,25,Furnished,1,1,10269459
+Chennai,Tamil Nadu,Velachery,1,495,0,20,Unfurnished,0,0,3571267
+Chennai,Tamil Nadu,Velachery,1,706,0,6,Semi-furnished,1,0,5379159
+Chennai,Tamil Nadu,Velachery,2,940,0,9,Semi-furnished,0,1,6965755
+Chennai,Tamil Nadu,Velachery,2,1162,0,14,Unfurnished,1,1,8077394
+Chennai,Tamil Nadu,Velachery,4,1801,0,23,Semi-furnished,1,1,14832014
+Chennai,Tamil Nadu,Velachery,1,524,0,11,Unfurnished,1,0,4512034
+Chennai,Tamil Nadu,Velachery,4,2338,1,20,Unfurnished,1,1,24074600
+Chennai,Tamil Nadu,Velachery,3,1387,0,13,Semi-furnished,1,1,12275059
+Chennai,Tamil Nadu,Velachery,3,1476,1,23,Unfurnished,1,1,12494443
+Chennai,Tamil Nadu,Velachery,2,1029,0,9,Unfurnished,1,1,7536524
+Chennai,Tamil Nadu,Velachery,4,2551,0,10,Semi-furnished,1,1,19532194
+Chennai,Tamil Nadu,Velachery,2,1312,0,18,Semi-furnished,1,1,11899708
+Chennai,Tamil Nadu,Velachery,2,1013,1,22,Semi-furnished,1,1,10563541
+Chennai,Tamil Nadu,Velachery,1,647,1,18,Semi-furnished,1,1,5066570
+Chennai,Tamil Nadu,Velachery,4,1721,0,8,Semi-furnished,0,1,13475810
+Chennai,Tamil Nadu,Velachery,2,1001,1,4,Semi-furnished,0,1,10554874
+Chennai,Tamil Nadu,Velachery,1,705,1,22,Semi-furnished,1,1,6221748
+Chennai,Tamil Nadu,Velachery,3,1412,0,5,Semi-furnished,0,0,10328865
+Chennai,Tamil Nadu,Velachery,1,662,0,19,Semi-furnished,1,1,5162968
+Chennai,Tamil Nadu,Velachery,3,1123,1,23,Furnished,1,1,10916368
+Chennai,Tamil Nadu,Velachery,2,890,0,3,Semi-furnished,0,1,7005531
+Chennai,Tamil Nadu,Velachery,3,1349,1,1,Semi-furnished,0,0,12487702
+Chennai,Tamil Nadu,Velachery,4,1303,0,20,Unfurnished,1,1,9480637
+Chennai,Tamil Nadu,Velachery,3,1420,0,8,Unfurnished,0,0,10816046
+Chennai,Tamil Nadu,Velachery,3,1253,1,20,Furnished,1,0,11984622
+Chennai,Tamil Nadu,Velachery,4,2382,0,19,Unfurnished,1,0,15162264
+Chennai,Tamil Nadu,Velachery,2,927,0,25,Semi-furnished,1,0,7189554
+Chennai,Tamil Nadu,Velachery,2,1018,0,11,Unfurnished,0,1,8198702
+Chennai,Tamil Nadu,Velachery,3,1428,1,9,Semi-furnished,0,0,12701273
+Chennai,Tamil Nadu,Velachery,3,1303,0,11,Furnished,0,1,10939702
+Chennai,Tamil Nadu,Velachery,3,1644,0,22,Semi-furnished,1,0,11414049
+Chennai,Tamil Nadu,Velachery,2,1349,0,5,Furnished,1,1,11072621
+Chennai,Tamil Nadu,Velachery,2,1246,0,2,Unfurnished,1,1,8602434
+Chennai,Tamil Nadu,Velachery,2,944,0,6,Semi-furnished,1,0,7535950
+Chennai,Tamil Nadu,Velachery,2,988,1,1,Furnished,1,1,8460110
+Chennai,Tamil Nadu,Velachery,3,1568,0,13,Furnished,1,0,14087620
+Chennai,Tamil Nadu,Velachery,2,1289,0,21,Semi-furnished,1,0,9206561
+Chennai,Tamil Nadu,Velachery,2,949,0,22,Unfurnished,1,0,6966878
+Chennai,Tamil Nadu,Velachery,3,1557,1,10,Semi-furnished,1,1,16913070
+Chennai,Tamil Nadu,Anna Nagar,3,1445,1,2,Furnished,1,1,27038636
+Chennai,Tamil Nadu,Anna Nagar,3,1805,0,11,Semi-furnished,1,1,19500469
+Chennai,Tamil Nadu,Anna Nagar,4,1927,1,5,Unfurnished,1,0,27182837
+Chennai,Tamil Nadu,Anna Nagar,2,1201,0,4,Unfurnished,0,1,12813700
+Chennai,Tamil Nadu,Anna Nagar,2,1020,0,16,Semi-furnished,1,0,11352209
+Chennai,Tamil Nadu,Anna Nagar,2,846,1,7,Semi-furnished,1,1,14243582
+Chennai,Tamil Nadu,Anna Nagar,3,1346,0,4,Furnished,1,1,18636144
+Chennai,Tamil Nadu,Anna Nagar,1,784,0,22,Semi-furnished,0,0,9844718
+Chennai,Tamil Nadu,Anna Nagar,2,993,1,15,Semi-furnished,1,0,15307144
+Chennai,Tamil Nadu,Anna Nagar,3,1524,0,4,Unfurnished,1,0,18585845
+Chennai,Tamil Nadu,Anna Nagar,1,674,0,5,Unfurnished,1,0,9162556
+Chennai,Tamil Nadu,Anna Nagar,2,797,1,19,Semi-furnished,1,1,10560898
+Chennai,Tamil Nadu,Anna Nagar,2,1014,1,15,Furnished,1,1,15154861
+Chennai,Tamil Nadu,Anna Nagar,2,1081,0,25,Semi-furnished,1,1,12865722
+Chennai,Tamil Nadu,Anna Nagar,1,567,1,15,Semi-furnished,0,1,8581116
+Chennai,Tamil Nadu,Anna Nagar,2,1037,0,19,Unfurnished,1,1,9815654
+Chennai,Tamil Nadu,Anna Nagar,3,1396,0,14,Unfurnished,1,1,15668265
+Chennai,Tamil Nadu,Anna Nagar,3,1735,1,12,Unfurnished,0,0,23994943
+Chennai,Tamil Nadu,Anna Nagar,4,2251,0,19,Semi-furnished,0,1,25924811
+Chennai,Tamil Nadu,Anna Nagar,3,1478,1,13,Semi-furnished,0,1,21222994
+Chennai,Tamil Nadu,Anna Nagar,2,1099,1,16,Semi-furnished,1,1,14635193
+Chennai,Tamil Nadu,Anna Nagar,3,1503,0,4,Unfurnished,1,1,16619596
+Chennai,Tamil Nadu,Anna Nagar,1,946,1,10,Semi-furnished,1,0,14662256
+Chennai,Tamil Nadu,Anna Nagar,2,988,0,21,Furnished,1,0,12267670
+Chennai,Tamil Nadu,Anna Nagar,2,1068,0,18,Semi-furnished,1,1,12600012
+Chennai,Tamil Nadu,Anna Nagar,2,1037,0,17,Unfurnished,1,0,12072331
+Chennai,Tamil Nadu,Anna Nagar,2,858,0,23,Unfurnished,0,0,8565414
+Chennai,Tamil Nadu,Anna Nagar,4,2460,0,3,Semi-furnished,0,0,29953082
+Chennai,Tamil Nadu,Anna Nagar,2,1085,1,12,Furnished,0,0,14476654
+Chennai,Tamil Nadu,Anna Nagar,3,1399,0,23,Furnished,1,1,15860690
+Chennai,Tamil Nadu,Anna Nagar,1,558,1,24,Semi-furnished,1,1,7762831
+Chennai,Tamil Nadu,Anna Nagar,4,1888,1,13,Semi-furnished,0,0,23413748
+Chennai,Tamil Nadu,Anna Nagar,2,991,0,3,Semi-furnished,1,1,12201471
+Chennai,Tamil Nadu,Anna Nagar,2,1141,0,9,Semi-furnished,1,0,11951640
+Chennai,Tamil Nadu,Anna Nagar,2,918,0,6,Semi-furnished,1,0,10313675
+Chennai,Tamil Nadu,Anna Nagar,3,1722,1,11,Semi-furnished,0,0,21936643
+Chennai,Tamil Nadu,Anna Nagar,2,722,1,5,Unfurnished,1,0,10981819
+Chennai,Tamil Nadu,Anna Nagar,4,1848,1,14,Unfurnished,0,1,28806140
+Chennai,Tamil Nadu,Anna Nagar,2,1244,1,16,Furnished,1,1,17951260
+Chennai,Tamil Nadu,Anna Nagar,1,687,0,19,Semi-furnished,1,0,8112230
+Chennai,Tamil Nadu,Anna Nagar,2,1144,1,16,Semi-furnished,1,1,19555362
+Chennai,Tamil Nadu,Anna Nagar,3,1359,0,4,Furnished,1,0,14766805
+Chennai,Tamil Nadu,Anna Nagar,2,994,0,14,Unfurnished,1,1,10462669
+Chennai,Tamil Nadu,Anna Nagar,2,1104,0,1,Semi-furnished,1,1,13897141
+Chennai,Tamil Nadu,Anna Nagar,3,1386,1,12,Unfurnished,0,0,19011168
+Chennai,Tamil Nadu,Tambaram,4,1910,1,0,Unfurnished,1,1,11816600
+Chennai,Tamil Nadu,Tambaram,2,879,0,23,Semi-furnished,1,1,3962380
+Chennai,Tamil Nadu,Tambaram,3,1657,0,0,Semi-furnished,0,1,9860234
+Chennai,Tamil Nadu,Tambaram,2,1399,1,15,Semi-furnished,0,0,9711286
+Chennai,Tamil Nadu,Tambaram,2,982,0,7,Semi-furnished,1,1,5538161
+Chennai,Tamil Nadu,Tambaram,1,765,0,4,Unfurnished,1,1,3961670
+Chennai,Tamil Nadu,Tambaram,3,1510,1,5,Semi-furnished,1,1,10555768
+Chennai,Tamil Nadu,Tambaram,2,993,0,6,Unfurnished,0,1,4827249
+Chennai,Tamil Nadu,Tambaram,2,1238,1,16,Unfurnished,1,1,7356638
+Chennai,Tamil Nadu,Tambaram,4,1823,0,17,Semi-furnished,1,1,8717986
+Chennai,Tamil Nadu,Tambaram,3,1417,1,10,Furnished,0,1,9285688
+Chennai,Tamil Nadu,Tambaram,4,2071,0,25,Unfurnished,1,0,7543299
+Chennai,Tamil Nadu,Tambaram,1,731,0,10,Unfurnished,1,1,3422720
+Chennai,Tamil Nadu,Tambaram,2,1011,1,14,Furnished,1,1,7218900
+Chennai,Tamil Nadu,Tambaram,3,1410,1,10,Furnished,1,1,9290647
+Chennai,Tamil Nadu,Tambaram,4,2155,0,15,Unfurnished,1,1,9361608
+Chennai,Tamil Nadu,Tambaram,3,1437,1,7,Unfurnished,1,1,9646346
+Chennai,Tamil Nadu,Tambaram,2,743,0,10,Unfurnished,1,0,3412572
+Chennai,Tamil Nadu,Tambaram,4,2236,0,9,Semi-furnished,1,1,13125417
+Chennai,Tamil Nadu,Tambaram,1,439,1,21,Semi-furnished,1,0,2721011
+Chennai,Tamil Nadu,Tambaram,2,969,0,19,Unfurnished,1,0,4309770
+Chennai,Tamil Nadu,Tambaram,3,1197,0,18,Unfurnished,0,1,6170273
+Chennai,Tamil Nadu,Tambaram,3,1571,0,11,Furnished,1,1,8839196
+Chennai,Tamil Nadu,Tambaram,2,969,0,14,Semi-furnished,1,1,4875957
+Chennai,Tamil Nadu,Tambaram,4,2220,0,9,Unfurnished,1,1,10079247
+Chennai,Tamil Nadu,Tambaram,4,1817,0,12,Furnished,0,1,8203086
+Chennai,Tamil Nadu,Tambaram,3,1087,0,10,Semi-furnished,1,0,4697624
+Chennai,Tamil Nadu,Tambaram,2,945,1,9,Unfurnished,1,0,5833873
+Chennai,Tamil Nadu,Tambaram,2,1031,0,0,Unfurnished,1,1,5663831
+Chennai,Tamil Nadu,Tambaram,2,1116,0,11,Unfurnished,1,0,5829591
+Chennai,Tamil Nadu,Tambaram,3,1439,0,11,Furnished,0,1,9958646
+Chennai,Tamil Nadu,Tambaram,2,867,0,11,Semi-furnished,0,1,4234592
+Chennai,Tamil Nadu,Tambaram,2,1272,0,1,Semi-furnished,1,0,7254967
+Chennai,Tamil Nadu,Tambaram,2,1143,1,21,Furnished,1,1,7063909
+Chennai,Tamil Nadu,Tambaram,3,1578,1,14,Unfurnished,1,1,9069999
+Chennai,Tamil Nadu,Tambaram,4,2429,0,21,Unfurnished,1,1,12303270
+Chennai,Tamil Nadu,Tambaram,2,1023,0,12,Semi-furnished,1,1,5836492
+Chennai,Tamil Nadu,Tambaram,1,489,0,16,Furnished,1,1,2367933
+Chennai,Tamil Nadu,Tambaram,3,1318,1,13,Unfurnished,1,0,7879349
+Chennai,Tamil Nadu,Tambaram,4,1997,1,18,Semi-furnished,0,1,12161478
+Chennai,Tamil Nadu,Tambaram,1,717,1,22,Unfurnished,1,1,4075247
+Chennai,Tamil Nadu,Tambaram,2,976,0,16,Semi-furnished,0,1,4814481
+Chennai,Tamil Nadu,Tambaram,2,1154,0,25,Semi-furnished,1,0,5757717
+Chennai,Tamil Nadu,Tambaram,2,1023,1,0,Furnished,1,1,6899563
+Chennai,Tamil Nadu,Tambaram,2,1043,0,14,Semi-furnished,0,1,5721620
+Pune,Maharashtra,Hinjewadi,4,1885,0,25,Semi-furnished,1,0,10678248
+Pune,Maharashtra,Hinjewadi,3,929,1,8,Unfurnished,0,1,6041185
+Pune,Maharashtra,Hinjewadi,2,1054,0,8,Unfurnished,1,1,5904838
+Pune,Maharashtra,Hinjewadi,2,1200,1,1,Unfurnished,0,1,9908953
+Pune,Maharashtra,Hinjewadi,3,1384,0,6,Semi-furnished,1,1,8658137
+Pune,Maharashtra,Hinjewadi,2,993,0,17,Unfurnished,1,0,5291778
+Pune,Maharashtra,Hinjewadi,1,671,1,18,Furnished,1,0,4850394
+Pune,Maharashtra,Hinjewadi,2,1153,0,2,Unfurnished,0,1,7423114
+Pune,Maharashtra,Hinjewadi,2,1018,0,1,Unfurnished,1,1,7372716
+Pune,Maharashtra,Hinjewadi,1,599,0,22,Semi-furnished,1,1,3335218
+Pune,Maharashtra,Hinjewadi,2,1232,1,7,Semi-furnished,1,1,9666062
+Pune,Maharashtra,Hinjewadi,2,760,1,23,Furnished,0,1,5065092
+Pune,Maharashtra,Hinjewadi,3,1475,1,23,Semi-furnished,1,0,11402406
+Pune,Maharashtra,Hinjewadi,2,1046,0,5,Semi-furnished,0,0,4958818
+Pune,Maharashtra,Hinjewadi,2,1169,0,18,Unfurnished,1,0,6760919
+Pune,Maharashtra,Hinjewadi,2,1048,0,19,Unfurnished,1,1,5020750
+Pune,Maharashtra,Hinjewadi,3,1318,1,24,Semi-furnished,1,0,9707473
+Pune,Maharashtra,Hinjewadi,4,2163,1,7,Semi-furnished,0,1,16180767
+Pune,Maharashtra,Hinjewadi,3,1984,0,6,Semi-furnished,0,1,12133033
+Pune,Maharashtra,Hinjewadi,3,1455,1,21,Furnished,1,1,10750111
+Pune,Maharashtra,Hinjewadi,4,1697,1,21,Unfurnished,1,1,11265029
+Pune,Maharashtra,Hinjewadi,3,1618,0,21,Furnished,0,0,9533499
+Pune,Maharashtra,Hinjewadi,2,859,1,24,Semi-furnished,1,0,6230836
+Pune,Maharashtra,Hinjewadi,3,1322,1,10,Furnished,1,1,9588064
+Pune,Maharashtra,Hinjewadi,3,1764,0,14,Unfurnished,1,1,9456416
+Pune,Maharashtra,Hinjewadi,3,1627,1,15,Semi-furnished,0,1,12170027
+Pune,Maharashtra,Hinjewadi,3,1726,0,6,Semi-furnished,1,1,10776299
+Pune,Maharashtra,Hinjewadi,1,435,0,20,Unfurnished,1,0,2540332
+Pune,Maharashtra,Hinjewadi,3,1612,1,11,Unfurnished,1,1,11368092
+Pune,Maharashtra,Hinjewadi,3,1532,1,9,Semi-furnished,1,1,10658336
+Pune,Maharashtra,Hinjewadi,2,877,1,19,Semi-furnished,0,1,6255013
+Pune,Maharashtra,Hinjewadi,4,2049,0,0,Unfurnished,1,1,13465945
+Pune,Maharashtra,Hinjewadi,2,1156,1,3,Semi-furnished,0,0,7749120
+Pune,Maharashtra,Hinjewadi,4,1939,0,18,Semi-furnished,0,1,11071067
+Pune,Maharashtra,Hinjewadi,1,798,0,15,Unfurnished,0,0,5308800
+Pune,Maharashtra,Hinjewadi,1,726,0,11,Semi-furnished,1,0,3862687
+Pune,Maharashtra,Hinjewadi,3,1018,1,2,Unfurnished,1,1,6956443
+Pune,Maharashtra,Hinjewadi,3,1372,1,16,Semi-furnished,0,1,9221514
+Pune,Maharashtra,Hinjewadi,2,1000,1,6,Semi-furnished,1,1,8971244
+Pune,Maharashtra,Hinjewadi,4,1674,1,10,Semi-furnished,1,1,13172070
+Pune,Maharashtra,Hinjewadi,3,1646,0,10,Semi-furnished,1,0,9943684
+Pune,Maharashtra,Hinjewadi,2,1133,0,7,Unfurnished,1,1,6901050
+Pune,Maharashtra,Hinjewadi,2,994,0,6,Semi-furnished,1,1,6222283
+Pune,Maharashtra,Hinjewadi,3,1207,0,6,Unfurnished,1,1,7813075
+Pune,Maharashtra,Hinjewadi,2,1272,0,22,Semi-furnished,1,1,8651802
+Pune,Maharashtra,Wakad,2,1292,0,18,Semi-furnished,0,1,9177786
+Pune,Maharashtra,Wakad,2,1100,0,17,Unfurnished,1,1,7469044
+Pune,Maharashtra,Wakad,2,959,0,25,Semi-furnished,1,1,8005481
+Pune,Maharashtra,Wakad,1,688,1,9,Semi-furnished,1,0,6852248
+Pune,Maharashtra,Wakad,2,1077,0,3,Semi-furnished,1,1,8642139
+Pune,Maharashtra,Wakad,2,1070,1,25,Semi-furnished,1,1,10136911
+Pune,Maharashtra,Wakad,2,941,0,18,Semi-furnished,1,0,7049431
+Pune,Maharashtra,Wakad,2,1178,0,22,Unfurnished,1,0,8287180
+Pune,Maharashtra,Wakad,3,1660,1,14,Semi-furnished,1,0,13970522
+Pune,Maharashtra,Wakad,2,1155,0,5,Unfurnished,1,1,7778863
+Pune,Maharashtra,Wakad,4,2360,0,12,Semi-furnished,0,1,17365683
+Pune,Maharashtra,Wakad,3,1740,1,4,Unfurnished,1,0,15598372
+Pune,Maharashtra,Wakad,2,1228,1,1,Furnished,1,1,12926711
+Pune,Maharashtra,Wakad,2,1278,0,2,Semi-furnished,0,1,8939858
+Pune,Maharashtra,Wakad,2,1247,1,22,Furnished,1,1,10146940
+Pune,Maharashtra,Wakad,2,1040,0,10,Unfurnished,1,1,8345359
+Pune,Maharashtra,Wakad,2,1194,0,24,Unfurnished,1,1,7976455
+Pune,Maharashtra,Wakad,2,1047,0,24,Semi-furnished,1,0,8111730
+Pune,Maharashtra,Wakad,3,1171,1,11,Semi-furnished,1,1,11385456
+Pune,Maharashtra,Wakad,1,575,0,17,Semi-furnished,1,1,3688304
+Pune,Maharashtra,Wakad,2,1085,0,0,Furnished,1,0,9678629
+Pune,Maharashtra,Wakad,2,1170,0,14,Unfurnished,1,0,7420749
+Pune,Maharashtra,Wakad,2,1140,0,7,Semi-furnished,1,0,9283951
+Pune,Maharashtra,Wakad,3,1686,1,21,Semi-furnished,1,0,14956681
+Pune,Maharashtra,Wakad,1,685,1,10,Unfurnished,1,1,5926883
+Pune,Maharashtra,Wakad,1,653,0,22,Furnished,1,1,5202049
+Pune,Maharashtra,Wakad,4,2380,0,7,Unfurnished,1,1,16301906
+Pune,Maharashtra,Wakad,2,1035,0,19,Semi-furnished,1,1,7362215
+Pune,Maharashtra,Wakad,2,1082,0,6,Unfurnished,1,1,9215984
+Pune,Maharashtra,Wakad,2,1142,1,2,Semi-furnished,1,1,10263812
+Pune,Maharashtra,Wakad,2,961,1,18,Semi-furnished,1,0,7032573
+Pune,Maharashtra,Wakad,3,1344,1,19,Unfurnished,1,1,10451957
+Pune,Maharashtra,Wakad,3,1500,0,9,Unfurnished,1,1,9817006
+Pune,Maharashtra,Wakad,2,1167,0,16,Furnished,1,1,10405280
+Pune,Maharashtra,Wakad,2,991,1,14,Semi-furnished,0,0,8424913
+Pune,Maharashtra,Wakad,3,1514,1,6,Semi-furnished,1,1,14617684
+Pune,Maharashtra,Wakad,3,1276,0,0,Furnished,0,1,10436738
+Pune,Maharashtra,Wakad,1,565,1,8,Unfurnished,0,1,4823823
+Pune,Maharashtra,Wakad,1,768,1,7,Semi-furnished,1,1,7297248
+Pune,Maharashtra,Wakad,3,1548,0,23,Semi-furnished,1,1,12340132
+Pune,Maharashtra,Wakad,2,1002,0,21,Unfurnished,0,1,7438170
+Pune,Maharashtra,Wakad,2,910,0,10,Unfurnished,1,1,6455420
+Pune,Maharashtra,Wakad,3,1465,1,20,Semi-furnished,0,1,13081199
+Pune,Maharashtra,Wakad,3,1797,0,1,Unfurnished,1,1,13397446
+Pune,Maharashtra,Wakad,1,603,0,20,Semi-furnished,1,1,3800639
+Pune,Maharashtra,Baner,4,1732,0,4,Semi-furnished,1,1,18176074
+Pune,Maharashtra,Baner,2,937,0,5,Unfurnished,1,1,9756972
+Pune,Maharashtra,Baner,2,1029,1,4,Furnished,1,1,13338223
+Pune,Maharashtra,Baner,3,1545,1,23,Semi-furnished,0,0,19678718
+Pune,Maharashtra,Baner,1,642,0,5,Unfurnished,1,1,7029900
+Pune,Maharashtra,Baner,2,878,1,23,Semi-furnished,1,1,9460499
+Pune,Maharashtra,Baner,3,1545,0,14,Semi-furnished,1,0,11791431
+Pune,Maharashtra,Baner,2,1301,0,4,Semi-furnished,1,1,12879120
+Pune,Maharashtra,Baner,3,1497,1,6,Furnished,1,1,20464530
+Pune,Maharashtra,Baner,1,661,0,7,Semi-furnished,1,1,6794357
+Pune,Maharashtra,Baner,3,1127,0,16,Semi-furnished,1,1,11459779
+Pune,Maharashtra,Baner,1,790,0,9,Semi-furnished,1,1,7195436
+Pune,Maharashtra,Baner,2,995,0,11,Unfurnished,1,1,9232864
+Pune,Maharashtra,Baner,2,995,0,22,Semi-furnished,1,0,10192810
+Pune,Maharashtra,Baner,3,1650,1,4,Unfurnished,1,1,19501048
+Pune,Maharashtra,Baner,2,1025,0,17,Unfurnished,1,1,10729852
+Pune,Maharashtra,Baner,2,1124,0,8,Semi-furnished,0,1,11284142
+Pune,Maharashtra,Baner,2,951,0,4,Furnished,0,0,10719624
+Pune,Maharashtra,Baner,2,911,0,0,Semi-furnished,1,0,10029032
+Pune,Maharashtra,Baner,4,2289,0,5,Unfurnished,1,1,23786721
+Pune,Maharashtra,Baner,2,1096,1,8,Furnished,0,1,13270225
+Pune,Maharashtra,Baner,3,1244,0,6,Unfurnished,1,0,12038902
+Pune,Maharashtra,Baner,3,1576,1,23,Semi-furnished,1,0,15302560
+Pune,Maharashtra,Baner,3,1888,0,11,Semi-furnished,1,0,20493267
+Pune,Maharashtra,Baner,2,1228,0,6,Unfurnished,1,1,12458402
+Pune,Maharashtra,Baner,2,1114,0,6,Semi-furnished,0,0,12385857
+Pune,Maharashtra,Baner,2,1054,0,2,Unfurnished,1,1,10652728
+Pune,Maharashtra,Baner,3,1220,0,10,Unfurnished,0,1,10953054
+Pune,Maharashtra,Baner,3,1138,1,0,Semi-furnished,1,1,13905209
+Pune,Maharashtra,Baner,2,1048,0,24,Semi-furnished,1,1,9818597
+Pune,Maharashtra,Baner,2,1140,0,9,Semi-furnished,1,0,10729959
+Pune,Maharashtra,Baner,1,832,0,22,Semi-furnished,1,1,8687010
+Pune,Maharashtra,Baner,3,1353,1,14,Furnished,0,0,16676872
+Pune,Maharashtra,Baner,1,622,0,5,Unfurnished,1,1,6110679
+Pune,Maharashtra,Baner,2,1191,1,5,Semi-furnished,0,0,13124602
+Pune,Maharashtra,Baner,3,1505,0,2,Semi-furnished,1,1,14315013
+Pune,Maharashtra,Baner,2,1108,1,17,Unfurnished,1,0,10424500
+Pune,Maharashtra,Baner,3,1312,1,22,Furnished,1,1,17126559
+Pune,Maharashtra,Baner,2,944,0,21,Unfurnished,1,0,8427233
+Pune,Maharashtra,Baner,1,698,0,10,Unfurnished,1,1,6760285
+Pune,Maharashtra,Baner,3,1290,0,20,Furnished,1,0,15330904
+Pune,Maharashtra,Baner,3,1404,0,19,Semi-furnished,1,1,13755212
+Pune,Maharashtra,Baner,3,1697,1,23,Unfurnished,1,0,19856435
+Pune,Maharashtra,Baner,1,543,0,22,Semi-furnished,1,0,5580434
+Pune,Maharashtra,Baner,1,670,0,10,Semi-furnished,1,1,7322491
+Pune,Maharashtra,Hadapsar,2,968,0,4,Unfurnished,0,1,6201534
+Pune,Maharashtra,Hadapsar,2,1035,1,25,Unfurnished,0,0,7605741
+Pune,Maharashtra,Hadapsar,3,1203,0,0,Unfurnished,1,1,8820751
+Pune,Maharashtra,Hadapsar,2,685,1,1,Unfurnished,1,1,6167131
+Pune,Maharashtra,Hadapsar,1,533,1,3,Semi-furnished,0,1,4790562
+Pune,Maharashtra,Hadapsar,1,528,1,18,Unfurnished,1,1,4138983
+Pune,Maharashtra,Hadapsar,2,1082,0,13,Unfurnished,1,0,6777568
+Pune,Maharashtra,Hadapsar,4,1983,0,3,Furnished,0,1,16068645
+Pune,Maharashtra,Hadapsar,2,855,0,22,Semi-furnished,1,1,5530665
+Pune,Maharashtra,Hadapsar,2,983,1,9,Semi-furnished,1,1,8412851
+Pune,Maharashtra,Hadapsar,2,1223,1,16,Furnished,1,1,12741945
+Pune,Maharashtra,Hadapsar,2,1004,1,12,Furnished,1,0,8858179
+Pune,Maharashtra,Hadapsar,2,1143,0,17,Unfurnished,1,1,6830246
+Pune,Maharashtra,Hadapsar,1,784,0,3,Unfurnished,1,1,4647242
+Pune,Maharashtra,Hadapsar,4,1896,1,18,Semi-furnished,0,1,12642216
+Pune,Maharashtra,Hadapsar,2,1325,0,9,Semi-furnished,0,1,10005248
+Pune,Maharashtra,Hadapsar,4,1920,0,12,Furnished,0,0,13522299
+Pune,Maharashtra,Hadapsar,1,661,1,22,Semi-furnished,1,1,5211457
+Pune,Maharashtra,Hadapsar,3,1180,0,25,Furnished,0,1,7813733
+Pune,Maharashtra,Hadapsar,2,1072,0,19,Semi-furnished,1,1,8252389
+Pune,Maharashtra,Hadapsar,4,2009,0,18,Semi-furnished,0,0,14439331
+Pune,Maharashtra,Hadapsar,1,754,1,22,Unfurnished,1,1,5722555
+Pune,Maharashtra,Hadapsar,2,1208,1,3,Semi-furnished,1,1,10015762
+Pune,Maharashtra,Hadapsar,4,2209,0,21,Semi-furnished,1,1,12985425
+Pune,Maharashtra,Hadapsar,1,515,1,9,Semi-furnished,1,1,3924881
+Pune,Maharashtra,Hadapsar,4,2281,0,8,Unfurnished,0,0,13094442
+Pune,Maharashtra,Hadapsar,3,1280,0,0,Semi-furnished,1,1,7599268
+Pune,Maharashtra,Hadapsar,2,969,1,1,Furnished,1,1,6961485
+Pune,Maharashtra,Hadapsar,1,782,1,23,Semi-furnished,1,0,5325531
+Pune,Maharashtra,Hadapsar,2,1181,1,22,Unfurnished,0,0,8387056
+Pune,Maharashtra,Hadapsar,3,1889,1,14,Semi-furnished,0,0,16901721
+Pune,Maharashtra,Hadapsar,2,787,0,3,Unfurnished,0,0,4524928
+Pune,Maharashtra,Hadapsar,2,938,0,24,Unfurnished,0,0,5866196
+Pune,Maharashtra,Hadapsar,2,1027,0,17,Furnished,1,1,7726668
+Pune,Maharashtra,Hadapsar,3,1635,0,24,Semi-furnished,1,1,9861192
+Pune,Maharashtra,Hadapsar,2,836,0,18,Semi-furnished,1,0,5970810
+Pune,Maharashtra,Hadapsar,3,1405,1,15,Furnished,1,1,13353906
+Pune,Maharashtra,Hadapsar,2,1129,0,15,Semi-furnished,0,1,7907246
+Pune,Maharashtra,Hadapsar,2,1093,0,10,Semi-furnished,1,0,6948878
+Pune,Maharashtra,Hadapsar,4,1731,1,18,Unfurnished,1,0,11316817
+Pune,Maharashtra,Hadapsar,2,1238,0,3,Semi-furnished,1,1,8154081
+Pune,Maharashtra,Hadapsar,2,738,0,8,Semi-furnished,1,1,5611210
+Pune,Maharashtra,Hadapsar,2,1170,0,5,Unfurnished,0,0,7471970
+Pune,Maharashtra,Hadapsar,3,1460,0,10,Furnished,1,1,11586117
+Pune,Maharashtra,Hadapsar,3,1443,0,11,Semi-furnished,1,1,8929086
+Kolkata,West Bengal,New Town,3,1812,1,11,Semi-furnished,1,0,14001279
+Kolkata,West Bengal,New Town,2,748,0,5,Unfurnished,1,1,4189847
+Kolkata,West Bengal,New Town,4,2291,0,3,Unfurnished,1,1,15359073
+Kolkata,West Bengal,New Town,2,825,0,0,Unfurnished,0,0,4424686
+Kolkata,West Bengal,New Town,4,2809,1,24,Unfurnished,1,0,21600135
+Kolkata,West Bengal,New Town,3,1429,1,25,Semi-furnished,1,1,9646648
+Kolkata,West Bengal,New Town,3,1578,1,21,Unfurnished,1,1,9983707
+Kolkata,West Bengal,New Town,3,1362,0,0,Unfurnished,1,1,9651085
+Kolkata,West Bengal,New Town,2,1157,0,7,Furnished,0,0,6958079
+Kolkata,West Bengal,New Town,3,1734,0,5,Furnished,1,1,15226821
+Kolkata,West Bengal,New Town,1,583,1,5,Unfurnished,1,1,4544994
+Kolkata,West Bengal,New Town,4,2616,1,6,Furnished,1,1,22093691
+Kolkata,West Bengal,New Town,3,1373,0,1,Furnished,1,1,8595215
+Kolkata,West Bengal,New Town,1,411,1,4,Semi-furnished,1,0,2991204
+Kolkata,West Bengal,New Town,3,1370,0,2,Unfurnished,1,0,8034706
+Kolkata,West Bengal,New Town,3,1390,0,7,Unfurnished,1,0,9083549
+Kolkata,West Bengal,New Town,3,1395,0,20,Semi-furnished,0,1,8146276
+Kolkata,West Bengal,New Town,2,1114,1,5,Unfurnished,1,0,7144044
+Kolkata,West Bengal,New Town,2,1033,1,24,Semi-furnished,1,1,8047332
+Kolkata,West Bengal,New Town,1,531,0,1,Semi-furnished,1,1,2840932
+Kolkata,West Bengal,New Town,2,1115,0,16,Unfurnished,0,0,6575259
+Kolkata,West Bengal,New Town,2,1062,0,0,Furnished,1,0,6848966
+Kolkata,West Bengal,New Town,2,908,1,15,Semi-furnished,1,1,7010573
+Kolkata,West Bengal,New Town,3,1613,0,19,Semi-furnished,1,1,9574842
+Kolkata,West Bengal,New Town,3,1580,1,7,Semi-furnished,1,0,11248500
+Kolkata,West Bengal,New Town,4,1909,1,22,Unfurnished,1,0,11965671
+Kolkata,West Bengal,New Town,2,1208,1,5,Semi-furnished,1,1,8981296
+Kolkata,West Bengal,New Town,2,1082,1,9,Semi-furnished,0,1,7764061
+Kolkata,West Bengal,New Town,2,1269,1,16,Semi-furnished,1,1,9214351
+Kolkata,West Bengal,New Town,2,973,0,7,Unfurnished,1,1,5194387
+Kolkata,West Bengal,New Town,2,1353,1,15,Furnished,1,1,9680808
+Kolkata,West Bengal,New Town,2,1302,0,1,Semi-furnished,0,1,7937194
+Kolkata,West Bengal,New Town,1,590,1,1,Furnished,1,0,4167380
+Kolkata,West Bengal,New Town,2,1070,0,4,Semi-furnished,1,0,6570459
+Kolkata,West Bengal,New Town,4,1784,0,14,Semi-furnished,1,1,11116891
+Kolkata,West Bengal,New Town,2,740,0,5,Furnished,1,1,5040472
+Kolkata,West Bengal,New Town,2,1135,0,24,Furnished,1,0,6711668
+Kolkata,West Bengal,New Town,1,766,0,5,Semi-furnished,1,0,4386895
+Kolkata,West Bengal,New Town,1,644,0,6,Semi-furnished,1,1,4119905
+Kolkata,West Bengal,New Town,2,852,0,24,Furnished,1,1,5253001
+Kolkata,West Bengal,New Town,3,1462,1,25,Furnished,1,1,10785221
+Kolkata,West Bengal,New Town,2,813,0,3,Unfurnished,1,0,5549246
+Kolkata,West Bengal,New Town,3,1491,0,4,Semi-furnished,1,1,9752986
+Kolkata,West Bengal,New Town,3,1189,0,4,Unfurnished,1,0,7542271
+Kolkata,West Bengal,New Town,3,1320,0,15,Unfurnished,1,1,7700157
+Kolkata,West Bengal,Salt Lake,2,992,0,24,Unfurnished,1,0,8564421
+Kolkata,West Bengal,Salt Lake,3,1399,0,14,Furnished,1,1,10982339
+Kolkata,West Bengal,Salt Lake,3,1402,1,4,Semi-furnished,1,1,16255176
+Kolkata,West Bengal,Salt Lake,3,1344,0,25,Unfurnished,1,0,10909357
+Kolkata,West Bengal,Salt Lake,1,613,0,1,Semi-furnished,1,1,5580331
+Kolkata,West Bengal,Salt Lake,1,580,0,0,Semi-furnished,1,0,5605714
+Kolkata,West Bengal,Salt Lake,1,663,1,17,Semi-furnished,1,0,6689626
+Kolkata,West Bengal,Salt Lake,1,598,0,3,Unfurnished,1,0,5654598
+Kolkata,West Bengal,Salt Lake,3,1370,0,8,Semi-furnished,1,0,13331356
+Kolkata,West Bengal,Salt Lake,1,589,0,22,Semi-furnished,1,0,5396273
+Kolkata,West Bengal,Salt Lake,3,1551,0,4,Semi-furnished,1,0,14712622
+Kolkata,West Bengal,Salt Lake,2,1006,1,13,Semi-furnished,1,1,11211623
+Kolkata,West Bengal,Salt Lake,2,915,0,3,Unfurnished,1,1,7897081
+Kolkata,West Bengal,Salt Lake,3,1247,1,11,Semi-furnished,1,0,11659783
+Kolkata,West Bengal,Salt Lake,4,2207,1,25,Unfurnished,1,1,21773147
+Kolkata,West Bengal,Salt Lake,2,1198,0,20,Unfurnished,1,0,9672049
+Kolkata,West Bengal,Salt Lake,1,544,0,19,Semi-furnished,0,1,4314607
+Kolkata,West Bengal,Salt Lake,3,1421,1,12,Furnished,1,1,15312726
+Kolkata,West Bengal,Salt Lake,4,1997,1,16,Unfurnished,1,0,18039926
+Kolkata,West Bengal,Salt Lake,4,2237,1,9,Unfurnished,1,1,25090124
+Kolkata,West Bengal,Salt Lake,2,1341,1,4,Semi-furnished,1,1,14850287
+Kolkata,West Bengal,Salt Lake,4,2205,0,15,Unfurnished,1,1,22168142
+Kolkata,West Bengal,Salt Lake,1,523,1,1,Unfurnished,1,1,6413644
+Kolkata,West Bengal,Salt Lake,2,1012,0,4,Unfurnished,0,1,8708397
+Kolkata,West Bengal,Salt Lake,2,1044,1,11,Semi-furnished,1,1,11982749
+Kolkata,West Bengal,Salt Lake,3,1638,0,19,Semi-furnished,1,0,14981097
+Kolkata,West Bengal,Salt Lake,1,816,0,22,Semi-furnished,1,1,8269706
+Kolkata,West Bengal,Salt Lake,2,1180,1,25,Unfurnished,1,1,12197423
+Kolkata,West Bengal,Salt Lake,1,796,0,16,Semi-furnished,1,1,7174824
+Kolkata,West Bengal,Salt Lake,2,969,1,0,Semi-furnished,1,1,12220236
+Kolkata,West Bengal,Salt Lake,1,604,0,23,Unfurnished,1,1,4118561
+Kolkata,West Bengal,Salt Lake,1,794,1,23,Unfurnished,1,0,7321205
+Kolkata,West Bengal,Salt Lake,2,1050,1,24,Unfurnished,1,1,9823600
+Kolkata,West Bengal,Salt Lake,2,1133,0,16,Unfurnished,1,1,10247620
+Kolkata,West Bengal,Salt Lake,2,1030,0,9,Semi-furnished,1,0,9255447
+Kolkata,West Bengal,Salt Lake,2,1013,0,17,Unfurnished,0,0,8936666
+Kolkata,West Bengal,Salt Lake,3,1453,0,4,Semi-furnished,0,1,12879482
+Kolkata,West Bengal,Salt Lake,3,1301,1,7,Semi-furnished,0,1,14473862
+Kolkata,West Bengal,Salt Lake,2,1041,0,17,Furnished,0,0,9218458
+Kolkata,West Bengal,Salt Lake,2,1038,1,16,Furnished,1,1,11786151
+Kolkata,West Bengal,Salt Lake,1,725,0,10,Semi-furnished,1,0,7134046
+Kolkata,West Bengal,Salt Lake,3,1798,0,12,Unfurnished,1,1,17927801
+Kolkata,West Bengal,Salt Lake,2,1322,0,23,Unfurnished,1,1,11225547
+Kolkata,West Bengal,Salt Lake,2,1116,0,4,Semi-furnished,1,0,11338497
+Kolkata,West Bengal,Salt Lake,1,715,0,6,Semi-furnished,0,1,6043867
+Kolkata,West Bengal,Tollygunge,4,1810,0,15,Unfurnished,1,0,11427225
+Kolkata,West Bengal,Tollygunge,1,695,0,9,Unfurnished,1,1,4253263
+Kolkata,West Bengal,Tollygunge,1,795,0,17,Unfurnished,1,0,5574591
+Kolkata,West Bengal,Tollygunge,3,1056,0,14,Furnished,1,1,7965626
+Kolkata,West Bengal,Tollygunge,3,1400,1,20,Semi-furnished,1,1,12509148
+Kolkata,West Bengal,Tollygunge,2,891,0,15,Semi-furnished,1,1,6551803
+Kolkata,West Bengal,Tollygunge,2,858,0,18,Semi-furnished,1,0,6459820
+Kolkata,West Bengal,Tollygunge,2,811,0,7,Furnished,0,1,6647055
+Kolkata,West Bengal,Tollygunge,1,866,1,10,Semi-furnished,0,1,7403075
+Kolkata,West Bengal,Tollygunge,1,602,0,10,Furnished,1,0,4597926
+Kolkata,West Bengal,Tollygunge,3,1366,1,12,Unfurnished,1,1,11245136
+Kolkata,West Bengal,Tollygunge,1,725,0,16,Semi-furnished,0,1,4622199
+Kolkata,West Bengal,Tollygunge,2,1163,0,6,Semi-furnished,0,1,7399802
+Kolkata,West Bengal,Tollygunge,2,932,1,14,Unfurnished,0,1,9501691
+Kolkata,West Bengal,Tollygunge,1,605,1,3,Unfurnished,1,0,5245621
+Kolkata,West Bengal,Tollygunge,1,731,0,9,Unfurnished,1,0,5665261
+Kolkata,West Bengal,Tollygunge,2,1140,1,21,Furnished,1,0,11583680
+Kolkata,West Bengal,Tollygunge,2,1194,0,16,Semi-furnished,1,0,8002974
+Kolkata,West Bengal,Tollygunge,2,1107,1,9,Semi-furnished,0,0,9759973
+Kolkata,West Bengal,Tollygunge,1,671,0,5,Unfurnished,1,1,4673591
+Kolkata,West Bengal,Tollygunge,1,591,0,25,Semi-furnished,1,0,4265472
+Kolkata,West Bengal,Tollygunge,1,689,1,21,Unfurnished,0,1,5717538
+Kolkata,West Bengal,Tollygunge,3,1610,0,8,Semi-furnished,1,0,9525432
+Kolkata,West Bengal,Tollygunge,3,1220,0,18,Unfurnished,1,1,7706121
+Kolkata,West Bengal,Tollygunge,2,812,0,13,Semi-furnished,1,1,5793890
+Kolkata,West Bengal,Tollygunge,1,553,1,21,Unfurnished,0,1,5564357
+Kolkata,West Bengal,Tollygunge,4,2067,0,10,Furnished,0,1,14678096
+Kolkata,West Bengal,Tollygunge,2,989,0,4,Semi-furnished,1,0,7006964
+Kolkata,West Bengal,Tollygunge,1,495,0,5,Unfurnished,1,1,3455110
+Kolkata,West Bengal,Tollygunge,2,1047,1,1,Furnished,1,1,9712934
+Kolkata,West Bengal,Tollygunge,2,1113,0,24,Unfurnished,1,1,7342765
+Kolkata,West Bengal,Tollygunge,1,707,0,24,Furnished,1,1,4689384
+Kolkata,West Bengal,Tollygunge,3,1629,0,3,Furnished,1,1,10348511
+Kolkata,West Bengal,Tollygunge,2,1261,0,11,Semi-furnished,1,1,7805586
+Kolkata,West Bengal,Tollygunge,2,1250,0,22,Unfurnished,0,0,7423534
+Kolkata,West Bengal,Tollygunge,1,704,0,17,Furnished,0,1,4455222
+Kolkata,West Bengal,Tollygunge,2,1200,1,3,Semi-furnished,1,0,10560566
+Kolkata,West Bengal,Tollygunge,3,1265,0,23,Furnished,0,0,8975289
+Kolkata,West Bengal,Tollygunge,3,1187,1,3,Unfurnished,1,1,12196908
+Kolkata,West Bengal,Tollygunge,2,1129,1,10,Unfurnished,1,1,9669685
+Kolkata,West Bengal,Tollygunge,1,708,1,8,Furnished,1,0,6405422
+Kolkata,West Bengal,Tollygunge,2,1022,0,25,Semi-furnished,0,1,6938016
+Kolkata,West Bengal,Tollygunge,3,1094,0,4,Unfurnished,0,0,8125066
+Kolkata,West Bengal,Tollygunge,2,1193,0,8,Furnished,0,0,7306961
+Kolkata,West Bengal,Tollygunge,1,625,0,6,Semi-furnished,1,1,4812456
+Kolkata,West Bengal,Howrah,3,1435,1,13,Semi-furnished,1,0,7692098
+Kolkata,West Bengal,Howrah,2,1031,0,12,Unfurnished,1,1,5051885
+Kolkata,West Bengal,Howrah,3,1500,1,6,Furnished,1,1,10120904
+Kolkata,West Bengal,Howrah,3,1150,1,1,Unfurnished,0,1,6275723
+Kolkata,West Bengal,Howrah,3,1713,1,18,Unfurnished,1,0,7598988
+Kolkata,West Bengal,Howrah,2,1166,0,7,Unfurnished,1,0,5485369
+Kolkata,West Bengal,Howrah,1,632,1,21,Semi-furnished,1,1,3675089
+Kolkata,West Bengal,Howrah,3,1462,1,0,Semi-furnished,1,1,9547263
+Kolkata,West Bengal,Howrah,4,2024,0,0,Semi-furnished,1,0,10000363
+Kolkata,West Bengal,Howrah,2,945,1,6,Semi-furnished,1,0,5330201
+Kolkata,West Bengal,Howrah,3,1792,1,11,Semi-furnished,1,1,8393013
+Kolkata,West Bengal,Howrah,2,1122,1,1,Furnished,1,0,7318458
+Kolkata,West Bengal,Howrah,3,1342,0,22,Semi-furnished,1,1,5476784
+Kolkata,West Bengal,Howrah,4,2209,0,9,Semi-furnished,1,1,10410474
+Kolkata,West Bengal,Howrah,1,717,0,4,Semi-furnished,1,1,3931939
+Kolkata,West Bengal,Howrah,3,1574,0,3,Furnished,1,1,7952670
+Kolkata,West Bengal,Howrah,2,803,0,9,Unfurnished,0,1,3462305
+Kolkata,West Bengal,Howrah,2,979,0,5,Unfurnished,0,1,5532968
+Kolkata,West Bengal,Howrah,4,1865,1,6,Furnished,0,1,11092051
+Kolkata,West Bengal,Howrah,3,1427,0,18,Semi-furnished,1,0,5827812
+Kolkata,West Bengal,Howrah,2,949,1,6,Semi-furnished,1,1,5258027
+Kolkata,West Bengal,Howrah,2,1162,0,12,Unfurnished,1,1,5698570
+Kolkata,West Bengal,Howrah,4,2237,0,20,Unfurnished,1,1,8678998
+Kolkata,West Bengal,Howrah,2,1066,0,0,Semi-furnished,1,0,4818519
+Kolkata,West Bengal,Howrah,3,1386,0,2,Unfurnished,0,1,6794751
+Kolkata,West Bengal,Howrah,2,1157,0,16,Semi-furnished,0,1,5045362
+Kolkata,West Bengal,Howrah,3,1328,0,24,Semi-furnished,0,0,5267265
+Kolkata,West Bengal,Howrah,3,1410,0,3,Semi-furnished,0,0,6363580
+Kolkata,West Bengal,Howrah,2,941,0,25,Unfurnished,1,0,3331667
+Kolkata,West Bengal,Howrah,2,1035,0,12,Semi-furnished,0,1,5008234
+Kolkata,West Bengal,Howrah,3,1485,0,21,Semi-furnished,1,1,5369418
+Kolkata,West Bengal,Howrah,4,2237,0,16,Unfurnished,1,1,8708721
+Kolkata,West Bengal,Howrah,2,972,0,18,Unfurnished,1,1,4129112
+Kolkata,West Bengal,Howrah,3,1266,0,22,Semi-furnished,1,0,5199773
+Kolkata,West Bengal,Howrah,3,1150,0,18,Semi-furnished,1,1,5122835
+Kolkata,West Bengal,Howrah,2,1110,0,17,Unfurnished,1,1,5393977
+Kolkata,West Bengal,Howrah,2,1163,0,12,Unfurnished,1,1,5378583
+Kolkata,West Bengal,Howrah,3,1412,0,12,Semi-furnished,0,0,4869404
+Kolkata,West Bengal,Howrah,3,1484,1,18,Semi-furnished,1,1,8819577
+Kolkata,West Bengal,Howrah,3,1572,1,11,Semi-furnished,0,0,7343614
+Kolkata,West Bengal,Howrah,3,1489,0,9,Unfurnished,1,1,6291289
+Kolkata,West Bengal,Howrah,1,605,1,15,Unfurnished,0,1,3520846
+Kolkata,West Bengal,Howrah,4,1907,0,16,Semi-furnished,1,1,8151457
+Kolkata,West Bengal,Howrah,3,1746,0,19,Semi-furnished,0,0,7149018
+Kolkata,West Bengal,Howrah,1,723,1,4,Semi-furnished,1,1,3749917
+Ahmedabad,Gujarat,Satellite,1,628,0,17,Furnished,1,1,5069677
+Ahmedabad,Gujarat,Satellite,2,976,1,5,Unfurnished,1,1,9337666
+Ahmedabad,Gujarat,Satellite,1,559,1,5,Unfurnished,1,1,5674008
+Ahmedabad,Gujarat,Satellite,3,1433,1,21,Unfurnished,1,1,12698346
+Ahmedabad,Gujarat,Satellite,2,1026,1,4,Semi-furnished,1,1,10627585
+Ahmedabad,Gujarat,Satellite,1,586,0,22,Semi-furnished,1,1,5217693
+Ahmedabad,Gujarat,Satellite,4,2053,0,10,Unfurnished,1,1,16391708
+Ahmedabad,Gujarat,Satellite,3,1152,0,22,Unfurnished,1,1,8555492
+Ahmedabad,Gujarat,Satellite,3,1420,0,5,Unfurnished,1,1,10547951
+Ahmedabad,Gujarat,Satellite,3,1268,1,21,Unfurnished,1,1,12028519
+Ahmedabad,Gujarat,Satellite,3,1239,1,5,Semi-furnished,1,1,11513622
+Ahmedabad,Gujarat,Satellite,2,859,0,18,Furnished,1,0,6542033
+Ahmedabad,Gujarat,Satellite,4,2120,0,6,Unfurnished,1,1,17839743
+Ahmedabad,Gujarat,Satellite,2,1125,1,15,Furnished,1,0,9658084
+Ahmedabad,Gujarat,Satellite,3,1448,0,21,Semi-furnished,1,1,11471735
+Ahmedabad,Gujarat,Satellite,2,1092,1,22,Semi-furnished,1,0,8608164
+Ahmedabad,Gujarat,Satellite,4,2015,0,18,Semi-furnished,1,0,14031142
+Ahmedabad,Gujarat,Satellite,1,549,0,17,Semi-furnished,1,1,4780285
+Ahmedabad,Gujarat,Satellite,3,1693,0,20,Semi-furnished,1,1,12544162
+Ahmedabad,Gujarat,Satellite,3,1412,1,5,Semi-furnished,1,1,14646796
+Ahmedabad,Gujarat,Satellite,1,718,1,21,Unfurnished,1,1,6563149
+Ahmedabad,Gujarat,Satellite,3,1551,0,20,Semi-furnished,0,1,13003743
+Ahmedabad,Gujarat,Satellite,2,1114,1,10,Furnished,1,1,11977438
+Ahmedabad,Gujarat,Satellite,3,1555,1,3,Unfurnished,1,0,15408320
+Ahmedabad,Gujarat,Satellite,1,620,1,13,Furnished,1,1,6563414
+Ahmedabad,Gujarat,Satellite,3,1477,1,14,Furnished,1,1,17085173
+Ahmedabad,Gujarat,Satellite,2,1109,0,0,Furnished,1,0,9254048
+Ahmedabad,Gujarat,Satellite,3,1467,1,2,Semi-furnished,0,0,14047943
+Ahmedabad,Gujarat,Satellite,3,1637,0,12,Semi-furnished,1,1,12653879
+Ahmedabad,Gujarat,Satellite,4,2229,0,25,Furnished,1,0,15662898
+Ahmedabad,Gujarat,Satellite,2,1071,1,17,Unfurnished,1,1,10579483
+Ahmedabad,Gujarat,Satellite,1,520,0,20,Semi-furnished,1,1,3304269
+Ahmedabad,Gujarat,Satellite,2,1250,1,23,Unfurnished,0,0,11043087
+Ahmedabad,Gujarat,Satellite,3,1478,0,24,Semi-furnished,0,0,9848082
+Ahmedabad,Gujarat,Satellite,3,1319,0,25,Semi-furnished,0,1,10599473
+Ahmedabad,Gujarat,Satellite,2,920,1,14,Semi-furnished,1,0,9614291
+Ahmedabad,Gujarat,Satellite,1,723,1,5,Semi-furnished,1,1,6590863
+Ahmedabad,Gujarat,Satellite,1,745,0,15,Semi-furnished,1,1,6666992
+Ahmedabad,Gujarat,Satellite,2,1028,0,11,Unfurnished,1,0,8965438
+Ahmedabad,Gujarat,Satellite,2,1144,1,22,Semi-furnished,1,0,11059430
+Ahmedabad,Gujarat,Satellite,2,1130,1,3,Unfurnished,1,1,11604922
+Ahmedabad,Gujarat,Satellite,2,1202,1,6,Unfurnished,1,1,12753878
+Ahmedabad,Gujarat,Satellite,2,1109,1,18,Unfurnished,0,1,9751526
+Ahmedabad,Gujarat,Satellite,1,711,1,5,Semi-furnished,0,1,6990738
+Ahmedabad,Gujarat,Satellite,4,2342,0,18,Semi-furnished,1,1,16568823
+Ahmedabad,Gujarat,Bopal,3,1536,1,18,Unfurnished,1,1,10072616
+Ahmedabad,Gujarat,Bopal,1,559,0,22,Furnished,1,1,3584286
+Ahmedabad,Gujarat,Bopal,2,1072,0,11,Unfurnished,1,1,5043726
+Ahmedabad,Gujarat,Bopal,2,1166,1,0,Unfurnished,1,1,8623061
+Ahmedabad,Gujarat,Bopal,2,1120,1,24,Furnished,1,1,7376159
+Ahmedabad,Gujarat,Bopal,1,578,1,16,Semi-furnished,1,0,3711738
+Ahmedabad,Gujarat,Bopal,2,1148,0,7,Unfurnished,1,1,6424803
+Ahmedabad,Gujarat,Bopal,2,1328,0,23,Furnished,1,1,6619958
+Ahmedabad,Gujarat,Bopal,2,880,1,7,Furnished,1,0,6406035
+Ahmedabad,Gujarat,Bopal,4,2238,1,24,Furnished,1,1,14216865
+Ahmedabad,Gujarat,Bopal,2,1189,0,8,Furnished,1,1,7227635
+Ahmedabad,Gujarat,Bopal,2,976,0,5,Semi-furnished,1,1,6037600
+Ahmedabad,Gujarat,Bopal,2,920,0,11,Unfurnished,1,1,4725471
+Ahmedabad,Gujarat,Bopal,2,1076,0,7,Semi-furnished,0,0,4318462
+Ahmedabad,Gujarat,Bopal,3,1940,0,20,Unfurnished,1,1,9229826
+Ahmedabad,Gujarat,Bopal,3,1465,1,18,Furnished,0,1,9202341
+Ahmedabad,Gujarat,Bopal,3,1215,0,11,Unfurnished,1,1,7738318
+Ahmedabad,Gujarat,Bopal,3,1629,1,20,Semi-furnished,1,1,11112040
+Ahmedabad,Gujarat,Bopal,3,1247,1,10,Semi-furnished,0,1,8844736
+Ahmedabad,Gujarat,Bopal,3,1630,1,24,Semi-furnished,1,1,10335810
+Ahmedabad,Gujarat,Bopal,3,1593,0,10,Semi-furnished,1,1,10066419
+Ahmedabad,Gujarat,Bopal,3,1423,0,13,Furnished,1,1,7205940
+Ahmedabad,Gujarat,Bopal,2,1058,1,1,Semi-furnished,1,1,8517420
+Ahmedabad,Gujarat,Bopal,2,972,0,9,Semi-furnished,1,0,5385265
+Ahmedabad,Gujarat,Bopal,2,943,0,8,Semi-furnished,1,1,6552421
+Ahmedabad,Gujarat,Bopal,3,1326,1,23,Unfurnished,0,1,9783720
+Ahmedabad,Gujarat,Bopal,3,1634,0,25,Semi-furnished,1,1,8395867
+Ahmedabad,Gujarat,Bopal,2,897,0,17,Semi-furnished,0,1,4694415
+Ahmedabad,Gujarat,Bopal,3,1580,0,18,Semi-furnished,1,0,8068928
+Ahmedabad,Gujarat,Bopal,3,1218,0,17,Semi-furnished,1,1,8318898
+Ahmedabad,Gujarat,Bopal,2,1013,0,17,Semi-furnished,1,0,4985926
+Ahmedabad,Gujarat,Bopal,2,1078,1,2,Semi-furnished,1,0,6894975
+Ahmedabad,Gujarat,Bopal,2,647,0,0,Semi-furnished,0,0,3994695
+Ahmedabad,Gujarat,Bopal,4,2006,1,5,Furnished,1,1,14478338
+Ahmedabad,Gujarat,Bopal,2,1150,0,9,Unfurnished,1,0,5889926
+Ahmedabad,Gujarat,Bopal,1,615,0,18,Unfurnished,0,1,3547058
+Ahmedabad,Gujarat,Bopal,1,626,0,5,Unfurnished,0,1,3471097
+Ahmedabad,Gujarat,Bopal,4,1885,0,22,Unfurnished,1,1,9628978
+Ahmedabad,Gujarat,Bopal,1,807,1,23,Semi-furnished,1,1,4947527
+Ahmedabad,Gujarat,Bopal,4,2290,0,20,Unfurnished,1,1,12905424
+Ahmedabad,Gujarat,Bopal,2,992,0,9,Semi-furnished,1,0,5230830
+Ahmedabad,Gujarat,Bopal,2,1061,0,13,Unfurnished,0,0,6542865
+Ahmedabad,Gujarat,Bopal,3,1932,0,22,Unfurnished,0,1,9914154
+Ahmedabad,Gujarat,Bopal,3,1514,0,17,Semi-furnished,1,0,7823983
+Ahmedabad,Gujarat,Bopal,1,654,0,24,Semi-furnished,1,1,3126286
+Ahmedabad,Gujarat,SG Highway,2,1272,0,9,Unfurnished,1,1,10019629
+Ahmedabad,Gujarat,SG Highway,1,437,1,14,Semi-furnished,1,1,3649981
+Ahmedabad,Gujarat,SG Highway,3,1505,1,1,Unfurnished,1,1,11590856
+Ahmedabad,Gujarat,SG Highway,2,1307,0,22,Semi-furnished,1,1,9987576
+Ahmedabad,Gujarat,SG Highway,2,1114,0,12,Unfurnished,1,1,7221184
+Ahmedabad,Gujarat,SG Highway,2,1061,0,12,Unfurnished,0,1,6571866
+Ahmedabad,Gujarat,SG Highway,1,574,0,14,Unfurnished,1,0,3487777
+Ahmedabad,Gujarat,SG Highway,2,1026,0,13,Unfurnished,0,1,6619681
+Ahmedabad,Gujarat,SG Highway,1,823,0,3,Furnished,1,1,6947086
+Ahmedabad,Gujarat,SG Highway,3,1324,0,22,Semi-furnished,1,1,8747888
+Ahmedabad,Gujarat,SG Highway,3,1477,0,4,Furnished,1,1,11254436
+Ahmedabad,Gujarat,SG Highway,2,1029,0,25,Unfurnished,1,1,6115228
+Ahmedabad,Gujarat,SG Highway,1,751,0,22,Unfurnished,0,1,4041549
+Ahmedabad,Gujarat,SG Highway,2,899,1,23,Unfurnished,1,1,6590059
+Ahmedabad,Gujarat,SG Highway,3,1899,0,13,Furnished,1,1,15542675
+Ahmedabad,Gujarat,SG Highway,1,400,0,13,Unfurnished,1,0,2747686
+Ahmedabad,Gujarat,SG Highway,2,877,0,12,Semi-furnished,0,1,6543267
+Ahmedabad,Gujarat,SG Highway,1,613,0,20,Semi-furnished,0,1,4062233
+Ahmedabad,Gujarat,SG Highway,2,1307,1,1,Semi-furnished,1,0,11208329
+Ahmedabad,Gujarat,SG Highway,4,2313,0,4,Furnished,0,1,16795321
+Ahmedabad,Gujarat,SG Highway,4,1877,0,20,Furnished,1,1,12497641
+Ahmedabad,Gujarat,SG Highway,3,1329,0,12,Unfurnished,1,0,7934238
+Ahmedabad,Gujarat,SG Highway,1,692,0,11,Semi-furnished,1,1,4217466
+Ahmedabad,Gujarat,SG Highway,3,1816,0,7,Furnished,1,1,13192968
+Ahmedabad,Gujarat,SG Highway,1,802,0,18,Semi-furnished,1,1,4702429
+Ahmedabad,Gujarat,SG Highway,1,568,0,1,Furnished,1,1,4339640
+Ahmedabad,Gujarat,SG Highway,3,1419,1,21,Unfurnished,1,0,9858750
+Ahmedabad,Gujarat,SG Highway,3,1208,0,24,Furnished,0,0,8659589
+Ahmedabad,Gujarat,SG Highway,3,1562,0,4,Unfurnished,0,1,11027516
+Ahmedabad,Gujarat,SG Highway,2,1019,0,15,Unfurnished,0,1,6448532
+Ahmedabad,Gujarat,SG Highway,3,1392,1,6,Furnished,1,0,10971932
+Ahmedabad,Gujarat,SG Highway,2,988,0,1,Semi-furnished,1,1,6847652
+Ahmedabad,Gujarat,SG Highway,3,1709,0,23,Semi-furnished,1,1,11534332
+Ahmedabad,Gujarat,SG Highway,2,1156,0,0,Unfurnished,0,1,7635785
+Ahmedabad,Gujarat,SG Highway,3,1208,0,2,Unfurnished,1,0,7898976
+Ahmedabad,Gujarat,SG Highway,4,1765,1,12,Unfurnished,0,0,14117793
+Ahmedabad,Gujarat,SG Highway,3,1340,0,6,Furnished,1,1,9644850
+Ahmedabad,Gujarat,SG Highway,2,910,1,20,Unfurnished,1,0,6736266
+Ahmedabad,Gujarat,SG Highway,2,748,0,15,Unfurnished,1,1,4719249
+Ahmedabad,Gujarat,SG Highway,2,1124,0,14,Unfurnished,1,0,7058320
+Ahmedabad,Gujarat,SG Highway,3,1403,1,14,Semi-furnished,1,1,12129389
+Ahmedabad,Gujarat,SG Highway,1,496,0,1,Semi-furnished,0,1,3769897
+Ahmedabad,Gujarat,SG Highway,3,1392,0,2,Furnished,1,1,10780439
+Ahmedabad,Gujarat,SG Highway,2,1014,0,6,Furnished,1,0,7999830
+Ahmedabad,Gujarat,SG Highway,2,1250,1,16,Semi-furnished,1,1,9727225
+Ahmedabad,Gujarat,Maninagar,2,1081,0,10,Semi-furnished,1,1,6432129
+Ahmedabad,Gujarat,Maninagar,3,998,0,3,Furnished,1,0,5020802
+Ahmedabad,Gujarat,Maninagar,2,1113,0,14,Semi-furnished,1,1,4484676
+Ahmedabad,Gujarat,Maninagar,4,2016,0,14,Unfurnished,0,1,11442298
+Ahmedabad,Gujarat,Maninagar,4,2282,0,16,Semi-furnished,1,1,10096060
+Ahmedabad,Gujarat,Maninagar,3,1507,0,10,Furnished,0,0,7829437
+Ahmedabad,Gujarat,Maninagar,2,926,0,9,Semi-furnished,0,1,4423425
+Ahmedabad,Gujarat,Maninagar,1,698,0,0,Unfurnished,0,1,3972194
+Ahmedabad,Gujarat,Maninagar,2,1141,0,0,Unfurnished,1,0,6198061
+Ahmedabad,Gujarat,Maninagar,3,1518,0,21,Unfurnished,1,1,7054500
+Ahmedabad,Gujarat,Maninagar,3,1374,1,7,Unfurnished,1,1,8153633
+Ahmedabad,Gujarat,Maninagar,2,943,0,25,Unfurnished,1,1,4691842
+Ahmedabad,Gujarat,Maninagar,2,918,0,20,Unfurnished,1,0,3833868
+Ahmedabad,Gujarat,Maninagar,3,1333,0,5,Semi-furnished,1,1,6613894
+Ahmedabad,Gujarat,Maninagar,3,1304,0,14,Semi-furnished,1,1,6755035
+Ahmedabad,Gujarat,Maninagar,2,901,1,17,Semi-furnished,1,1,5364327
+Ahmedabad,Gujarat,Maninagar,3,1282,1,3,Unfurnished,1,1,8600844
+Ahmedabad,Gujarat,Maninagar,2,1264,0,21,Unfurnished,1,1,6537732
+Ahmedabad,Gujarat,Maninagar,2,1147,0,7,Semi-furnished,0,1,6689757
+Ahmedabad,Gujarat,Maninagar,2,1032,0,21,Semi-furnished,1,1,4761438
+Ahmedabad,Gujarat,Maninagar,1,536,1,19,Unfurnished,1,1,3802465
+Ahmedabad,Gujarat,Maninagar,1,578,0,21,Unfurnished,0,0,3019810
+Ahmedabad,Gujarat,Maninagar,3,1325,1,3,Semi-furnished,1,0,7732843
+Ahmedabad,Gujarat,Maninagar,3,1111,1,4,Semi-furnished,1,1,7177203
+Ahmedabad,Gujarat,Maninagar,2,1121,0,25,Unfurnished,1,1,5799836
+Ahmedabad,Gujarat,Maninagar,3,1570,1,7,Semi-furnished,1,0,10330994
+Ahmedabad,Gujarat,Maninagar,2,1120,0,23,Unfurnished,1,0,5760974
+Ahmedabad,Gujarat,Maninagar,3,1477,0,12,Semi-furnished,1,0,7517705
+Ahmedabad,Gujarat,Maninagar,2,1102,0,23,Semi-furnished,1,0,5546830
+Ahmedabad,Gujarat,Maninagar,2,976,0,0,Unfurnished,1,0,5324399
+Ahmedabad,Gujarat,Maninagar,2,1229,1,25,Unfurnished,1,1,7851478
+Ahmedabad,Gujarat,Maninagar,2,1102,0,16,Semi-furnished,1,1,6383238
+Ahmedabad,Gujarat,Maninagar,3,1330,0,18,Unfurnished,1,1,7634580
+Ahmedabad,Gujarat,Maninagar,4,2443,0,15,Semi-furnished,1,0,13207316
+Ahmedabad,Gujarat,Maninagar,2,1152,1,1,Semi-furnished,1,0,6641486
+Ahmedabad,Gujarat,Maninagar,2,986,0,8,Unfurnished,1,1,4961111
+Ahmedabad,Gujarat,Maninagar,3,1434,0,23,Unfurnished,1,1,6891846
+Ahmedabad,Gujarat,Maninagar,2,911,0,24,Semi-furnished,1,0,4277931
+Ahmedabad,Gujarat,Maninagar,1,649,1,5,Unfurnished,1,0,4246824
+Ahmedabad,Gujarat,Maninagar,3,1349,1,9,Furnished,1,1,10154019
+Ahmedabad,Gujarat,Maninagar,2,1123,0,19,Unfurnished,0,1,5854383
+Ahmedabad,Gujarat,Maninagar,1,659,0,20,Semi-furnished,0,0,2786972
+Ahmedabad,Gujarat,Maninagar,2,898,1,11,Unfurnished,1,1,5062570
+Ahmedabad,Gujarat,Maninagar,3,1520,0,15,Unfurnished,1,1,7296549
+Ahmedabad,Gujarat,Maninagar,1,509,0,18,Furnished,0,1,2419389
+Jaipur,Rajasthan,Vaishali Nagar,2,1018,1,6,Semi-furnished,1,1,6556822
+Jaipur,Rajasthan,Vaishali Nagar,3,1720,0,8,Furnished,1,1,11284352
+Jaipur,Rajasthan,Vaishali Nagar,4,1885,1,23,Semi-furnished,1,1,11558692
+Jaipur,Rajasthan,Vaishali Nagar,2,1000,1,11,Furnished,1,1,7777644
+Jaipur,Rajasthan,Vaishali Nagar,3,1538,0,19,Furnished,1,1,8414719
+Jaipur,Rajasthan,Vaishali Nagar,2,994,0,9,Unfurnished,1,0,6143809
+Jaipur,Rajasthan,Vaishali Nagar,2,1017,1,6,Semi-furnished,0,1,7178766
+Jaipur,Rajasthan,Vaishali Nagar,3,1490,1,2,Unfurnished,1,0,10477910
+Jaipur,Rajasthan,Vaishali Nagar,2,1058,0,3,Semi-furnished,1,1,7612521
+Jaipur,Rajasthan,Vaishali Nagar,3,1775,0,16,Unfurnished,0,0,10047051
+Jaipur,Rajasthan,Vaishali Nagar,2,1080,0,24,Unfurnished,1,0,6060775
+Jaipur,Rajasthan,Vaishali Nagar,2,828,1,13,Semi-furnished,1,0,5048138
+Jaipur,Rajasthan,Vaishali Nagar,2,1059,1,4,Unfurnished,1,1,6287173
+Jaipur,Rajasthan,Vaishali Nagar,2,880,1,23,Unfurnished,1,0,5525763
+Jaipur,Rajasthan,Vaishali Nagar,3,1241,1,1,Unfurnished,1,0,8733027
+Jaipur,Rajasthan,Vaishali Nagar,1,872,0,1,Unfurnished,1,1,5572656
+Jaipur,Rajasthan,Vaishali Nagar,1,681,0,23,Furnished,1,0,4009009
+Jaipur,Rajasthan,Vaishali Nagar,2,1049,0,11,Unfurnished,1,1,6244661
+Jaipur,Rajasthan,Vaishali Nagar,3,1466,0,20,Furnished,1,0,7830305
+Jaipur,Rajasthan,Vaishali Nagar,3,1234,0,19,Semi-furnished,1,0,7591408
+Jaipur,Rajasthan,Vaishali Nagar,2,969,0,9,Semi-furnished,1,1,5847093
+Jaipur,Rajasthan,Vaishali Nagar,1,769,1,5,Unfurnished,1,0,4530542
+Jaipur,Rajasthan,Vaishali Nagar,1,696,1,18,Unfurnished,1,0,4397444
+Jaipur,Rajasthan,Vaishali Nagar,4,2301,0,7,Semi-furnished,1,1,12574254
+Jaipur,Rajasthan,Vaishali Nagar,3,1443,1,25,Semi-furnished,0,0,9940410
+Jaipur,Rajasthan,Vaishali Nagar,2,1407,0,15,Semi-furnished,1,1,7506316
+Jaipur,Rajasthan,Vaishali Nagar,3,1279,0,7,Semi-furnished,1,1,8679578
+Jaipur,Rajasthan,Vaishali Nagar,3,1269,0,0,Unfurnished,1,1,6097737
+Jaipur,Rajasthan,Vaishali Nagar,1,640,0,2,Semi-furnished,1,0,3386330
+Jaipur,Rajasthan,Vaishali Nagar,2,1071,1,18,Furnished,1,1,7110629
+Jaipur,Rajasthan,Vaishali Nagar,3,1551,0,24,Unfurnished,1,1,8574049
+Jaipur,Rajasthan,Vaishali Nagar,2,1051,1,0,Semi-furnished,1,1,8250623
+Jaipur,Rajasthan,Vaishali Nagar,2,1175,0,21,Semi-furnished,0,1,6689978
+Jaipur,Rajasthan,Vaishali Nagar,3,1587,1,11,Unfurnished,1,1,9529592
+Jaipur,Rajasthan,Vaishali Nagar,4,2016,0,13,Unfurnished,1,0,13340193
+Jaipur,Rajasthan,Vaishali Nagar,2,1201,0,16,Semi-furnished,1,0,6555390
+Jaipur,Rajasthan,Vaishali Nagar,4,2405,0,7,Furnished,1,1,16776657
+Jaipur,Rajasthan,Vaishali Nagar,3,1707,0,0,Semi-furnished,0,0,9818936
+Jaipur,Rajasthan,Vaishali Nagar,1,628,0,16,Unfurnished,1,0,3329138
+Jaipur,Rajasthan,Vaishali Nagar,1,658,1,14,Furnished,1,1,4536576
+Jaipur,Rajasthan,Vaishali Nagar,2,1086,0,13,Unfurnished,1,0,5867968
+Jaipur,Rajasthan,Vaishali Nagar,1,562,0,24,Unfurnished,1,0,2502233
+Jaipur,Rajasthan,Vaishali Nagar,3,1665,0,22,Semi-furnished,1,0,10797498
+Jaipur,Rajasthan,Vaishali Nagar,1,655,0,9,Semi-furnished,1,0,3557276
+Jaipur,Rajasthan,Vaishali Nagar,4,2207,1,22,Unfurnished,1,1,14064387
+Jaipur,Rajasthan,Malviya Nagar,2,1071,1,21,Semi-furnished,1,1,9271214
+Jaipur,Rajasthan,Malviya Nagar,2,1138,0,21,Semi-furnished,0,0,7766364
+Jaipur,Rajasthan,Malviya Nagar,3,1510,1,20,Semi-furnished,1,1,13795985
+Jaipur,Rajasthan,Malviya Nagar,3,1259,0,8,Unfurnished,0,0,7430642
+Jaipur,Rajasthan,Malviya Nagar,1,622,1,4,Semi-furnished,1,1,5757015
+Jaipur,Rajasthan,Malviya Nagar,3,1659,1,3,Furnished,1,1,13998248
+Jaipur,Rajasthan,Malviya Nagar,2,1075,0,2,Semi-furnished,1,0,7863897
+Jaipur,Rajasthan,Malviya Nagar,3,1459,1,24,Unfurnished,0,0,11442739
+Jaipur,Rajasthan,Malviya Nagar,2,1042,1,15,Semi-furnished,1,1,9355718
+Jaipur,Rajasthan,Malviya Nagar,2,1000,0,11,Unfurnished,1,1,7488090
+Jaipur,Rajasthan,Malviya Nagar,3,1592,1,1,Semi-furnished,1,0,11599832
+Jaipur,Rajasthan,Malviya Nagar,2,971,0,12,Unfurnished,0,1,6504241
+Jaipur,Rajasthan,Malviya Nagar,3,1594,0,4,Semi-furnished,0,1,14248054
+Jaipur,Rajasthan,Malviya Nagar,3,934,1,7,Furnished,1,0,8315353
+Jaipur,Rajasthan,Malviya Nagar,4,1801,0,18,Semi-furnished,1,0,11679003
+Jaipur,Rajasthan,Malviya Nagar,4,2657,1,22,Furnished,0,1,24346141
+Jaipur,Rajasthan,Malviya Nagar,3,1767,1,5,Unfurnished,1,0,14349936
+Jaipur,Rajasthan,Malviya Nagar,2,984,0,23,Unfurnished,0,0,5275110
+Jaipur,Rajasthan,Malviya Nagar,3,1513,0,1,Semi-furnished,1,1,11445402
+Jaipur,Rajasthan,Malviya Nagar,2,941,1,20,Semi-furnished,1,1,7963621
+Jaipur,Rajasthan,Malviya Nagar,1,543,0,4,Semi-furnished,0,1,3513739
+Jaipur,Rajasthan,Malviya Nagar,3,1408,0,9,Furnished,1,1,11415847
+Jaipur,Rajasthan,Malviya Nagar,3,1576,1,21,Furnished,1,1,16056099
+Jaipur,Rajasthan,Malviya Nagar,4,2111,0,17,Unfurnished,1,0,13281480
+Jaipur,Rajasthan,Malviya Nagar,1,578,1,20,Furnished,1,1,5167531
+Jaipur,Rajasthan,Malviya Nagar,3,1646,1,0,Semi-furnished,1,0,14975497
+Jaipur,Rajasthan,Malviya Nagar,2,972,0,20,Semi-furnished,0,1,6432839
+Jaipur,Rajasthan,Malviya Nagar,3,1285,1,21,Semi-furnished,1,1,10286372
+Jaipur,Rajasthan,Malviya Nagar,3,1382,0,24,Semi-furnished,1,0,9924092
+Jaipur,Rajasthan,Malviya Nagar,2,1049,0,22,Furnished,1,0,6567464
+Jaipur,Rajasthan,Malviya Nagar,2,1178,0,4,Unfurnished,0,1,8652853
+Jaipur,Rajasthan,Malviya Nagar,3,1305,1,19,Semi-furnished,1,1,10239653
+Jaipur,Rajasthan,Malviya Nagar,3,1925,0,23,Semi-furnished,1,0,12855890
+Jaipur,Rajasthan,Malviya Nagar,2,1301,1,16,Semi-furnished,1,1,10997798
+Jaipur,Rajasthan,Malviya Nagar,2,919,0,23,Unfurnished,1,1,5784657
+Jaipur,Rajasthan,Malviya Nagar,3,1490,1,19,Semi-furnished,0,0,12166435
+Jaipur,Rajasthan,Malviya Nagar,3,1476,0,12,Unfurnished,0,0,9337578
+Jaipur,Rajasthan,Malviya Nagar,2,1202,0,19,Semi-furnished,0,1,8276241
+Jaipur,Rajasthan,Malviya Nagar,3,1601,0,22,Semi-furnished,1,0,11930457
+Jaipur,Rajasthan,Malviya Nagar,2,1182,1,4,Semi-furnished,1,1,11458568
+Jaipur,Rajasthan,Malviya Nagar,2,927,1,10,Unfurnished,0,1,8030302
+Jaipur,Rajasthan,Malviya Nagar,2,1053,0,19,Furnished,1,0,6889871
+Jaipur,Rajasthan,Malviya Nagar,3,1518,0,13,Semi-furnished,1,1,11049488
+Jaipur,Rajasthan,Malviya Nagar,2,920,1,6,Semi-furnished,1,1,8278687
+Jaipur,Rajasthan,Malviya Nagar,2,754,0,11,Furnished,1,1,5356279
+Jaipur,Rajasthan,Jagatpura,1,757,1,10,Semi-furnished,1,0,4504665
+Jaipur,Rajasthan,Jagatpura,2,1101,1,0,Semi-furnished,1,1,7449066
+Jaipur,Rajasthan,Jagatpura,4,2148,0,16,Semi-furnished,1,1,10760192
+Jaipur,Rajasthan,Jagatpura,1,575,0,24,Furnished,1,1,2541337
+Jaipur,Rajasthan,Jagatpura,2,1051,1,19,Unfurnished,1,1,6433167
+Jaipur,Rajasthan,Jagatpura,2,1176,1,15,Semi-furnished,1,1,5699838
+Jaipur,Rajasthan,Jagatpura,2,1024,0,18,Semi-furnished,1,1,4910641
+Jaipur,Rajasthan,Jagatpura,2,780,0,14,Semi-furnished,1,1,3171797
+Jaipur,Rajasthan,Jagatpura,2,871,0,17,Semi-furnished,1,0,3954410
+Jaipur,Rajasthan,Jagatpura,2,1001,1,5,Unfurnished,1,0,5680003
+Jaipur,Rajasthan,Jagatpura,2,1005,1,3,Unfurnished,1,0,5734611
+Jaipur,Rajasthan,Jagatpura,3,1323,0,18,Semi-furnished,1,1,5811498
+Jaipur,Rajasthan,Jagatpura,4,2143,0,11,Unfurnished,0,0,9371373
+Jaipur,Rajasthan,Jagatpura,2,951,0,17,Unfurnished,0,0,3597282
+Jaipur,Rajasthan,Jagatpura,3,1417,0,25,Semi-furnished,1,1,5251995
+Jaipur,Rajasthan,Jagatpura,2,1065,1,1,Semi-furnished,1,1,6124974
+Jaipur,Rajasthan,Jagatpura,3,1366,1,20,Semi-furnished,1,0,6978753
+Jaipur,Rajasthan,Jagatpura,2,1044,0,4,Semi-furnished,1,0,4914315
+Jaipur,Rajasthan,Jagatpura,2,901,0,17,Unfurnished,1,0,3740215
+Jaipur,Rajasthan,Jagatpura,4,1781,1,24,Semi-furnished,1,1,8971739
+Jaipur,Rajasthan,Jagatpura,1,787,1,3,Semi-furnished,1,0,3922203
+Jaipur,Rajasthan,Jagatpura,2,944,0,21,Unfurnished,1,1,3944236
+Jaipur,Rajasthan,Jagatpura,3,1322,0,22,Unfurnished,1,0,5017128
+Jaipur,Rajasthan,Jagatpura,1,578,0,2,Unfurnished,1,1,2337185
+Jaipur,Rajasthan,Jagatpura,2,1145,1,20,Semi-furnished,0,0,6046604
+Jaipur,Rajasthan,Jagatpura,3,1470,0,14,Semi-furnished,0,1,5895880
+Jaipur,Rajasthan,Jagatpura,2,1093,0,14,Semi-furnished,0,1,4388959
+Jaipur,Rajasthan,Jagatpura,2,1348,1,15,Semi-furnished,1,0,6968950
+Jaipur,Rajasthan,Jagatpura,1,500,0,8,Unfurnished,1,1,2427283
+Jaipur,Rajasthan,Jagatpura,2,1041,1,6,Unfurnished,0,1,6463019
+Jaipur,Rajasthan,Jagatpura,4,1875,1,24,Unfurnished,1,1,10034646
+Jaipur,Rajasthan,Jagatpura,2,1150,1,14,Furnished,1,1,6609883
+Jaipur,Rajasthan,Jagatpura,1,673,1,9,Furnished,1,0,4497739
+Jaipur,Rajasthan,Jagatpura,1,746,0,19,Unfurnished,1,0,3235998
+Jaipur,Rajasthan,Jagatpura,2,1046,1,13,Semi-furnished,1,1,5232382
+Jaipur,Rajasthan,Jagatpura,1,599,1,13,Unfurnished,1,1,3529265
+Jaipur,Rajasthan,Jagatpura,1,659,0,11,Unfurnished,1,1,3207849
+Jaipur,Rajasthan,Jagatpura,3,1272,0,4,Furnished,1,1,6463584
+Jaipur,Rajasthan,Jagatpura,1,673,0,4,Unfurnished,1,1,2995488
+Jaipur,Rajasthan,Jagatpura,3,1666,0,14,Unfurnished,1,0,8630784
+Jaipur,Rajasthan,Jagatpura,4,2652,0,16,Unfurnished,1,1,12987975
+Jaipur,Rajasthan,Jagatpura,3,1468,0,0,Semi-furnished,1,1,6940351
+Jaipur,Rajasthan,Jagatpura,2,1290,1,3,Semi-furnished,1,0,7421252
+Jaipur,Rajasthan,Jagatpura,3,1244,0,6,Semi-furnished,1,0,5669347
+Jaipur,Rajasthan,Jagatpura,4,2080,1,8,Unfurnished,1,1,11966886
+Kochi,Kerala,Kakkanad,1,823,0,18,Semi-furnished,0,0,5116517
+Kochi,Kerala,Kakkanad,2,1134,0,24,Semi-furnished,1,0,6280114
+Kochi,Kerala,Kakkanad,2,1018,1,21,Semi-furnished,1,1,7267100
+Kochi,Kerala,Kakkanad,2,1004,0,9,Unfurnished,1,1,6049450
+Kochi,Kerala,Kakkanad,2,1009,0,5,Unfurnished,1,1,5678513
+Kochi,Kerala,Kakkanad,1,784,1,23,Semi-furnished,1,1,6345978
+Kochi,Kerala,Kakkanad,2,978,0,18,Semi-furnished,1,1,6096624
+Kochi,Kerala,Kakkanad,1,608,0,9,Unfurnished,1,0,3050720
+Kochi,Kerala,Kakkanad,3,1256,1,25,Furnished,0,1,10266824
+Kochi,Kerala,Kakkanad,2,1153,0,10,Unfurnished,1,1,6885980
+Kochi,Kerala,Kakkanad,2,870,0,17,Semi-furnished,1,1,5118284
+Kochi,Kerala,Kakkanad,2,1148,0,14,Semi-furnished,1,1,8111439
+Kochi,Kerala,Kakkanad,4,2142,0,21,Semi-furnished,1,1,15478775
+Kochi,Kerala,Kakkanad,3,1336,0,6,Unfurnished,0,0,6481152
+Kochi,Kerala,Kakkanad,2,1290,0,23,Semi-furnished,0,0,7273152
+Kochi,Kerala,Kakkanad,3,1445,0,9,Unfurnished,1,1,7517406
+Kochi,Kerala,Kakkanad,1,584,1,10,Semi-furnished,1,1,4093513
+Kochi,Kerala,Kakkanad,1,568,0,24,Semi-furnished,1,0,3102098
+Kochi,Kerala,Kakkanad,2,1020,0,1,Furnished,1,1,7404142
+Kochi,Kerala,Kakkanad,1,672,1,14,Unfurnished,1,1,4993752
+Kochi,Kerala,Kakkanad,2,1354,1,5,Semi-furnished,1,1,11945165
+Kochi,Kerala,Kakkanad,2,1151,0,0,Semi-furnished,1,1,8121784
+Kochi,Kerala,Kakkanad,1,873,0,7,Semi-furnished,1,1,5620529
+Kochi,Kerala,Kakkanad,2,986,0,21,Semi-furnished,1,0,5933345
+Kochi,Kerala,Kakkanad,2,845,1,3,Furnished,1,1,6961973
+Kochi,Kerala,Kakkanad,2,866,0,9,Unfurnished,0,1,4972069
+Kochi,Kerala,Kakkanad,4,1951,0,23,Semi-furnished,1,1,10994588
+Kochi,Kerala,Kakkanad,2,831,0,16,Semi-furnished,0,1,5308469
+Kochi,Kerala,Kakkanad,2,1012,1,4,Unfurnished,0,0,7700527
+Kochi,Kerala,Kakkanad,3,1489,0,3,Semi-furnished,1,0,8385762
+Kochi,Kerala,Kakkanad,1,665,1,11,Semi-furnished,1,1,5203284
+Kochi,Kerala,Kakkanad,3,1444,0,6,Furnished,0,0,10212190
+Kochi,Kerala,Kakkanad,3,1415,0,2,Unfurnished,1,1,7584779
+Kochi,Kerala,Kakkanad,4,1929,1,7,Semi-furnished,0,0,14201874
+Kochi,Kerala,Kakkanad,2,1268,0,25,Furnished,0,0,8530959
+Kochi,Kerala,Kakkanad,2,1007,0,24,Unfurnished,1,0,5146568
+Kochi,Kerala,Kakkanad,2,950,0,17,Furnished,1,0,5772696
+Kochi,Kerala,Kakkanad,3,1500,0,9,Unfurnished,1,1,8924512
+Kochi,Kerala,Kakkanad,3,1439,1,18,Semi-furnished,1,1,11198883
+Kochi,Kerala,Kakkanad,2,950,0,23,Semi-furnished,1,1,5336970
+Kochi,Kerala,Kakkanad,3,1050,0,21,Semi-furnished,1,0,4460289
+Kochi,Kerala,Kakkanad,2,1198,1,15,Semi-furnished,1,0,9675242
+Kochi,Kerala,Kakkanad,3,1253,0,9,Unfurnished,1,0,7785325
+Kochi,Kerala,Kakkanad,4,2327,0,2,Furnished,0,1,15128709
+Kochi,Kerala,Kakkanad,2,627,0,24,Semi-furnished,1,0,3476974
+Kochi,Kerala,Edappally,2,1125,0,18,Unfurnished,0,1,7577107
+Kochi,Kerala,Edappally,2,956,0,25,Semi-furnished,1,0,7088473
+Kochi,Kerala,Edappally,4,2207,1,20,Unfurnished,1,0,18121050
+Kochi,Kerala,Edappally,4,1699,1,6,Furnished,1,1,16878170
+Kochi,Kerala,Edappally,3,1793,0,25,Unfurnished,1,0,12058479
+Kochi,Kerala,Edappally,3,1407,1,12,Furnished,1,0,14349437
+Kochi,Kerala,Edappally,1,631,0,23,Semi-furnished,1,0,4728653
+Kochi,Kerala,Edappally,1,729,0,19,Semi-furnished,0,0,5116820
+Kochi,Kerala,Edappally,3,1247,1,8,Semi-furnished,1,0,10501883
+Kochi,Kerala,Edappally,2,1059,0,22,Unfurnished,1,1,6510036
+Kochi,Kerala,Edappally,1,753,0,11,Unfurnished,0,0,5469560
+Kochi,Kerala,Edappally,3,1552,1,5,Semi-furnished,1,1,16857454
+Kochi,Kerala,Edappally,3,1349,0,15,Unfurnished,1,0,9122461
+Kochi,Kerala,Edappally,1,719,0,10,Unfurnished,1,0,4785479
+Kochi,Kerala,Edappally,3,1542,0,25,Unfurnished,1,1,10262739
+Kochi,Kerala,Edappally,2,938,1,4,Unfurnished,1,0,7913802
+Kochi,Kerala,Edappally,3,1384,0,20,Furnished,1,1,10181689
+Kochi,Kerala,Edappally,3,1531,0,21,Furnished,0,1,13171407
+Kochi,Kerala,Edappally,2,820,1,2,Unfurnished,1,0,7629148
+Kochi,Kerala,Edappally,1,744,0,24,Semi-furnished,1,0,4881306
+Kochi,Kerala,Edappally,3,1533,0,20,Semi-furnished,1,1,12669976
+Kochi,Kerala,Edappally,2,922,1,3,Semi-furnished,0,1,7304283
+Kochi,Kerala,Edappally,2,1230,1,8,Furnished,1,0,12168493
+Kochi,Kerala,Edappally,2,672,0,3,Semi-furnished,1,1,5031823
+Kochi,Kerala,Edappally,4,2095,1,20,Unfurnished,1,1,19421838
+Kochi,Kerala,Edappally,2,847,0,21,Semi-furnished,1,1,6468494
+Kochi,Kerala,Edappally,2,1187,0,14,Semi-furnished,0,0,10064514
+Kochi,Kerala,Edappally,1,804,1,17,Unfurnished,0,1,7109598
+Kochi,Kerala,Edappally,2,981,1,16,Furnished,1,0,8785288
+Kochi,Kerala,Edappally,1,657,0,15,Unfurnished,1,1,5076311
+Kochi,Kerala,Edappally,3,1355,0,22,Semi-furnished,1,0,9760176
+Kochi,Kerala,Edappally,1,559,0,23,Semi-furnished,0,0,3609454
+Kochi,Kerala,Edappally,1,710,0,21,Furnished,1,1,5337058
+Kochi,Kerala,Edappally,2,952,0,3,Unfurnished,1,1,6099398
+Kochi,Kerala,Edappally,3,1426,0,22,Unfurnished,0,1,11292330
+Kochi,Kerala,Edappally,3,1337,0,2,Unfurnished,1,1,10931263
+Kochi,Kerala,Edappally,3,1421,0,20,Furnished,0,1,11184424
+Kochi,Kerala,Edappally,2,1232,1,16,Unfurnished,1,0,10517338
+Kochi,Kerala,Edappally,3,1661,1,20,Furnished,0,1,12893941
+Kochi,Kerala,Edappally,3,1233,0,2,Semi-furnished,1,1,10571784
+Kochi,Kerala,Edappally,2,985,0,0,Furnished,1,0,7413357
+Kochi,Kerala,Edappally,3,1567,0,22,Furnished,1,0,10290448
+Kochi,Kerala,Edappally,2,973,0,21,Semi-furnished,1,1,7329248
+Kochi,Kerala,Edappally,3,1520,1,20,Semi-furnished,0,1,15997945
+Kochi,Kerala,Edappally,2,1009,0,1,Semi-furnished,1,0,7311323
+Kochi,Kerala,Vyttila,2,888,0,20,Furnished,1,0,6247148
+Kochi,Kerala,Vyttila,2,757,1,17,Furnished,0,0,7250956
+Kochi,Kerala,Vyttila,1,594,0,8,Semi-furnished,1,0,4829415
+Kochi,Kerala,Vyttila,3,1304,1,15,Semi-furnished,0,1,11310697
+Kochi,Kerala,Vyttila,1,648,0,12,Unfurnished,1,0,4151986
+Kochi,Kerala,Vyttila,3,1436,0,5,Unfurnished,1,1,9684128
+Kochi,Kerala,Vyttila,1,710,0,14,Unfurnished,1,0,4932673
+Kochi,Kerala,Vyttila,4,2549,0,20,Unfurnished,1,1,15293094
+Kochi,Kerala,Vyttila,2,1019,0,14,Furnished,1,1,7275929
+Kochi,Kerala,Vyttila,4,1541,0,7,Semi-furnished,1,1,9431290
+Kochi,Kerala,Vyttila,2,1016,0,2,Unfurnished,1,0,6942498
+Kochi,Kerala,Vyttila,2,905,0,4,Unfurnished,0,1,4861253
+Kochi,Kerala,Vyttila,2,1256,0,3,Unfurnished,0,0,9007319
+Kochi,Kerala,Vyttila,2,1418,0,8,Unfurnished,1,0,10296720
+Kochi,Kerala,Vyttila,4,1944,0,19,Furnished,1,1,13171279
+Kochi,Kerala,Vyttila,3,1506,0,5,Unfurnished,1,0,9125055
+Kochi,Kerala,Vyttila,3,1193,0,5,Semi-furnished,0,1,7277802
+Kochi,Kerala,Vyttila,2,1102,1,25,Furnished,1,1,7627646
+Kochi,Kerala,Vyttila,4,2074,0,25,Semi-furnished,1,1,13498469
+Kochi,Kerala,Vyttila,3,1736,0,14,Semi-furnished,1,1,11531356
+Kochi,Kerala,Vyttila,1,706,1,4,Semi-furnished,0,1,5036350
+Kochi,Kerala,Vyttila,2,1079,0,22,Semi-furnished,1,1,7132689
+Kochi,Kerala,Vyttila,2,1363,0,23,Semi-furnished,1,1,10696547
+Kochi,Kerala,Vyttila,2,1211,0,24,Semi-furnished,1,1,8330361
+Kochi,Kerala,Vyttila,1,558,0,13,Unfurnished,0,1,3819010
+Kochi,Kerala,Vyttila,3,1524,0,18,Unfurnished,1,0,9392724
+Kochi,Kerala,Vyttila,1,764,1,3,Unfurnished,1,1,6278311
+Kochi,Kerala,Vyttila,1,678,0,8,Furnished,0,1,5392190
+Kochi,Kerala,Vyttila,3,1470,0,20,Furnished,1,1,8383441
+Kochi,Kerala,Vyttila,4,2002,1,25,Unfurnished,1,0,15167520
+Kochi,Kerala,Vyttila,2,1030,0,25,Semi-furnished,1,1,6354052
+Kochi,Kerala,Vyttila,3,1401,0,6,Unfurnished,1,1,7701308
+Kochi,Kerala,Vyttila,3,1796,0,10,Furnished,0,1,10044113
+Kochi,Kerala,Vyttila,2,1289,0,19,Semi-furnished,1,0,8345320
+Kochi,Kerala,Vyttila,3,1401,0,4,Semi-furnished,0,0,8485027
+Kochi,Kerala,Vyttila,3,1527,1,21,Semi-furnished,1,1,12246230
+Kochi,Kerala,Vyttila,2,992,0,15,Semi-furnished,1,1,6157098
+Kochi,Kerala,Vyttila,2,989,0,4,Semi-furnished,1,1,6676146
+Kochi,Kerala,Vyttila,1,683,1,14,Semi-furnished,0,1,5616193
+Kochi,Kerala,Vyttila,2,1074,0,23,Unfurnished,1,1,6716497
+Kochi,Kerala,Vyttila,1,681,0,23,Semi-furnished,1,1,4570870
+Kochi,Kerala,Vyttila,3,1219,1,10,Semi-furnished,0,1,9354629
+Kochi,Kerala,Vyttila,4,2109,0,11,Furnished,1,1,14732466
+Kochi,Kerala,Vyttila,2,1222,0,13,Furnished,1,1,9552743
+Kochi,Kerala,Vyttila,3,1464,0,12,Semi-furnished,1,1,7849513
+Kochi,Kerala,Aluva,3,1425,0,22,Semi-furnished,1,0,5863416
+Kochi,Kerala,Aluva,2,964,1,4,Furnished,1,1,4945401
+Kochi,Kerala,Aluva,2,1047,0,20,Furnished,0,1,4358698
+Kochi,Kerala,Aluva,3,1866,1,19,Unfurnished,1,1,9894191
+Kochi,Kerala,Aluva,1,605,0,10,Furnished,1,1,2535674
+Kochi,Kerala,Aluva,4,2458,1,4,Semi-furnished,1,1,12870205
+Kochi,Kerala,Aluva,4,2060,1,6,Unfurnished,1,1,11444742
+Kochi,Kerala,Aluva,2,1105,0,20,Semi-furnished,1,1,5139166
+Kochi,Kerala,Aluva,2,1093,1,11,Furnished,1,1,6487126
+Kochi,Kerala,Aluva,3,1727,1,15,Semi-furnished,1,1,9743724
+Kochi,Kerala,Aluva,2,1186,1,20,Unfurnished,1,1,5910528
+Kochi,Kerala,Aluva,2,1034,1,23,Semi-furnished,1,1,5034168
+Kochi,Kerala,Aluva,2,856,1,18,Furnished,1,1,4564624
+Kochi,Kerala,Aluva,2,1198,1,19,Furnished,1,1,6344098
+Kochi,Kerala,Aluva,2,1108,0,18,Furnished,1,1,5297550
+Kochi,Kerala,Aluva,1,628,0,9,Unfurnished,0,0,2680604
+Kochi,Kerala,Aluva,2,839,0,9,Furnished,1,1,3628222
+Kochi,Kerala,Aluva,3,1701,0,19,Semi-furnished,1,0,8632029
+Kochi,Kerala,Aluva,2,1223,0,12,Unfurnished,1,1,6065236
+Kochi,Kerala,Aluva,2,1036,0,1,Unfurnished,1,1,4592540
+Kochi,Kerala,Aluva,3,1540,0,2,Semi-furnished,1,1,7189224
+Kochi,Kerala,Aluva,1,720,1,12,Furnished,1,1,4593285
+Kochi,Kerala,Aluva,2,1318,1,23,Semi-furnished,1,0,7251726
+Kochi,Kerala,Aluva,1,819,1,14,Unfurnished,1,0,4134276
+Kochi,Kerala,Aluva,2,1087,1,0,Unfurnished,1,1,6429640
+Kochi,Kerala,Aluva,3,1604,0,6,Semi-furnished,1,1,6056471
+Kochi,Kerala,Aluva,2,1120,0,22,Unfurnished,1,1,4504800
+Kochi,Kerala,Aluva,3,1660,0,7,Furnished,1,1,7480046
+Kochi,Kerala,Aluva,1,677,1,23,Semi-furnished,1,1,3404827
+Kochi,Kerala,Aluva,2,716,0,13,Semi-furnished,1,1,3034553
+Kochi,Kerala,Aluva,3,1847,0,18,Semi-furnished,1,0,6888111
+Kochi,Kerala,Aluva,2,974,0,23,Semi-furnished,1,1,4623295
+Kochi,Kerala,Aluva,4,2021,0,11,Semi-furnished,1,1,8369857
+Kochi,Kerala,Aluva,3,1570,1,11,Semi-furnished,0,0,8855808
+Kochi,Kerala,Aluva,2,1094,1,23,Furnished,1,1,6602226
+Kochi,Kerala,Aluva,3,1281,0,2,Semi-furnished,1,0,6074604
+Kochi,Kerala,Aluva,2,1121,1,1,Semi-furnished,1,0,6761806
+Kochi,Kerala,Aluva,2,1246,0,6,Furnished,0,0,6040266
+Kochi,Kerala,Aluva,2,1171,0,24,Semi-furnished,0,0,4561749
+Kochi,Kerala,Aluva,4,1770,0,9,Unfurnished,0,1,8590608
+Kochi,Kerala,Aluva,2,812,0,16,Semi-furnished,0,1,4191338
+Kochi,Kerala,Aluva,1,698,0,20,Semi-furnished,1,1,2833904
+Kochi,Kerala,Aluva,3,1652,0,24,Semi-furnished,1,1,8115776
+Kochi,Kerala,Aluva,3,1597,1,17,Furnished,1,1,9785329
+Kochi,Kerala,Aluva,3,1626,0,23,Semi-furnished,1,0,7857921
+Coimbatore,Tamil Nadu,Saravanampatti,3,1567,0,25,Unfurnished,1,1,7015296
+Coimbatore,Tamil Nadu,Saravanampatti,2,849,1,4,Semi-furnished,1,0,5738444
+Coimbatore,Tamil Nadu,Saravanampatti,1,691,1,12,Semi-furnished,1,1,4008891
+Coimbatore,Tamil Nadu,Saravanampatti,2,1162,0,24,Semi-furnished,0,0,5082314
+Coimbatore,Tamil Nadu,Saravanampatti,2,970,0,11,Semi-furnished,1,1,4680274
+Coimbatore,Tamil Nadu,Saravanampatti,3,1128,0,2,Semi-furnished,1,0,5493897
+Coimbatore,Tamil Nadu,Saravanampatti,4,2167,0,11,Unfurnished,0,0,8986699
+Coimbatore,Tamil Nadu,Saravanampatti,2,1139,0,6,Semi-furnished,1,0,5928379
+Coimbatore,Tamil Nadu,Saravanampatti,2,1088,0,23,Furnished,1,1,5496516
+Coimbatore,Tamil Nadu,Saravanampatti,3,1548,0,10,Furnished,1,0,8587843
+Coimbatore,Tamil Nadu,Saravanampatti,1,562,0,16,Furnished,1,0,2692142
+Coimbatore,Tamil Nadu,Saravanampatti,3,1569,1,4,Furnished,1,0,9436262
+Coimbatore,Tamil Nadu,Saravanampatti,1,718,0,13,Semi-furnished,1,1,3223345
+Coimbatore,Tamil Nadu,Saravanampatti,2,804,0,11,Unfurnished,1,1,3689039
+Coimbatore,Tamil Nadu,Saravanampatti,2,1117,0,17,Semi-furnished,1,1,4464778
+Coimbatore,Tamil Nadu,Saravanampatti,3,1515,0,17,Semi-furnished,0,0,7086917
+Coimbatore,Tamil Nadu,Saravanampatti,3,1633,0,6,Semi-furnished,1,1,7653285
+Coimbatore,Tamil Nadu,Saravanampatti,1,757,1,22,Unfurnished,1,1,5010712
+Coimbatore,Tamil Nadu,Saravanampatti,2,968,0,4,Semi-furnished,1,0,3937307
+Coimbatore,Tamil Nadu,Saravanampatti,1,741,0,23,Semi-furnished,1,1,3420489
+Coimbatore,Tamil Nadu,Saravanampatti,3,1420,0,19,Semi-furnished,0,1,6693776
+Coimbatore,Tamil Nadu,Saravanampatti,1,494,0,18,Semi-furnished,1,1,2157026
+Coimbatore,Tamil Nadu,Saravanampatti,3,1343,0,11,Semi-furnished,0,0,6196027
+Coimbatore,Tamil Nadu,Saravanampatti,2,1255,1,2,Semi-furnished,1,0,8008970
+Coimbatore,Tamil Nadu,Saravanampatti,3,1481,0,16,Furnished,1,0,7273646
+Coimbatore,Tamil Nadu,Saravanampatti,1,617,1,5,Semi-furnished,1,0,3553594
+Coimbatore,Tamil Nadu,Saravanampatti,3,1395,0,5,Semi-furnished,1,0,6588097
+Coimbatore,Tamil Nadu,Saravanampatti,2,1158,1,22,Semi-furnished,1,1,6511284
+Coimbatore,Tamil Nadu,Saravanampatti,3,1156,0,4,Furnished,0,1,5027759
+Coimbatore,Tamil Nadu,Saravanampatti,3,1872,1,6,Semi-furnished,0,1,11123682
+Coimbatore,Tamil Nadu,Saravanampatti,4,2222,0,3,Semi-furnished,1,1,11003891
+Coimbatore,Tamil Nadu,Saravanampatti,1,555,0,16,Unfurnished,0,1,2398234
+Coimbatore,Tamil Nadu,Saravanampatti,3,1407,0,17,Unfurnished,0,0,6426254
+Coimbatore,Tamil Nadu,Saravanampatti,2,955,0,22,Semi-furnished,1,1,4456716
+Coimbatore,Tamil Nadu,Saravanampatti,3,1738,1,23,Unfurnished,1,1,10000111
+Coimbatore,Tamil Nadu,Saravanampatti,1,693,0,15,Unfurnished,1,1,2838386
+Coimbatore,Tamil Nadu,Saravanampatti,3,1565,0,11,Unfurnished,1,1,6599586
+Coimbatore,Tamil Nadu,Saravanampatti,3,1208,0,21,Semi-furnished,0,0,6297440
+Coimbatore,Tamil Nadu,Saravanampatti,4,2327,0,24,Semi-furnished,0,1,11973736
+Coimbatore,Tamil Nadu,Saravanampatti,1,610,1,6,Unfurnished,1,1,3372391
+Coimbatore,Tamil Nadu,Saravanampatti,2,924,0,3,Semi-furnished,1,1,4681506
+Coimbatore,Tamil Nadu,Saravanampatti,4,2054,1,7,Unfurnished,1,1,10243543
+Coimbatore,Tamil Nadu,Saravanampatti,3,1777,1,9,Furnished,1,0,10676496
+Coimbatore,Tamil Nadu,Saravanampatti,3,1343,0,14,Unfurnished,1,0,6828095
+Coimbatore,Tamil Nadu,Saravanampatti,1,536,0,15,Unfurnished,1,1,2204995
+Coimbatore,Tamil Nadu,RS Puram,3,2044,0,18,Semi-furnished,1,1,15039111
+Coimbatore,Tamil Nadu,RS Puram,2,1142,1,21,Unfurnished,1,1,10279359
+Coimbatore,Tamil Nadu,RS Puram,2,1041,0,21,Semi-furnished,1,1,8244460
+Coimbatore,Tamil Nadu,RS Puram,4,1962,1,8,Semi-furnished,1,0,20648176
+Coimbatore,Tamil Nadu,RS Puram,3,1163,0,21,Furnished,1,0,9316036
+Coimbatore,Tamil Nadu,RS Puram,3,1262,0,17,Unfurnished,1,0,10557031
+Coimbatore,Tamil Nadu,RS Puram,1,891,0,20,Unfurnished,1,1,7226860
+Coimbatore,Tamil Nadu,RS Puram,1,585,0,12,Semi-furnished,1,1,5352073
+Coimbatore,Tamil Nadu,RS Puram,3,1486,1,18,Unfurnished,1,1,15168298
+Coimbatore,Tamil Nadu,RS Puram,4,2479,0,19,Semi-furnished,1,0,21726238
+Coimbatore,Tamil Nadu,RS Puram,2,1094,1,18,Semi-furnished,1,0,11055833
+Coimbatore,Tamil Nadu,RS Puram,1,553,0,11,Semi-furnished,0,1,4849275
+Coimbatore,Tamil Nadu,RS Puram,2,1115,0,8,Semi-furnished,1,0,9438688
+Coimbatore,Tamil Nadu,RS Puram,3,1291,0,6,Unfurnished,1,1,12384428
+Coimbatore,Tamil Nadu,RS Puram,4,1375,1,18,Unfurnished,0,1,11621955
+Coimbatore,Tamil Nadu,RS Puram,2,760,0,20,Semi-furnished,1,1,5788961
+Coimbatore,Tamil Nadu,RS Puram,2,883,1,13,Semi-furnished,1,1,8809091
+Coimbatore,Tamil Nadu,RS Puram,2,1075,1,16,Furnished,1,0,10557534
+Coimbatore,Tamil Nadu,RS Puram,1,712,0,9,Semi-furnished,1,0,6339869
+Coimbatore,Tamil Nadu,RS Puram,3,1524,0,19,Unfurnished,1,1,10557096
+Coimbatore,Tamil Nadu,RS Puram,3,1629,1,4,Unfurnished,1,0,14683251
+Coimbatore,Tamil Nadu,RS Puram,3,1231,0,19,Semi-furnished,1,1,10944784
+Coimbatore,Tamil Nadu,RS Puram,2,1031,1,21,Furnished,1,1,10413494
+Coimbatore,Tamil Nadu,RS Puram,2,924,0,4,Unfurnished,1,0,6742076
+Coimbatore,Tamil Nadu,RS Puram,3,1768,0,21,Unfurnished,1,0,12193690
+Coimbatore,Tamil Nadu,RS Puram,2,1303,0,15,Semi-furnished,1,1,10691413
+Coimbatore,Tamil Nadu,RS Puram,2,1146,0,0,Semi-furnished,1,1,9937238
+Coimbatore,Tamil Nadu,RS Puram,3,1606,1,9,Semi-furnished,1,1,16863827
+Coimbatore,Tamil Nadu,RS Puram,3,1469,0,11,Unfurnished,1,0,10340700
+Coimbatore,Tamil Nadu,RS Puram,2,919,0,7,Unfurnished,0,1,8229390
+Coimbatore,Tamil Nadu,RS Puram,1,463,1,16,Semi-furnished,1,1,3869014
+Coimbatore,Tamil Nadu,RS Puram,3,1324,0,20,Unfurnished,1,0,10171429
+Coimbatore,Tamil Nadu,RS Puram,1,651,0,6,Unfurnished,1,0,4812947
+Coimbatore,Tamil Nadu,RS Puram,4,2371,0,25,Semi-furnished,1,1,16536866
+Coimbatore,Tamil Nadu,RS Puram,3,1516,1,14,Unfurnished,0,1,15027741
+Coimbatore,Tamil Nadu,RS Puram,2,1175,0,12,Furnished,1,0,10518367
+Coimbatore,Tamil Nadu,RS Puram,2,1318,0,22,Unfurnished,1,1,9678998
+Coimbatore,Tamil Nadu,RS Puram,1,523,0,23,Semi-furnished,0,1,4080633
+Coimbatore,Tamil Nadu,RS Puram,2,1077,0,9,Semi-furnished,0,0,8209877
+Coimbatore,Tamil Nadu,RS Puram,2,946,0,16,Semi-furnished,1,0,7799387
+Coimbatore,Tamil Nadu,RS Puram,3,1330,1,12,Semi-furnished,1,0,11386848
+Coimbatore,Tamil Nadu,RS Puram,3,1838,0,15,Semi-furnished,0,1,15242411
+Coimbatore,Tamil Nadu,RS Puram,2,1190,0,23,Unfurnished,1,1,8723254
+Coimbatore,Tamil Nadu,RS Puram,2,1323,1,2,Semi-furnished,1,0,15273313
+Coimbatore,Tamil Nadu,RS Puram,2,1103,0,11,Furnished,1,0,9162454
+Coimbatore,Tamil Nadu,Peelamedu,1,590,1,8,Semi-furnished,1,1,4726582
+Coimbatore,Tamil Nadu,Peelamedu,3,1320,0,13,Furnished,0,1,7218453
+Coimbatore,Tamil Nadu,Peelamedu,2,1022,0,11,Semi-furnished,1,1,6624466
+Coimbatore,Tamil Nadu,Peelamedu,3,1905,0,15,Semi-furnished,1,1,11496554
+Coimbatore,Tamil Nadu,Peelamedu,2,1129,1,5,Semi-furnished,0,0,8465411
+Coimbatore,Tamil Nadu,Peelamedu,2,1296,0,20,Furnished,1,0,7829528
+Coimbatore,Tamil Nadu,Peelamedu,4,1988,0,8,Unfurnished,1,1,10727284
+Coimbatore,Tamil Nadu,Peelamedu,3,1477,1,11,Unfurnished,1,1,10711533
+Coimbatore,Tamil Nadu,Peelamedu,3,1416,1,22,Unfurnished,1,1,10437933
+Coimbatore,Tamil Nadu,Peelamedu,3,1328,0,21,Unfurnished,1,0,6037554
+Coimbatore,Tamil Nadu,Peelamedu,1,662,0,23,Furnished,0,1,3995677
+Coimbatore,Tamil Nadu,Peelamedu,3,1562,0,20,Semi-furnished,1,1,7966484
+Coimbatore,Tamil Nadu,Peelamedu,2,1167,1,1,Furnished,1,1,10105831
+Coimbatore,Tamil Nadu,Peelamedu,2,873,0,22,Unfurnished,1,1,4093960
+Coimbatore,Tamil Nadu,Peelamedu,3,1539,0,25,Furnished,0,1,9503895
+Coimbatore,Tamil Nadu,Peelamedu,3,1167,1,11,Semi-furnished,0,1,9023305
+Coimbatore,Tamil Nadu,Peelamedu,2,1079,1,16,Unfurnished,1,0,7460707
+Coimbatore,Tamil Nadu,Peelamedu,2,1035,0,8,Semi-furnished,1,1,7168693
+Coimbatore,Tamil Nadu,Peelamedu,3,1348,0,0,Semi-furnished,1,0,7397294
+Coimbatore,Tamil Nadu,Peelamedu,3,1279,0,5,Semi-furnished,1,0,8683994
+Coimbatore,Tamil Nadu,Peelamedu,4,2154,0,13,Unfurnished,1,1,11742923
+Coimbatore,Tamil Nadu,Peelamedu,2,1212,0,0,Semi-furnished,1,1,8032347
+Coimbatore,Tamil Nadu,Peelamedu,2,929,1,2,Unfurnished,1,1,6403110
+Coimbatore,Tamil Nadu,Peelamedu,2,900,0,10,Semi-furnished,1,1,5500103
+Coimbatore,Tamil Nadu,Peelamedu,1,696,0,12,Furnished,1,0,4595379
+Coimbatore,Tamil Nadu,Peelamedu,1,849,1,9,Unfurnished,1,1,6221710
+Coimbatore,Tamil Nadu,Peelamedu,2,1041,0,5,Unfurnished,1,1,6148814
+Coimbatore,Tamil Nadu,Peelamedu,2,899,1,3,Unfurnished,1,1,6242877
+Coimbatore,Tamil Nadu,Peelamedu,2,883,1,22,Unfurnished,0,1,4948153
+Coimbatore,Tamil Nadu,Peelamedu,2,1146,1,1,Semi-furnished,1,1,8215411
+Coimbatore,Tamil Nadu,Peelamedu,3,1249,0,24,Unfurnished,1,0,6285458
+Coimbatore,Tamil Nadu,Peelamedu,3,1256,0,4,Unfurnished,1,0,8259766
+Coimbatore,Tamil Nadu,Peelamedu,3,1388,1,6,Semi-furnished,1,0,10027265
+Coimbatore,Tamil Nadu,Peelamedu,3,1195,0,5,Semi-furnished,1,1,7119216
+Coimbatore,Tamil Nadu,Peelamedu,3,1499,0,16,Semi-furnished,1,1,8921250
+Coimbatore,Tamil Nadu,Peelamedu,2,1190,1,13,Unfurnished,1,1,8144480
+Coimbatore,Tamil Nadu,Peelamedu,2,1042,1,23,Semi-furnished,1,1,7604722
+Coimbatore,Tamil Nadu,Peelamedu,3,1657,0,1,Furnished,1,1,10038659
+Coimbatore,Tamil Nadu,Peelamedu,2,1152,1,18,Unfurnished,1,0,8170590
+Coimbatore,Tamil Nadu,Peelamedu,1,484,0,3,Unfurnished,0,0,2818715
+Coimbatore,Tamil Nadu,Peelamedu,2,1067,0,12,Semi-furnished,0,0,5456953
+Coimbatore,Tamil Nadu,Peelamedu,2,1052,0,4,Semi-furnished,1,1,5907997
+Coimbatore,Tamil Nadu,Peelamedu,3,1832,1,13,Unfurnished,1,1,13762425
+Coimbatore,Tamil Nadu,Peelamedu,1,679,0,25,Semi-furnished,1,1,4261267
+Coimbatore,Tamil Nadu,Peelamedu,3,1455,0,1,Unfurnished,0,0,8031366
+Lucknow,Uttar Pradesh,Gomti Nagar,1,709,1,23,Unfurnished,0,1,4952088
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1462,0,2,Furnished,1,1,9423140
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1076,0,7,Unfurnished,1,1,6527274
+Lucknow,Uttar Pradesh,Gomti Nagar,1,712,0,22,Unfurnished,1,0,4557598
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1490,0,8,Unfurnished,0,1,8538783
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1250,1,1,Semi-furnished,0,1,8608246
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1120,0,5,Unfurnished,0,1,7254586
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1668,0,20,Unfurnished,1,0,11055764
+Lucknow,Uttar Pradesh,Gomti Nagar,2,952,1,10,Semi-furnished,1,1,8134623
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1108,0,2,Furnished,1,1,8550718
+Lucknow,Uttar Pradesh,Gomti Nagar,4,2214,0,22,Furnished,1,0,14630724
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1233,0,17,Unfurnished,1,0,8406627
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1191,0,15,Unfurnished,1,1,7284092
+Lucknow,Uttar Pradesh,Gomti Nagar,4,2043,0,15,Unfurnished,1,1,12847112
+Lucknow,Uttar Pradesh,Gomti Nagar,2,940,0,7,Unfurnished,1,1,6381600
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1776,0,6,Furnished,1,0,12550100
+Lucknow,Uttar Pradesh,Gomti Nagar,2,970,0,3,Semi-furnished,1,1,6043462
+Lucknow,Uttar Pradesh,Gomti Nagar,1,667,1,6,Furnished,1,0,5588952
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1063,1,20,Semi-furnished,1,1,8903236
+Lucknow,Uttar Pradesh,Gomti Nagar,2,990,0,24,Semi-furnished,1,0,6777321
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1496,0,8,Furnished,1,0,8122096
+Lucknow,Uttar Pradesh,Gomti Nagar,2,971,1,4,Unfurnished,1,0,7518989
+Lucknow,Uttar Pradesh,Gomti Nagar,1,645,0,14,Unfurnished,1,1,3973786
+Lucknow,Uttar Pradesh,Gomti Nagar,2,987,1,3,Unfurnished,1,0,7051617
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1047,0,8,Furnished,0,1,7882677
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1206,1,19,Semi-furnished,1,1,8039169
+Lucknow,Uttar Pradesh,Gomti Nagar,2,823,0,1,Semi-furnished,1,1,5155173
+Lucknow,Uttar Pradesh,Gomti Nagar,1,687,1,10,Unfurnished,1,0,5790665
+Lucknow,Uttar Pradesh,Gomti Nagar,4,2503,0,24,Semi-furnished,1,0,15105667
+Lucknow,Uttar Pradesh,Gomti Nagar,1,767,0,17,Semi-furnished,1,1,5042971
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1100,1,11,Furnished,0,1,9153691
+Lucknow,Uttar Pradesh,Gomti Nagar,1,671,0,19,Furnished,1,1,4237000
+Lucknow,Uttar Pradesh,Gomti Nagar,2,909,0,0,Semi-furnished,1,1,5678696
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1491,1,11,Semi-furnished,1,1,10634556
+Lucknow,Uttar Pradesh,Gomti Nagar,1,757,0,15,Furnished,1,1,5702316
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1758,0,20,Unfurnished,1,1,10841921
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1513,0,13,Furnished,0,1,11261845
+Lucknow,Uttar Pradesh,Gomti Nagar,1,797,0,11,Furnished,1,0,5529922
+Lucknow,Uttar Pradesh,Gomti Nagar,1,630,0,18,Unfurnished,1,1,3757425
+Lucknow,Uttar Pradesh,Gomti Nagar,1,601,1,16,Semi-furnished,1,0,4230368
+Lucknow,Uttar Pradesh,Gomti Nagar,1,572,0,9,Unfurnished,1,0,3266375
+Lucknow,Uttar Pradesh,Gomti Nagar,1,618,0,3,Semi-furnished,1,1,4604388
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1082,1,13,Semi-furnished,1,1,8963325
+Lucknow,Uttar Pradesh,Gomti Nagar,2,1251,1,20,Unfurnished,1,1,9274402
+Lucknow,Uttar Pradesh,Gomti Nagar,3,1507,1,16,Semi-furnished,0,1,11274202
+Lucknow,Uttar Pradesh,Aliganj,1,599,0,10,Furnished,0,1,3679953
+Lucknow,Uttar Pradesh,Aliganj,3,1420,0,8,Semi-furnished,1,0,8561618
+Lucknow,Uttar Pradesh,Aliganj,3,1050,1,5,Semi-furnished,1,1,7327755
+Lucknow,Uttar Pradesh,Aliganj,3,1406,1,20,Semi-furnished,1,0,10272559
+Lucknow,Uttar Pradesh,Aliganj,3,1426,0,22,Unfurnished,0,1,7158413
+Lucknow,Uttar Pradesh,Aliganj,3,1722,0,16,Semi-furnished,0,1,9477662
+Lucknow,Uttar Pradesh,Aliganj,2,915,0,21,Furnished,0,0,4717736
+Lucknow,Uttar Pradesh,Aliganj,3,1525,1,7,Furnished,0,1,8974624
+Lucknow,Uttar Pradesh,Aliganj,4,2245,1,20,Semi-furnished,0,1,16195425
+Lucknow,Uttar Pradesh,Aliganj,2,1052,1,7,Semi-furnished,1,1,8799490
+Lucknow,Uttar Pradesh,Aliganj,2,770,0,2,Semi-furnished,1,0,3917108
+Lucknow,Uttar Pradesh,Aliganj,3,1329,0,21,Unfurnished,1,1,8706291
+Lucknow,Uttar Pradesh,Aliganj,2,1029,1,0,Furnished,1,0,7341412
+Lucknow,Uttar Pradesh,Aliganj,1,545,0,4,Semi-furnished,1,1,3006505
+Lucknow,Uttar Pradesh,Aliganj,1,589,0,2,Semi-furnished,0,1,3669600
+Lucknow,Uttar Pradesh,Aliganj,2,983,0,18,Semi-furnished,1,0,5862949
+Lucknow,Uttar Pradesh,Aliganj,2,1027,0,14,Unfurnished,1,1,5888140
+Lucknow,Uttar Pradesh,Aliganj,4,2102,1,10,Unfurnished,1,1,15047287
+Lucknow,Uttar Pradesh,Aliganj,4,1959,0,4,Semi-furnished,1,0,10295495
+Lucknow,Uttar Pradesh,Aliganj,1,522,0,10,Semi-furnished,1,1,2830169
+Lucknow,Uttar Pradesh,Aliganj,2,1074,0,21,Semi-furnished,0,1,6550996
+Lucknow,Uttar Pradesh,Aliganj,2,1005,1,17,Semi-furnished,1,1,7109187
+Lucknow,Uttar Pradesh,Aliganj,1,581,0,24,Unfurnished,1,0,3064201
+Lucknow,Uttar Pradesh,Aliganj,2,1095,0,17,Semi-furnished,1,0,5894560
+Lucknow,Uttar Pradesh,Aliganj,3,1235,0,11,Furnished,1,0,6555611
+Lucknow,Uttar Pradesh,Aliganj,2,911,0,16,Unfurnished,1,0,4807741
+Lucknow,Uttar Pradesh,Aliganj,4,2328,0,24,Semi-furnished,0,1,13979024
+Lucknow,Uttar Pradesh,Aliganj,2,1111,1,13,Furnished,1,0,7017659
+Lucknow,Uttar Pradesh,Aliganj,2,1297,1,7,Unfurnished,1,1,7550892
+Lucknow,Uttar Pradesh,Aliganj,3,1572,1,23,Semi-furnished,0,1,10934009
+Lucknow,Uttar Pradesh,Aliganj,2,1153,1,9,Unfurnished,1,1,7592164
+Lucknow,Uttar Pradesh,Aliganj,3,1288,0,6,Semi-furnished,0,1,7181429
+Lucknow,Uttar Pradesh,Aliganj,3,1700,1,8,Unfurnished,1,0,12577492
+Lucknow,Uttar Pradesh,Aliganj,3,1326,1,15,Semi-furnished,1,0,9886932
+Lucknow,Uttar Pradesh,Aliganj,1,503,0,1,Furnished,1,1,3167948
+Lucknow,Uttar Pradesh,Aliganj,2,974,0,3,Semi-furnished,1,1,5918409
+Lucknow,Uttar Pradesh,Aliganj,3,1591,1,6,Unfurnished,0,1,10670495
+Lucknow,Uttar Pradesh,Aliganj,3,1253,0,1,Semi-furnished,1,1,7833421
+Lucknow,Uttar Pradesh,Aliganj,2,921,0,5,Unfurnished,1,0,5094551
+Lucknow,Uttar Pradesh,Aliganj,4,2267,1,16,Unfurnished,1,1,14985023
+Lucknow,Uttar Pradesh,Aliganj,3,1304,0,6,Unfurnished,0,1,6633743
+Lucknow,Uttar Pradesh,Aliganj,1,593,0,5,Semi-furnished,1,1,3363197
+Lucknow,Uttar Pradesh,Aliganj,2,1312,1,16,Unfurnished,1,1,9777762
+Lucknow,Uttar Pradesh,Aliganj,1,586,0,16,Semi-furnished,1,1,3076097
+Lucknow,Uttar Pradesh,Aliganj,3,1225,0,0,Furnished,0,0,7662729
+Lucknow,Uttar Pradesh,Sushant Golf City,1,638,0,22,Semi-furnished,1,0,3487620
+Lucknow,Uttar Pradesh,Sushant Golf City,2,952,0,8,Semi-furnished,1,1,5699272
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1367,1,2,Semi-furnished,0,0,10297762
+Lucknow,Uttar Pradesh,Sushant Golf City,4,1921,0,12,Semi-furnished,1,1,9221545
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1083,0,6,Unfurnished,1,1,6358728
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1260,0,8,Furnished,1,1,8343771
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1382,1,24,Unfurnished,1,0,9379016
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1166,0,19,Furnished,1,0,5879760
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1525,0,13,Unfurnished,1,1,8304675
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1136,0,14,Furnished,1,1,6418035
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1044,0,18,Semi-furnished,1,0,5576640
+Lucknow,Uttar Pradesh,Sushant Golf City,1,732,0,8,Unfurnished,1,1,4421475
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1311,0,7,Unfurnished,0,0,5918977
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1371,1,1,Semi-furnished,1,0,9110128
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1049,1,22,Unfurnished,0,1,6406283
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1111,1,13,Semi-furnished,1,0,8055194
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1509,0,10,Semi-furnished,1,1,8671690
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1123,0,10,Semi-furnished,0,1,5593410
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1519,1,24,Unfurnished,0,1,9354628
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1417,0,18,Unfurnished,1,0,7222632
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1266,1,10,Unfurnished,0,1,7337153
+Lucknow,Uttar Pradesh,Sushant Golf City,2,958,1,19,Unfurnished,0,0,6005695
+Lucknow,Uttar Pradesh,Sushant Golf City,1,697,0,25,Semi-furnished,1,1,3185227
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1028,1,8,Unfurnished,0,1,6088554
+Lucknow,Uttar Pradesh,Sushant Golf City,1,572,0,23,Furnished,1,1,3112649
+Lucknow,Uttar Pradesh,Sushant Golf City,1,696,1,6,Semi-furnished,1,1,4390145
+Lucknow,Uttar Pradesh,Sushant Golf City,4,2237,1,1,Semi-furnished,0,0,14555016
+Lucknow,Uttar Pradesh,Sushant Golf City,2,920,0,19,Unfurnished,0,1,4524348
+Lucknow,Uttar Pradesh,Sushant Golf City,2,905,0,24,Unfurnished,0,0,3783334
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1108,0,15,Semi-furnished,1,0,5666176
+Lucknow,Uttar Pradesh,Sushant Golf City,1,486,0,18,Unfurnished,0,1,2436639
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1399,0,15,Unfurnished,1,1,6159030
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1149,1,16,Furnished,0,1,7246325
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1773,1,15,Unfurnished,1,1,8001899
+Lucknow,Uttar Pradesh,Sushant Golf City,4,2270,1,11,Furnished,0,0,15597516
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1142,1,14,Unfurnished,1,1,7741925
+Lucknow,Uttar Pradesh,Sushant Golf City,1,675,0,10,Unfurnished,1,1,3782169
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1263,1,2,Unfurnished,1,0,8368046
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1093,1,1,Unfurnished,1,0,6871422
+Lucknow,Uttar Pradesh,Sushant Golf City,1,555,0,16,Furnished,1,0,2682844
+Lucknow,Uttar Pradesh,Sushant Golf City,3,1318,0,17,Semi-furnished,0,1,6718479
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1032,0,14,Unfurnished,1,0,4997563
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1221,0,11,Semi-furnished,1,1,6308099
+Lucknow,Uttar Pradesh,Sushant Golf City,2,1150,1,5,Semi-furnished,1,1,6783233
+Lucknow,Uttar Pradesh,Sushant Golf City,4,2065,0,24,Unfurnished,1,1,8638877
+Indore,Madhya Pradesh,Vijay Nagar,3,1492,0,1,Semi-furnished,0,0,9175862
+Indore,Madhya Pradesh,Vijay Nagar,3,1417,1,12,Semi-furnished,1,0,10212476
+Indore,Madhya Pradesh,Vijay Nagar,2,702,1,6,Unfurnished,0,1,4935910
+Indore,Madhya Pradesh,Vijay Nagar,2,984,1,13,Semi-furnished,0,1,6969248
+Indore,Madhya Pradesh,Vijay Nagar,3,1086,1,13,Unfurnished,1,1,9119328
+Indore,Madhya Pradesh,Vijay Nagar,2,1096,0,10,Unfurnished,0,1,6445737
+Indore,Madhya Pradesh,Vijay Nagar,2,980,0,9,Furnished,1,1,6840656
+Indore,Madhya Pradesh,Vijay Nagar,1,692,0,9,Unfurnished,1,0,4737603
+Indore,Madhya Pradesh,Vijay Nagar,1,757,0,14,Semi-furnished,1,1,4966042
+Indore,Madhya Pradesh,Vijay Nagar,4,1594,1,9,Unfurnished,1,1,9771543
+Indore,Madhya Pradesh,Vijay Nagar,2,867,0,16,Furnished,1,1,5340447
+Indore,Madhya Pradesh,Vijay Nagar,2,1105,1,23,Semi-furnished,0,1,7450190
+Indore,Madhya Pradesh,Vijay Nagar,4,2175,0,16,Semi-furnished,1,0,15725366
+Indore,Madhya Pradesh,Vijay Nagar,3,1806,0,17,Semi-furnished,0,0,12372002
+Indore,Madhya Pradesh,Vijay Nagar,1,651,1,22,Furnished,0,1,5067447
+Indore,Madhya Pradesh,Vijay Nagar,4,2289,0,5,Unfurnished,1,0,14786565
+Indore,Madhya Pradesh,Vijay Nagar,2,1012,0,25,Unfurnished,1,1,4651696
+Indore,Madhya Pradesh,Vijay Nagar,2,997,0,11,Semi-furnished,1,1,6302676
+Indore,Madhya Pradesh,Vijay Nagar,2,1061,0,12,Unfurnished,1,1,6994382
+Indore,Madhya Pradesh,Vijay Nagar,4,2445,0,23,Semi-furnished,1,0,12439179
+Indore,Madhya Pradesh,Vijay Nagar,2,1034,0,10,Semi-furnished,1,1,6880328
+Indore,Madhya Pradesh,Vijay Nagar,2,1223,1,21,Furnished,1,1,9313012
+Indore,Madhya Pradesh,Vijay Nagar,2,764,0,19,Semi-furnished,0,0,4810251
+Indore,Madhya Pradesh,Vijay Nagar,3,1322,0,1,Furnished,0,0,10325003
+Indore,Madhya Pradesh,Vijay Nagar,2,1164,0,25,Semi-furnished,0,0,6420942
+Indore,Madhya Pradesh,Vijay Nagar,2,1022,0,7,Semi-furnished,1,1,5078177
+Indore,Madhya Pradesh,Vijay Nagar,3,1667,1,12,Unfurnished,1,1,11641689
+Indore,Madhya Pradesh,Vijay Nagar,1,519,0,4,Semi-furnished,0,1,3406020
+Indore,Madhya Pradesh,Vijay Nagar,2,1012,1,21,Semi-furnished,0,1,5981029
+Indore,Madhya Pradesh,Vijay Nagar,3,1449,0,10,Unfurnished,1,0,9456752
+Indore,Madhya Pradesh,Vijay Nagar,2,827,0,6,Unfurnished,1,0,5049684
+Indore,Madhya Pradesh,Vijay Nagar,3,1286,0,21,Semi-furnished,1,1,7397593
+Indore,Madhya Pradesh,Vijay Nagar,2,1032,0,14,Semi-furnished,1,0,6496060
+Indore,Madhya Pradesh,Vijay Nagar,2,963,0,1,Semi-furnished,0,1,6910986
+Indore,Madhya Pradesh,Vijay Nagar,1,704,0,10,Semi-furnished,1,1,4442449
+Indore,Madhya Pradesh,Vijay Nagar,3,1197,0,25,Unfurnished,1,1,6419186
+Indore,Madhya Pradesh,Vijay Nagar,1,702,0,12,Unfurnished,0,0,3997646
+Indore,Madhya Pradesh,Vijay Nagar,1,726,0,18,Unfurnished,1,1,4031939
+Indore,Madhya Pradesh,Vijay Nagar,1,611,1,25,Semi-furnished,1,1,4191524
+Indore,Madhya Pradesh,Vijay Nagar,3,1253,1,9,Semi-furnished,0,1,9120768
+Indore,Madhya Pradesh,Vijay Nagar,2,1434,0,8,Unfurnished,0,0,8988820
+Indore,Madhya Pradesh,Vijay Nagar,2,1200,1,0,Unfurnished,1,1,8255438
+Indore,Madhya Pradesh,Vijay Nagar,2,978,0,2,Semi-furnished,1,1,6011971
+Indore,Madhya Pradesh,Vijay Nagar,2,1080,1,16,Semi-furnished,0,1,8218246
+Indore,Madhya Pradesh,Vijay Nagar,2,1047,0,7,Furnished,0,1,6959054
+Indore,Madhya Pradesh,Rau,1,496,0,11,Semi-furnished,1,1,2021898
+Indore,Madhya Pradesh,Rau,1,420,1,24,Furnished,1,1,2039662
+Indore,Madhya Pradesh,Rau,2,907,0,13,Semi-furnished,1,1,3908635
+Indore,Madhya Pradesh,Rau,2,1040,0,20,Semi-furnished,1,0,3014824
+Indore,Madhya Pradesh,Rau,2,982,0,18,Semi-furnished,1,1,4187704
+Indore,Madhya Pradesh,Rau,1,622,0,23,Unfurnished,1,1,2500694
+Indore,Madhya Pradesh,Rau,1,558,0,9,Semi-furnished,0,0,2088721
+Indore,Madhya Pradesh,Rau,2,1045,0,3,Semi-furnished,1,0,4441909
+Indore,Madhya Pradesh,Rau,2,931,0,9,Furnished,1,0,4056027
+Indore,Madhya Pradesh,Rau,3,2108,1,10,Semi-furnished,1,1,9691199
+Indore,Madhya Pradesh,Rau,3,1448,1,10,Semi-furnished,0,1,6099194
+Indore,Madhya Pradesh,Rau,4,2167,0,10,Semi-furnished,1,1,8254358
+Indore,Madhya Pradesh,Rau,2,1056,0,14,Semi-furnished,1,1,4185935
+Indore,Madhya Pradesh,Rau,2,1147,1,19,Unfurnished,1,1,5397650
+Indore,Madhya Pradesh,Rau,4,1946,1,24,Unfurnished,1,1,8414934
+Indore,Madhya Pradesh,Rau,2,1100,0,19,Furnished,0,0,4421123
+Indore,Madhya Pradesh,Rau,2,826,0,1,Semi-furnished,0,1,3600548
+Indore,Madhya Pradesh,Rau,2,1162,0,20,Semi-furnished,1,1,4985175
+Indore,Madhya Pradesh,Rau,2,1162,0,18,Semi-furnished,0,1,5112880
+Indore,Madhya Pradesh,Rau,3,1335,1,15,Furnished,1,1,6610726
+Indore,Madhya Pradesh,Rau,3,1632,1,24,Semi-furnished,1,1,7017977
+Indore,Madhya Pradesh,Rau,4,2112,1,8,Unfurnished,1,1,10193169
+Indore,Madhya Pradesh,Rau,3,1508,1,14,Furnished,1,1,7948087
+Indore,Madhya Pradesh,Rau,2,1209,0,11,Unfurnished,1,1,4762260
+Indore,Madhya Pradesh,Rau,2,950,0,7,Semi-furnished,1,1,4175770
+Indore,Madhya Pradesh,Rau,3,1572,0,20,Semi-furnished,0,1,5652895
+Indore,Madhya Pradesh,Rau,3,1284,0,10,Furnished,1,1,4878966
+Indore,Madhya Pradesh,Rau,1,632,1,17,Semi-furnished,1,1,2649962
+Indore,Madhya Pradesh,Rau,3,1588,0,24,Semi-furnished,0,0,7136205
+Indore,Madhya Pradesh,Rau,2,1009,1,23,Furnished,0,1,4765002
+Indore,Madhya Pradesh,Rau,2,1205,0,6,Unfurnished,1,1,4076884
+Indore,Madhya Pradesh,Rau,4,2372,0,3,Semi-furnished,1,0,10876606
+Indore,Madhya Pradesh,Rau,2,1032,0,3,Semi-furnished,1,1,4526050
+Indore,Madhya Pradesh,Rau,3,1489,0,24,Unfurnished,0,0,5325093
+Indore,Madhya Pradesh,Rau,3,1312,1,11,Semi-furnished,1,1,6288901
+Indore,Madhya Pradesh,Rau,1,686,0,20,Unfurnished,1,1,2365811
+Indore,Madhya Pradesh,Rau,3,1612,1,23,Unfurnished,1,1,6229083
+Indore,Madhya Pradesh,Rau,4,1847,1,12,Semi-furnished,0,0,10054296
+Indore,Madhya Pradesh,Rau,3,1827,1,21,Semi-furnished,0,0,9555587
+Indore,Madhya Pradesh,Rau,3,1602,1,12,Unfurnished,1,1,5835074
+Indore,Madhya Pradesh,Rau,2,1088,0,23,Semi-furnished,1,1,4251727
+Indore,Madhya Pradesh,Rau,1,832,0,16,Semi-furnished,1,1,3561896
+Indore,Madhya Pradesh,Rau,2,1108,0,3,Semi-furnished,1,0,4769203
+Indore,Madhya Pradesh,Rau,2,1191,0,9,Semi-furnished,1,0,4758681
+Indore,Madhya Pradesh,Rau,4,2092,0,10,Semi-furnished,1,0,8474566
+Indore,Madhya Pradesh,Palasia,4,2059,1,9,Semi-furnished,1,0,17760789
+Indore,Madhya Pradesh,Palasia,1,730,0,4,Furnished,0,1,4653286
+Indore,Madhya Pradesh,Palasia,3,1066,0,7,Unfurnished,1,0,7723065
+Indore,Madhya Pradesh,Palasia,4,2035,0,16,Furnished,1,0,14569924
+Indore,Madhya Pradesh,Palasia,2,847,1,11,Unfurnished,0,1,6590766
+Indore,Madhya Pradesh,Palasia,3,1490,0,19,Semi-furnished,1,0,10281867
+Indore,Madhya Pradesh,Palasia,2,1006,0,1,Semi-furnished,1,1,8974616
+Indore,Madhya Pradesh,Palasia,3,1318,0,13,Semi-furnished,1,0,10737909
+Indore,Madhya Pradesh,Palasia,2,1044,0,11,Unfurnished,0,0,6510469
+Indore,Madhya Pradesh,Palasia,2,1121,0,7,Semi-furnished,1,0,8846742
+Indore,Madhya Pradesh,Palasia,3,1431,0,0,Semi-furnished,1,1,11502901
+Indore,Madhya Pradesh,Palasia,2,1092,0,20,Semi-furnished,0,1,8082010
+Indore,Madhya Pradesh,Palasia,1,431,0,2,Semi-furnished,1,1,3221694
+Indore,Madhya Pradesh,Palasia,3,1256,1,19,Unfurnished,1,1,10877890
+Indore,Madhya Pradesh,Palasia,2,1209,1,23,Unfurnished,1,0,10531622
+Indore,Madhya Pradesh,Palasia,2,1151,1,13,Semi-furnished,1,0,11930404
+Indore,Madhya Pradesh,Palasia,4,2227,0,4,Semi-furnished,1,0,16055575
+Indore,Madhya Pradesh,Palasia,1,529,0,24,Unfurnished,1,1,4081262
+Indore,Madhya Pradesh,Palasia,2,920,0,23,Semi-furnished,0,1,7114563
+Indore,Madhya Pradesh,Palasia,3,1831,0,22,Unfurnished,1,0,12551179
+Indore,Madhya Pradesh,Palasia,2,1397,0,0,Furnished,1,1,11332961
+Indore,Madhya Pradesh,Palasia,3,1587,0,13,Semi-furnished,1,0,14295909
+Indore,Madhya Pradesh,Palasia,3,1412,1,14,Semi-furnished,1,1,11948806
+Indore,Madhya Pradesh,Palasia,3,1567,1,17,Unfurnished,1,0,13664474
+Indore,Madhya Pradesh,Palasia,2,1188,0,18,Unfurnished,1,1,8721481
+Indore,Madhya Pradesh,Palasia,2,979,1,25,Semi-furnished,0,1,8696253
+Indore,Madhya Pradesh,Palasia,3,1215,0,5,Unfurnished,1,1,9742456
+Indore,Madhya Pradesh,Palasia,3,1213,1,17,Semi-furnished,1,1,9893918
+Indore,Madhya Pradesh,Palasia,2,1237,0,1,Semi-furnished,1,0,10565150
+Indore,Madhya Pradesh,Palasia,2,720,0,21,Semi-furnished,1,1,5171930
+Indore,Madhya Pradesh,Palasia,2,1041,1,6,Semi-furnished,0,1,9598665
+Indore,Madhya Pradesh,Palasia,2,1037,0,21,Semi-furnished,0,1,8235240
+Indore,Madhya Pradesh,Palasia,2,1133,0,4,Furnished,1,1,8123830
+Indore,Madhya Pradesh,Palasia,2,1188,0,3,Semi-furnished,1,0,9941936
+Indore,Madhya Pradesh,Palasia,3,1184,0,6,Semi-furnished,1,0,9427136
+Indore,Madhya Pradesh,Palasia,3,1461,0,3,Semi-furnished,1,0,10572212
+Indore,Madhya Pradesh,Palasia,4,2439,0,24,Unfurnished,1,1,16998663
+Indore,Madhya Pradesh,Palasia,4,2350,0,8,Semi-furnished,1,1,18354983
+Indore,Madhya Pradesh,Palasia,2,1104,1,18,Semi-furnished,1,0,9369649
+Indore,Madhya Pradesh,Palasia,2,1084,0,0,Semi-furnished,1,1,7612391
+Indore,Madhya Pradesh,Palasia,4,1948,1,16,Unfurnished,0,1,16605057
+Indore,Madhya Pradesh,Palasia,3,1648,0,24,Semi-furnished,1,0,10222096
+Indore,Madhya Pradesh,Palasia,4,1661,0,19,Furnished,1,0,12671293
+Indore,Madhya Pradesh,Palasia,2,969,0,7,Furnished,0,1,8289860
+Indore,Madhya Pradesh,Palasia,3,1501,0,20,Semi-furnished,0,1,10855584
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1128,0,3,Unfurnished,0,0,5499555
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1063,1,23,Semi-furnished,1,1,6166053
+Visakhapatnam,Andhra Pradesh,Madhurawada,4,1911,0,15,Unfurnished,1,0,9166870
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,578,0,18,Semi-furnished,1,1,2577305
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1605,1,7,Semi-furnished,1,1,11046433
+Visakhapatnam,Andhra Pradesh,Madhurawada,4,1906,0,21,Semi-furnished,1,1,10182441
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1317,0,3,Unfurnished,1,1,6518372
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1323,1,12,Semi-furnished,1,0,7964118
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1850,0,2,Furnished,1,1,10911755
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,741,0,13,Unfurnished,1,0,3590444
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1065,0,17,Unfurnished,1,1,5114876
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1101,0,12,Unfurnished,1,0,4446758
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1228,0,4,Furnished,0,0,7102626
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1331,0,16,Unfurnished,1,0,6480340
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,599,0,10,Unfurnished,1,1,2549965
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1132,0,25,Furnished,0,1,5178575
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,826,1,21,Unfurnished,1,0,4507362
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1445,1,17,Semi-furnished,1,1,9023964
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,618,0,17,Furnished,0,1,3075659
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1181,0,7,Semi-furnished,1,1,5766303
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,750,0,20,Furnished,0,1,3988307
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1429,1,0,Unfurnished,1,0,9483384
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1299,0,6,Semi-furnished,0,1,6700572
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1207,1,15,Semi-furnished,1,1,6939257
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1190,1,11,Unfurnished,0,0,6547995
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1403,1,15,Furnished,0,0,7942048
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1471,0,13,Semi-furnished,1,0,7012046
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,861,0,21,Unfurnished,1,1,3969057
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1388,1,10,Furnished,1,1,10609031
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1254,1,19,Semi-furnished,0,1,6917541
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1023,1,3,Unfurnished,1,1,6828883
+Visakhapatnam,Andhra Pradesh,Madhurawada,4,2205,0,0,Furnished,1,0,13026152
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,758,0,8,Unfurnished,1,1,4072196
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,704,0,2,Semi-furnished,0,0,3016764
+Visakhapatnam,Andhra Pradesh,Madhurawada,1,660,1,3,Unfurnished,1,1,3873764
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1041,0,9,Semi-furnished,1,0,5268730
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,760,0,15,Furnished,1,1,4511554
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1014,1,1,Semi-furnished,1,0,6496734
+Visakhapatnam,Andhra Pradesh,Madhurawada,4,1965,0,24,Unfurnished,1,1,10635988
+Visakhapatnam,Andhra Pradesh,Madhurawada,4,2089,0,0,Unfurnished,1,0,9527420
+Visakhapatnam,Andhra Pradesh,Madhurawada,3,1581,1,23,Unfurnished,1,0,7036846
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1020,0,1,Semi-furnished,0,0,4428773
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1172,0,6,Semi-furnished,1,1,5661702
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1080,1,25,Unfurnished,1,1,5859752
+Visakhapatnam,Andhra Pradesh,Madhurawada,2,1168,0,6,Semi-furnished,1,1,6294244
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1110,0,5,Furnished,1,1,10297852
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1102,1,0,Semi-furnished,1,1,12325833
+Visakhapatnam,Andhra Pradesh,MVP Colony,1,555,0,24,Unfurnished,1,1,3732175
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,971,0,10,Semi-furnished,1,1,7284333
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1286,0,17,Semi-furnished,1,0,8825459
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,931,1,18,Semi-furnished,1,0,8987290
+Visakhapatnam,Andhra Pradesh,MVP Colony,1,704,0,12,Semi-furnished,1,1,5353121
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1594,1,25,Semi-furnished,1,1,15888831
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1090,0,7,Furnished,1,1,9144357
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1029,0,12,Unfurnished,1,1,8446088
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1030,0,12,Semi-furnished,1,1,8677968
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,996,0,8,Furnished,1,1,8104137
+Visakhapatnam,Andhra Pradesh,MVP Colony,1,595,1,13,Unfurnished,1,1,6361383
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,989,1,5,Unfurnished,1,0,10448894
+Visakhapatnam,Andhra Pradesh,MVP Colony,1,595,1,16,Semi-furnished,0,1,5965753
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1604,1,13,Unfurnished,1,0,15598274
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1102,1,19,Semi-furnished,1,1,11393785
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,2031,0,22,Semi-furnished,1,0,15180771
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1340,0,10,Semi-furnished,1,1,9699264
+Visakhapatnam,Andhra Pradesh,MVP Colony,1,679,0,23,Semi-furnished,1,0,5768177
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1319,0,4,Semi-furnished,1,1,10297427
+Visakhapatnam,Andhra Pradesh,MVP Colony,4,2384,0,1,Semi-furnished,1,1,22929828
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,826,1,3,Semi-furnished,0,1,8354779
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1525,0,7,Furnished,1,0,14362884
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1471,1,3,Unfurnished,1,0,13229772
+Visakhapatnam,Andhra Pradesh,MVP Colony,1,629,0,23,Semi-furnished,1,0,4476448
+Visakhapatnam,Andhra Pradesh,MVP Colony,1,640,1,6,Semi-furnished,1,1,6528135
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,979,0,12,Unfurnished,1,1,7360402
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1430,0,21,Furnished,0,1,11373764
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1546,1,12,Furnished,1,1,16100311
+Visakhapatnam,Andhra Pradesh,MVP Colony,4,2265,0,0,Semi-furnished,1,0,21680970
+Visakhapatnam,Andhra Pradesh,MVP Colony,4,2351,0,10,Furnished,1,1,21177237
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1528,0,5,Unfurnished,1,0,10880675
+Visakhapatnam,Andhra Pradesh,MVP Colony,1,618,0,10,Semi-furnished,1,0,4894629
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,976,0,8,Semi-furnished,0,1,7510877
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1298,0,21,Furnished,0,1,9397421
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1833,1,4,Semi-furnished,1,1,18571691
+Visakhapatnam,Andhra Pradesh,MVP Colony,4,2231,0,13,Unfurnished,1,1,17299550
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1400,0,16,Furnished,1,0,10094062
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,1009,1,23,Semi-furnished,1,0,9702036
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1945,0,22,Semi-furnished,1,0,15927205
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1794,1,0,Unfurnished,0,1,20581383
+Visakhapatnam,Andhra Pradesh,MVP Colony,2,759,1,16,Semi-furnished,0,0,7201639
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1678,0,19,Unfurnished,1,1,12261454
+Visakhapatnam,Andhra Pradesh,MVP Colony,3,1567,1,7,Unfurnished,1,1,15641693
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1138,0,23,Semi-furnished,1,1,5716620
+Visakhapatnam,Andhra Pradesh,Gajuwaka,4,2306,0,21,Semi-furnished,1,1,10408503
+Visakhapatnam,Andhra Pradesh,Gajuwaka,4,2339,0,0,Furnished,0,0,10954469
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1439,0,15,Furnished,0,0,6465144
+Visakhapatnam,Andhra Pradesh,Gajuwaka,1,734,1,24,Furnished,1,0,3260537
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1276,0,16,Semi-furnished,1,0,5797774
+Visakhapatnam,Andhra Pradesh,Gajuwaka,4,1687,0,18,Semi-furnished,1,1,6298491
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1128,0,19,Furnished,1,1,4811372
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1089,0,23,Semi-furnished,1,1,4058231
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1111,0,13,Semi-furnished,1,1,4798171
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1414,0,3,Unfurnished,1,0,6532916
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1241,1,13,Semi-furnished,1,0,5882302
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1060,0,18,Semi-furnished,1,0,4397718
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1043,0,17,Unfurnished,1,1,3904044
+Visakhapatnam,Andhra Pradesh,Gajuwaka,1,716,0,13,Furnished,0,0,3269812
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,960,0,10,Furnished,0,1,4429727
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1306,1,16,Furnished,1,0,7049700
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1330,1,19,Semi-furnished,1,1,6404516
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1652,1,7,Unfurnished,0,1,7478544
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1380,1,4,Furnished,1,1,8028131
+Visakhapatnam,Andhra Pradesh,Gajuwaka,1,498,1,19,Furnished,1,0,2573503
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1526,0,11,Semi-furnished,1,1,6176644
+Visakhapatnam,Andhra Pradesh,Gajuwaka,1,552,0,3,Unfurnished,1,0,2153565
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1271,0,12,Unfurnished,0,0,4512985
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1624,0,21,Unfurnished,0,1,6127605
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1058,1,3,Unfurnished,1,0,4911819
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1525,1,22,Semi-furnished,1,0,6046967
+Visakhapatnam,Andhra Pradesh,Gajuwaka,1,577,0,20,Semi-furnished,1,1,1933463
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1463,0,2,Unfurnished,1,0,5247499
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,956,1,24,Semi-furnished,1,0,4726571
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,958,0,20,Furnished,1,1,3971035
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1162,1,14,Semi-furnished,1,1,6648018
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,956,0,17,Semi-furnished,0,1,4045956
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1262,0,10,Semi-furnished,0,0,4483473
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,902,0,7,Semi-furnished,1,1,3549370
+Visakhapatnam,Andhra Pradesh,Gajuwaka,1,696,0,9,Furnished,1,1,3060491
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,932,1,12,Unfurnished,1,0,4237690
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1243,0,20,Unfurnished,1,0,4954037
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1310,0,19,Unfurnished,1,0,4671072
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1063,0,1,Furnished,1,1,4915431
+Visakhapatnam,Andhra Pradesh,Gajuwaka,2,1097,0,22,Unfurnished,0,1,4835822
+Visakhapatnam,Andhra Pradesh,Gajuwaka,4,2086,0,16,Semi-furnished,1,1,9917893
+Visakhapatnam,Andhra Pradesh,Gajuwaka,3,1283,0,12,Semi-furnished,1,1,6405540
+Visakhapatnam,Andhra Pradesh,Gajuwaka,1,696,1,1,Semi-furnished,1,0,3746063
+Visakhapatnam,Andhra Pradesh,Gajuwaka,1,489,0,10,Unfurnished,1,1,2175150
+Bhubaneswar,Odisha,Patia,2,1016,1,5,Semi-furnished,0,0,7108890
+Bhubaneswar,Odisha,Patia,2,1176,0,9,Unfurnished,1,1,6601159
+Bhubaneswar,Odisha,Patia,4,2195,0,16,Unfurnished,1,1,12634849
+Bhubaneswar,Odisha,Patia,4,1871,1,3,Furnished,0,0,15592995
+Bhubaneswar,Odisha,Patia,4,2325,0,24,Semi-furnished,1,1,11629994
+Bhubaneswar,Odisha,Patia,2,1312,0,21,Unfurnished,1,1,7214391
+Bhubaneswar,Odisha,Patia,1,862,0,18,Furnished,0,0,5214172
+Bhubaneswar,Odisha,Patia,2,1155,1,20,Unfurnished,1,0,7508603
+Bhubaneswar,Odisha,Patia,2,997,1,5,Furnished,1,1,8256748
+Bhubaneswar,Odisha,Patia,2,1097,0,2,Furnished,1,0,6919324
+Bhubaneswar,Odisha,Patia,2,1080,0,1,Unfurnished,1,1,7369697
+Bhubaneswar,Odisha,Patia,2,1155,0,25,Unfurnished,0,1,6465221
+Bhubaneswar,Odisha,Patia,3,1524,1,21,Unfurnished,1,1,10950579
+Bhubaneswar,Odisha,Patia,2,1134,0,24,Semi-furnished,1,0,7539468
+Bhubaneswar,Odisha,Patia,3,1446,1,19,Furnished,1,1,12463308
+Bhubaneswar,Odisha,Patia,4,2313,1,11,Unfurnished,1,1,15641039
+Bhubaneswar,Odisha,Patia,3,1428,1,0,Unfurnished,1,0,10950467
+Bhubaneswar,Odisha,Patia,3,1472,1,9,Unfurnished,1,0,10395647
+Bhubaneswar,Odisha,Patia,4,1964,1,7,Semi-furnished,0,1,15121679
+Bhubaneswar,Odisha,Patia,3,1597,0,9,Furnished,1,1,11622676
+Bhubaneswar,Odisha,Patia,2,1038,1,21,Furnished,1,0,8065583
+Bhubaneswar,Odisha,Patia,1,718,0,19,Semi-furnished,1,0,4531688
+Bhubaneswar,Odisha,Patia,3,1568,1,0,Unfurnished,1,0,11214657
+Bhubaneswar,Odisha,Patia,2,1115,1,25,Unfurnished,1,1,8948222
+Bhubaneswar,Odisha,Patia,2,1132,0,0,Furnished,1,1,8184494
+Bhubaneswar,Odisha,Patia,2,1160,1,16,Furnished,1,1,10267364
+Bhubaneswar,Odisha,Patia,2,1045,1,13,Unfurnished,0,1,8490479
+Bhubaneswar,Odisha,Patia,3,1524,1,10,Semi-furnished,1,1,11107415
+Bhubaneswar,Odisha,Patia,3,1599,0,16,Unfurnished,1,0,10495541
+Bhubaneswar,Odisha,Patia,3,1301,1,13,Semi-furnished,1,0,9906058
+Bhubaneswar,Odisha,Patia,1,655,0,10,Semi-furnished,0,0,4186009
+Bhubaneswar,Odisha,Patia,2,899,0,8,Semi-furnished,1,0,5385126
+Bhubaneswar,Odisha,Patia,3,1986,1,13,Semi-furnished,1,1,14157525
+Bhubaneswar,Odisha,Patia,3,1435,1,1,Semi-furnished,1,0,9580541
+Bhubaneswar,Odisha,Patia,2,1082,1,4,Unfurnished,1,1,9223829
+Bhubaneswar,Odisha,Patia,2,858,0,4,Furnished,0,1,4906486
+Bhubaneswar,Odisha,Patia,1,652,1,17,Furnished,1,1,4886975
+Bhubaneswar,Odisha,Patia,1,712,0,20,Semi-furnished,1,0,4047398
+Bhubaneswar,Odisha,Patia,1,618,1,0,Furnished,0,1,4328183
+Bhubaneswar,Odisha,Patia,3,1756,0,17,Semi-furnished,1,0,9927726
+Bhubaneswar,Odisha,Patia,3,1304,0,0,Furnished,1,1,9608986
+Bhubaneswar,Odisha,Patia,3,1546,0,13,Furnished,0,1,9388116
+Bhubaneswar,Odisha,Patia,3,1545,1,25,Unfurnished,1,1,8995576
+Bhubaneswar,Odisha,Patia,1,527,0,24,Unfurnished,1,0,2814167
+Bhubaneswar,Odisha,Patia,2,1156,0,15,Semi-furnished,1,1,6609641
+Bhubaneswar,Odisha,Khandagiri,3,1617,0,20,Unfurnished,1,1,8170732
+Bhubaneswar,Odisha,Khandagiri,3,1453,0,11,Unfurnished,1,1,7107556
+Bhubaneswar,Odisha,Khandagiri,2,1144,0,12,Unfurnished,1,1,5743914
+Bhubaneswar,Odisha,Khandagiri,3,1843,1,8,Unfurnished,1,1,10813313
+Bhubaneswar,Odisha,Khandagiri,1,662,1,18,Furnished,0,0,3439309
+Bhubaneswar,Odisha,Khandagiri,2,1170,0,18,Semi-furnished,1,1,5344084
+Bhubaneswar,Odisha,Khandagiri,2,1237,0,19,Semi-furnished,1,1,5640936
+Bhubaneswar,Odisha,Khandagiri,1,504,0,0,Unfurnished,1,0,2398468
+Bhubaneswar,Odisha,Khandagiri,1,560,0,16,Semi-furnished,1,0,2646680
+Bhubaneswar,Odisha,Khandagiri,3,1886,0,12,Unfurnished,1,1,8543046
+Bhubaneswar,Odisha,Khandagiri,1,617,0,12,Unfurnished,1,1,3128446
+Bhubaneswar,Odisha,Khandagiri,1,554,1,18,Unfurnished,1,1,3631434
+Bhubaneswar,Odisha,Khandagiri,4,2110,1,4,Unfurnished,1,0,11302472
+Bhubaneswar,Odisha,Khandagiri,4,1650,0,0,Unfurnished,1,1,8509505
+Bhubaneswar,Odisha,Khandagiri,3,1526,1,5,Semi-furnished,1,1,9878457
+Bhubaneswar,Odisha,Khandagiri,1,680,1,14,Unfurnished,1,1,4011063
+Bhubaneswar,Odisha,Khandagiri,3,1853,0,23,Unfurnished,1,1,8178655
+Bhubaneswar,Odisha,Khandagiri,3,1414,1,21,Furnished,1,0,7264683
+Bhubaneswar,Odisha,Khandagiri,1,628,0,22,Semi-furnished,1,1,2814096
+Bhubaneswar,Odisha,Khandagiri,1,598,1,10,Furnished,1,0,3573003
+Bhubaneswar,Odisha,Khandagiri,2,1013,1,11,Semi-furnished,1,1,5482042
+Bhubaneswar,Odisha,Khandagiri,2,1173,0,6,Furnished,1,1,6254092
+Bhubaneswar,Odisha,Khandagiri,1,698,0,18,Unfurnished,1,0,2720907
+Bhubaneswar,Odisha,Khandagiri,2,870,0,8,Unfurnished,1,1,4595606
+Bhubaneswar,Odisha,Khandagiri,3,1484,0,14,Unfurnished,1,1,7366165
+Bhubaneswar,Odisha,Khandagiri,3,1561,0,13,Semi-furnished,0,1,7349956
+Bhubaneswar,Odisha,Khandagiri,3,1575,1,1,Semi-furnished,1,0,9423005
+Bhubaneswar,Odisha,Khandagiri,3,1470,0,10,Unfurnished,0,1,7580241
+Bhubaneswar,Odisha,Khandagiri,2,737,1,21,Semi-furnished,0,1,4574498
+Bhubaneswar,Odisha,Khandagiri,1,685,0,2,Furnished,0,0,3773412
+Bhubaneswar,Odisha,Khandagiri,4,1648,1,24,Semi-furnished,1,1,8664245
+Bhubaneswar,Odisha,Khandagiri,3,1547,0,7,Furnished,1,1,8350601
+Bhubaneswar,Odisha,Khandagiri,1,761,0,17,Semi-furnished,1,1,4010464
+Bhubaneswar,Odisha,Khandagiri,2,965,0,0,Furnished,0,1,4869611
+Bhubaneswar,Odisha,Khandagiri,2,1074,1,23,Unfurnished,0,0,5788793
+Bhubaneswar,Odisha,Khandagiri,2,825,1,2,Semi-furnished,1,0,4632269
+Bhubaneswar,Odisha,Khandagiri,1,797,0,25,Semi-furnished,0,0,3429283
+Bhubaneswar,Odisha,Khandagiri,1,570,0,9,Unfurnished,0,1,3284418
+Bhubaneswar,Odisha,Khandagiri,1,558,0,10,Unfurnished,1,1,2140758
+Bhubaneswar,Odisha,Khandagiri,3,1409,0,19,Semi-furnished,1,1,6905642
+Bhubaneswar,Odisha,Khandagiri,4,2451,0,23,Semi-furnished,1,1,10380969
+Bhubaneswar,Odisha,Khandagiri,1,596,1,23,Semi-furnished,1,0,2915357
+Bhubaneswar,Odisha,Khandagiri,3,1625,0,2,Unfurnished,1,1,7548291
+Bhubaneswar,Odisha,Khandagiri,2,900,0,15,Unfurnished,0,1,4297871
+Bhubaneswar,Odisha,Khandagiri,3,1373,1,13,Furnished,1,0,9327348
+Bhubaneswar,Odisha,Nayapalli,2,1081,0,22,Semi-furnished,1,0,6421310
+Bhubaneswar,Odisha,Nayapalli,2,1125,0,14,Semi-furnished,1,0,8143814
+Bhubaneswar,Odisha,Nayapalli,3,1499,0,22,Unfurnished,1,0,8457604
+Bhubaneswar,Odisha,Nayapalli,3,1761,1,13,Semi-furnished,1,1,14897857
+Bhubaneswar,Odisha,Nayapalli,3,1518,1,25,Furnished,1,0,12263837
+Bhubaneswar,Odisha,Nayapalli,2,1226,0,12,Semi-furnished,1,0,8931838
+Bhubaneswar,Odisha,Nayapalli,2,1267,0,10,Semi-furnished,1,1,9930165
+Bhubaneswar,Odisha,Nayapalli,2,967,1,9,Unfurnished,1,1,6682151
+Bhubaneswar,Odisha,Nayapalli,1,678,0,1,Semi-furnished,1,0,5245434
+Bhubaneswar,Odisha,Nayapalli,3,1586,1,1,Unfurnished,0,1,12891034
+Bhubaneswar,Odisha,Nayapalli,2,949,1,10,Unfurnished,1,0,6745022
+Bhubaneswar,Odisha,Nayapalli,2,1218,0,1,Unfurnished,1,0,8407125
+Bhubaneswar,Odisha,Nayapalli,2,1105,1,19,Semi-furnished,1,0,9109016
+Bhubaneswar,Odisha,Nayapalli,3,1723,0,10,Semi-furnished,1,1,12118756
+Bhubaneswar,Odisha,Nayapalli,3,1658,1,9,Furnished,1,0,15952048
+Bhubaneswar,Odisha,Nayapalli,3,1483,0,22,Furnished,1,1,9901549
+Bhubaneswar,Odisha,Nayapalli,1,539,1,7,Unfurnished,0,1,4777033
+Bhubaneswar,Odisha,Nayapalli,3,1352,1,13,Semi-furnished,1,1,11367094
+Bhubaneswar,Odisha,Nayapalli,2,1025,1,8,Unfurnished,1,0,9470194
+Bhubaneswar,Odisha,Nayapalli,2,1155,0,6,Furnished,1,1,8199189
+Bhubaneswar,Odisha,Nayapalli,3,1617,0,0,Semi-furnished,1,1,12828474
+Bhubaneswar,Odisha,Nayapalli,1,784,1,24,Semi-furnished,1,1,6708527
+Bhubaneswar,Odisha,Nayapalli,3,1460,0,3,Furnished,1,1,11034374
+Bhubaneswar,Odisha,Nayapalli,2,1280,0,20,Semi-furnished,1,1,8837878
+Bhubaneswar,Odisha,Nayapalli,4,1905,0,17,Unfurnished,1,0,13064483
+Bhubaneswar,Odisha,Nayapalli,1,471,1,6,Unfurnished,1,1,3539635
+Bhubaneswar,Odisha,Nayapalli,3,1253,1,5,Unfurnished,1,1,12453791
+Bhubaneswar,Odisha,Nayapalli,3,1386,1,0,Semi-furnished,0,0,11114152
+Bhubaneswar,Odisha,Nayapalli,3,1245,0,11,Semi-furnished,1,0,8424576
+Bhubaneswar,Odisha,Nayapalli,2,1024,1,11,Unfurnished,1,1,8539316
+Bhubaneswar,Odisha,Nayapalli,2,1222,1,14,Semi-furnished,1,0,11035610
+Bhubaneswar,Odisha,Nayapalli,1,835,0,23,Unfurnished,0,0,4903405
+Bhubaneswar,Odisha,Nayapalli,2,1001,0,16,Semi-furnished,1,0,7726696
+Bhubaneswar,Odisha,Nayapalli,3,1891,0,11,Unfurnished,0,1,9852513
+Bhubaneswar,Odisha,Nayapalli,1,626,0,22,Semi-furnished,1,1,3641432
+Bhubaneswar,Odisha,Nayapalli,4,2286,1,7,Furnished,1,0,21517748
+Bhubaneswar,Odisha,Nayapalli,3,1716,1,25,Semi-furnished,1,1,14625199
+Bhubaneswar,Odisha,Nayapalli,2,970,0,2,Unfurnished,0,1,5978426
+Bhubaneswar,Odisha,Nayapalli,2,1229,1,10,Unfurnished,0,1,10958677
+Bhubaneswar,Odisha,Nayapalli,3,1337,0,0,Semi-furnished,0,1,9150958
+Bhubaneswar,Odisha,Nayapalli,3,1905,0,10,Semi-furnished,1,1,12843641
+Bhubaneswar,Odisha,Nayapalli,3,1672,1,16,Furnished,0,0,15116767
+Bhubaneswar,Odisha,Nayapalli,2,783,0,0,Unfurnished,1,1,5926755
+Bhubaneswar,Odisha,Nayapalli,4,2521,0,0,Unfurnished,1,0,17462341
+Bhubaneswar,Odisha,Nayapalli,3,1489,1,7,Semi-furnished,1,1,15679786
